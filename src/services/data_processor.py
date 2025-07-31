@@ -605,6 +605,12 @@ class DataProcessor:
                     query = query.filter(BudgetDB.department == filters['department'])
                 if filters.get('category'):
                     query = query.filter(BudgetDB.category == filters['category'])
+                if filters.get('currency'):
+                    query = query.filter(BudgetDB.currency == filters['currency'])
+                if filters.get('start_date'):
+                    query = query.filter(BudgetDB.period_start >= filters['start_date'])
+                if filters.get('end_date'):
+                    query = query.filter(BudgetDB.period_end <= filters['end_date'])
             
             budgets = query.order_by(BudgetDB.created_at.desc()).offset(offset).limit(limit).all()
             
@@ -617,6 +623,7 @@ class DataProcessor:
                     'period_end': budget.period_end.strftime('%Y-%m-%d'),
                     'allocated_amount': float(budget.allocated_amount),
                     'currency': getattr(budget, 'currency', 'USD'),
+                    'spent_amount': float(getattr(budget, 'spent_amount', 0)),
                     'created_at': budget.created_at.isoformat() if budget.created_at else None
                 }
                 for budget in budgets

@@ -2,15 +2,17 @@
 
 from fastapi import FastAPI, HTTPException, Query, Depends, UploadFile, File
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.responses import JSONResponse
+from fastapi.responses import JSONResponse, StreamingResponse
 from pydantic import BaseModel, validator
 from typing import List, Dict, Optional, Union
 from datetime import datetime, date
-from pathlib import Path
 import json
 import logging
 import tempfile
 import os
+import pandas as pd
+from io import BytesIO, StringIO
+from pathlib import Path
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
@@ -667,6 +669,271 @@ async def get_recent_alerts(
     except Exception as e:
         logger.error(f"Recent alerts error: {e}")
         return {"alerts": [], "total_anomalies": 0, "anomaly_rate": 0}
+
+# Export endpoints
+@app.get("/export/expenses")
+async def export_expenses(
+    format: str = Query("csv", regex="^(csv|excel|json)$"),
+    currency: Optional[str] = None,
+    department: Optional[str] = None,
+    category: Optional[str] = None,
+    start_date: Optional[str] = None,
+    end_date: Optional[str] = None,
+    min_amount: Optional[float] = None,
+    max_amount: Optional[float] = None,
+    vendor: Optional[str] = None,
+    is_recurring: Optional[bool] = None,
+    processor: DataProcessor = Depends(get_data_processor)
+):
+    """Export expenses data with comprehensive filtering options."""
+    try:
+        # Build filters
+        filters = {}
+        if currency:
+            filters['currency'] = currency
+        if department:
+            filters['department'] = department
+        if category:
+            filters['category'] = category
+        if start_date:
+            filters['start_date'] = start_date
+        if end_date:
+            filters['end_date'] = end_date
+        if vendor:
+            filters['vendor'] = vendor
+        if is_recurring is not None:
+            filters['is_recurring'] = is_recurring
+        
+        # Get filtered expenses (remove limit for export)
+        expenses = processor.get_expenses(limit=10000, filters=filters)
+        
+        # Apply amount filtering if specified
+        if min_amount is not None or max_amount is not None:
+            filtered_expenses = []
+            for expense in expenses:
+                amount = expense.get('amount', 0)
+                if min_amount is not None and amount < min_amount:
+                    continue
+                if max_amount is not None and amount > max_amount:
+                    continue
+                filtered_expenses.append(expense)
+            expenses = filtered_expenses
+        
+        # Generate filename with timestamp and filters
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        filter_parts = []
+        if currency:
+            filter_parts.append(currency)
+        if department:
+            filter_parts.append(department.replace(" ", ""))
+        if start_date:
+            filter_parts.append(f"from{start_date}")
+        
+        filter_suffix = "_" + "_".join(filter_parts) if filter_parts else ""
+        filename = f"expenses{filter_suffix}_{timestamp}"
+        
+        if format == "csv":
+            return export_to_csv(expenses, f"{filename}.csv")
+        elif format == "excel":
+            return export_to_excel(expenses, f"{filename}.xlsx", "Expenses")
+        elif format == "json":
+            return export_to_json(expenses, f"{filename}.json")
+            
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Export failed: {str(e)}")
+
+@app.get("/export/budgets")
+async def export_budgets(
+    format: str = Query("csv", regex="^(csv|excel|json)$"),
+    currency: Optional[str] = None,
+    department: Optional[str] = None,
+    category: Optional[str] = None,
+    start_date: Optional[str] = None,
+    end_date: Optional[str] = None,
+    processor: DataProcessor = Depends(get_data_processor)
+):
+    """Export budgets data with filtering options."""
+    try:
+        # Build filters
+        filters = {}
+        if currency:
+            filters['currency'] = currency
+        if department:
+            filters['department'] = department
+        if category:
+            filters['category'] = category
+        if start_date:
+            filters['start_date'] = start_date
+        if end_date:
+            filters['end_date'] = end_date
+        
+        # Get filtered budgets
+        budgets = processor.get_budgets(limit=10000, filters=filters)
+        
+        # Generate filename
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        filter_parts = []
+        if currency:
+            filter_parts.append(currency)
+        if department:
+            filter_parts.append(department.replace(" ", ""))
+        
+        filter_suffix = "_" + "_".join(filter_parts) if filter_parts else ""
+        filename = f"budgets{filter_suffix}_{timestamp}"
+        
+        if format == "csv":
+            return export_to_csv(budgets, f"{filename}.csv")
+        elif format == "excel":
+            return export_to_excel(budgets, f"{filename}.xlsx", "Budgets")
+        elif format == "json":
+            return export_to_json(budgets, f"{filename}.json")
+            
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Export failed: {str(e)}")
+
+@app.get("/export/combined")
+async def export_combined_report(
+    format: str = Query("excel", regex="^(excel|json)$"),
+    currency: Optional[str] = None,
+    department: Optional[str] = None,
+    start_date: Optional[str] = None,
+    end_date: Optional[str] = None,
+    processor: DataProcessor = Depends(get_data_processor)
+):
+    """Export combined expenses and budgets report."""
+    try:
+        # Build filters
+        filters = {}
+        if currency:
+            filters['currency'] = currency
+        if department:
+            filters['department'] = department
+        if start_date:
+            filters['start_date'] = start_date
+        if end_date:
+            filters['end_date'] = end_date
+        
+        # Get filtered data
+        expenses = processor.get_expenses(limit=10000, filters=filters)
+        budgets = processor.get_budgets(limit=10000, filters=filters)
+        
+        # Generate filename
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        filter_parts = []
+        if currency:
+            filter_parts.append(currency)
+        if department:
+            filter_parts.append(department.replace(" ", ""))
+        
+        filter_suffix = "_" + "_".join(filter_parts) if filter_parts else ""
+        filename = f"combined_report{filter_suffix}_{timestamp}"
+        
+        if format == "excel":
+            return export_combined_to_excel(expenses, budgets, f"{filename}.xlsx")
+        elif format == "json":
+            combined_data = {"expenses": expenses, "budgets": budgets}
+            return export_to_json(combined_data, f"{filename}.json")
+            
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Export failed: {str(e)}")
+
+def export_to_csv(data, filename):
+    """Export data to CSV format."""
+    if not data:
+        raise HTTPException(status_code=404, detail="No data found matching the criteria")
+    
+    df = pd.DataFrame(data)
+    output = StringIO()
+    df.to_csv(output, index=False)
+    output.seek(0)
+    
+    return StreamingResponse(
+        iter([output.getvalue()]),
+        media_type="text/csv",
+        headers={"Content-Disposition": f"attachment; filename={filename}"}
+    )
+
+def export_to_excel(data, filename, sheet_name="Data"):
+    """Export data to Excel format."""
+    if not data:
+        raise HTTPException(status_code=404, detail="No data found matching the criteria")
+    
+    df = pd.DataFrame(data)
+    output = BytesIO()
+    
+    with pd.ExcelWriter(output, engine='openpyxl') as writer:
+        df.to_excel(writer, sheet_name=sheet_name, index=False)
+        
+        # Auto-adjust column widths
+        worksheet = writer.sheets[sheet_name]
+        for column in worksheet.columns:
+            max_length = 0
+            column_letter = column[0].column_letter
+            for cell in column:
+                try:
+                    if len(str(cell.value)) > max_length:
+                        max_length = len(str(cell.value))
+                except:
+                    pass
+            adjusted_width = min(max_length + 2, 50)
+            worksheet.column_dimensions[column_letter].width = adjusted_width
+    
+    output.seek(0)
+    
+    return StreamingResponse(
+        iter([output.getvalue()]),
+        media_type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        headers={"Content-Disposition": f"attachment; filename={filename}"}
+    )
+
+def export_combined_to_excel(expenses, budgets, filename):
+    """Export combined expenses and budgets to Excel with multiple sheets."""
+    output = BytesIO()
+    
+    with pd.ExcelWriter(output, engine='openpyxl') as writer:
+        if expenses:
+            df_expenses = pd.DataFrame(expenses)
+            df_expenses.to_excel(writer, sheet_name='Expenses', index=False)
+        
+        if budgets:
+            df_budgets = pd.DataFrame(budgets)
+            df_budgets.to_excel(writer, sheet_name='Budgets', index=False)
+        
+        # Auto-adjust column widths for both sheets
+        for sheet_name in writer.sheets:
+            worksheet = writer.sheets[sheet_name]
+            for column in worksheet.columns:
+                max_length = 0
+                column_letter = column[0].column_letter
+                for cell in column:
+                    try:
+                        if len(str(cell.value)) > max_length:
+                            max_length = len(str(cell.value))
+                    except:
+                        pass
+                adjusted_width = min(max_length + 2, 50)
+                worksheet.column_dimensions[column_letter].width = adjusted_width
+    
+    output.seek(0)
+    
+    return StreamingResponse(
+        iter([output.getvalue()]),
+        media_type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        headers={"Content-Disposition": f"attachment; filename={filename}"}
+    )
+
+def export_to_json(data, filename):
+    """Export data to JSON format."""
+    if not data:
+        raise HTTPException(status_code=404, detail="No data found matching the criteria")
+    
+    json_output = json.dumps(data, indent=2, default=str)
+    
+    return StreamingResponse(
+        iter([json_output]),
+        media_type="application/json",
+        headers={"Content-Disposition": f"attachment; filename={filename}"}
+    )
 
 # Error handlers
 @app.exception_handler(404)

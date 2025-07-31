@@ -1209,6 +1209,352 @@ def show_data_management_page():
         
         st.markdown('</div>', unsafe_allow_html=True)
 
+def show_download_data_page():
+    """Display comprehensive data download features with filtering and preview."""
+    st.markdown('''
+    <div class="main-header">
+        <h1>Download Data</h1>
+        <p>Export your financial data with advanced filtering options</p>
+    </div>
+    ''', unsafe_allow_html=True)
+    
+    # Initialize session state for filters
+    if 'download_filters' not in st.session_state:
+        st.session_state.download_filters = {}
+    
+    # Main container
+    st.markdown('''
+    <div class="section-container">
+        <div class="section-header">
+            <span class="icon">DOWNLOAD</span>Data Export Center
+        </div>
+    ''', unsafe_allow_html=True)
+    
+    # Step 1: Data Type Selection
+    st.markdown("### Step 1: Select Data Type")
+    data_type = st.radio(
+        "What data would you like to download?",
+        ["Expenses Only", "Budgets Only", "Combined Report"],
+        horizontal=True
+    )
+    
+    st.markdown("---")
+    
+    # Step 2: Filter Options
+    st.markdown("### Step 2: Filter Your Data")
+    
+    col1, col2, col3 = st.columns(3)
+    
+    with col1:
+        st.markdown("**Date Filters**")
+        date_filter_type = st.selectbox(
+            "Date Range",
+            ["All Time", "Last 30 Days", "Last 3 Months", "This Year", "Custom Range"]
+        )
+        
+        start_date = None
+        end_date = None
+        if date_filter_type == "Custom Range":
+            start_date = st.date_input("From Date")
+            end_date = st.date_input("To Date")
+        elif date_filter_type == "Last 30 Days":
+            from datetime import datetime, timedelta
+            end_date = datetime.now().date()
+            start_date = end_date - timedelta(days=30)
+        elif date_filter_type == "Last 3 Months":
+            from datetime import datetime, timedelta
+            end_date = datetime.now().date()
+            start_date = end_date - timedelta(days=90)
+        elif date_filter_type == "This Year":
+            from datetime import datetime
+            end_date = datetime.now().date()
+            start_date = datetime(datetime.now().year, 1, 1).date()
+    
+    with col2:
+        st.markdown("**Currency & Location**")
+        
+        # Currency filter
+        currency_options = {
+            "ALL": "All Currencies",
+            "USD": "US Dollar (USD)",
+            "INR": "Indian Rupee (INR)", 
+            "CAD": "Canadian Dollar (CAD)",
+            "TRY": "Turkish Lira (TRY)"
+        }
+        
+        selected_currencies = st.multiselect(
+            "Currencies",
+            options=list(currency_options.keys()),
+            default=["ALL"],
+            format_func=lambda x: currency_options[x]
+        )
+        
+        # Department filter
+        departments = [
+            "All Departments", "Engineering", "Marketing", "Sales", 
+            "Operations", "HR", "Finance", "Legal"
+        ]
+        selected_departments = st.multiselect(
+            "Departments",
+            options=departments,
+            default=["All Departments"]
+        )
+        
+        # Category filter
+        categories = [
+            "All Categories", "Software & Tools", "Marketing & Advertising",
+            "Travel & Transport", "Office Supplies", "Equipment & Hardware",
+            "Professional Services", "Utilities & Internet", "Training & Education",
+            "Entertainment & Events", "Other"
+        ]
+        selected_categories = st.multiselect(
+            "Categories", 
+            options=categories,
+            default=["All Categories"]
+        )
+    
+    with col3:
+        st.markdown("**Amount & Advanced**")
+        
+        # Amount range
+        use_amount_filter = st.checkbox("Filter by Amount Range")
+        min_amount = None
+        max_amount = None
+        
+        if use_amount_filter:
+            amount_range = st.slider(
+                "Amount Range",
+                min_value=0,
+                max_value=10000,
+                value=(0, 10000),
+                step=50
+            )
+            min_amount = amount_range[0] if amount_range[0] > 0 else None
+            max_amount = amount_range[1] if amount_range[1] < 10000 else None
+        
+        # Vendor filter
+        vendor_filter = st.text_input("Vendor Contains (optional)", placeholder="e.g., Microsoft, Amazon")
+        
+        # Recurring filter (for expenses)
+        if data_type == "Expenses Only":
+            recurring_filter = st.selectbox(
+                "Expense Type",
+                ["All Expenses", "Recurring Only", "One-time Only"]
+            )
+    
+    st.markdown("---")
+    
+    # Step 3: Preview & Format Selection
+    st.markdown("### Step 3: Preview & Download")
+    
+    col1, col2 = st.columns([2, 1])
+    
+    with col1:
+        # Preview button
+        if st.button("Preview Data", use_container_width=True):
+            with st.spinner("Loading preview..."):
+                try:
+                    # Build API parameters
+                    params = {}
+                    
+                    # Add currency filter
+                    if "ALL" not in selected_currencies and selected_currencies:
+                        if len(selected_currencies) == 1:
+                            params['currency'] = selected_currencies[0]
+                    
+                    # Add department filter
+                    if "All Departments" not in selected_departments and selected_departments:
+                        if len(selected_departments) == 1:
+                            params['department'] = selected_departments[0]
+                    
+                    # Add category filter  
+                    if "All Categories" not in selected_categories and selected_categories:
+                        if len(selected_categories) == 1:
+                            params['category'] = selected_categories[0]
+                    
+                    # Add date filters
+                    if start_date:
+                        params['start_date'] = start_date.strftime('%Y-%m-%d')
+                    if end_date:
+                        params['end_date'] = end_date.strftime('%Y-%m-%d')
+                    
+                    # Add amount filters
+                    if min_amount:
+                        params['min_amount'] = min_amount
+                    if max_amount:
+                        params['max_amount'] = max_amount
+                    
+                    # Add vendor filter
+                    if vendor_filter:
+                        params['vendor'] = vendor_filter
+                    
+                    # Add recurring filter
+                    if data_type == "Expenses Only" and recurring_filter != "All Expenses":
+                        params['is_recurring'] = recurring_filter == "Recurring Only"
+                    
+                    # Make API call for preview
+                    if data_type == "Expenses Only":
+                        response = requests.get(f"{API_BASE_URL}/expenses", 
+                                              params={**params, 'limit': 10})
+                    elif data_type == "Budgets Only":
+                        response = requests.get(f"{API_BASE_URL}/budgets", 
+                                              params={**params, 'limit': 10})
+                    else:  # Combined
+                        # For combined, we'll get both
+                        exp_response = requests.get(f"{API_BASE_URL}/expenses", 
+                                                  params={**params, 'limit': 5})
+                        bud_response = requests.get(f"{API_BASE_URL}/budgets", 
+                                                  params={**params, 'limit': 5})
+                    
+                    if data_type != "Combined Report":
+                        if response.status_code == 200:
+                            data = response.json()
+                            if data:
+                                st.success(f"Found {len(data)} records matching your criteria")
+                                
+                                # Show preview table
+                                st.markdown("**Preview (First 10 records):**")
+                                df = pd.DataFrame(data)
+                                st.dataframe(df, use_container_width=True)
+                                
+                                # Store preview data for download
+                                st.session_state.preview_data = data
+                                st.session_state.preview_params = params
+                                
+                            else:
+                                st.warning("No data found matching your criteria. Try adjusting your filters.")
+                        else:
+                            st.error(f"Failed to load preview: {response.status_code}")
+                    else:
+                        # Handle combined preview
+                        if exp_response.status_code == 200 and bud_response.status_code == 200:
+                            exp_data = exp_response.json()
+                            bud_data = bud_response.json()
+                            
+                            st.success(f"Found {len(exp_data)} expenses and {len(bud_data)} budgets")
+                            
+                            if exp_data:
+                                st.markdown("**Expenses Preview:**")
+                                df_exp = pd.DataFrame(exp_data)
+                                st.dataframe(df_exp, use_container_width=True)
+                            
+                            if bud_data:
+                                st.markdown("**Budgets Preview:**")
+                                df_bud = pd.DataFrame(bud_data)
+                                st.dataframe(df_bud, use_container_width=True)
+                            
+                            st.session_state.preview_params = params
+                        
+                except Exception as e:
+                    st.error(f"Preview error: {str(e)}")
+    
+    with col2:
+        st.markdown("**Export Format**")
+        export_format = st.selectbox(
+            "File Format",
+            ["CSV", "Excel", "JSON"],
+            help="CSV: Universal compatibility, Excel: Formatted sheets, JSON: API/Development use"
+        )
+        
+        # Custom filename
+        custom_filename = st.text_input(
+            "Custom Filename (optional)",
+            placeholder="my_budget_data"
+        )
+    
+    # Download button
+    st.markdown("---")
+    
+    download_col1, download_col2, download_col3 = st.columns([1, 2, 1])
+    
+    with download_col2:
+        if st.button("Download Data", use_container_width=True, type="primary"):
+            with st.spinner("Preparing your download..."):
+                try:
+                    # Build download parameters
+                    download_params = st.session_state.get('preview_params', {})
+                    download_params['format'] = export_format.lower()
+                    
+                    # Generate filename
+                    if custom_filename:
+                        filename_base = custom_filename
+                    else:
+                        from datetime import datetime
+                        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+                        filename_base = f"{data_type.lower().replace(' ', '_')}_{timestamp}"
+                    
+                    # Make download API call
+                    if data_type == "Expenses Only":
+                        download_url = f"{API_BASE_URL}/export/expenses"
+                    elif data_type == "Budgets Only":
+                        download_url = f"{API_BASE_URL}/export/budgets"
+                    else:
+                        download_url = f"{API_BASE_URL}/export/combined"
+                    
+                    download_response = requests.get(download_url, params=download_params)
+                    
+                    if download_response.status_code == 200:
+                        # Set MIME type based on format
+                        if export_format == "CSV":
+                            mime_type = "text/csv"
+                            file_ext = ".csv"
+                        elif export_format == "Excel":
+                            mime_type = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                            file_ext = ".xlsx"
+                        else:  # JSON
+                            mime_type = "application/json"
+                            file_ext = ".json"
+                        
+                        # Provide download
+                        st.download_button(
+                            label=f"Click to Download {export_format} File",
+                            data=download_response.content,
+                            file_name=f"{filename_base}{file_ext}",
+                            mime=mime_type,
+                            use_container_width=True
+                        )
+                        
+                        st.success(f"{export_format} file prepared successfully!")
+                        
+                        # Show download info
+                        file_size = len(download_response.content)
+                        if file_size > 1024*1024:
+                            size_str = f"{file_size/(1024*1024):.1f} MB"
+                        elif file_size > 1024:
+                            size_str = f"{file_size/1024:.1f} KB"
+                        else:
+                            size_str = f"{file_size} bytes"
+                        
+                        st.info(f"File size: {size_str}")
+                        
+                    else:
+                        st.error(f"Download failed: {download_response.status_code}")
+                        if download_response.text:
+                            st.error(f"Error details: {download_response.text}")
+                        
+                except Exception as e:
+                    st.error(f"Download error: {str(e)}")
+    
+    st.markdown('</div>', unsafe_allow_html=True)
+    
+    # Tips section
+    st.markdown('''
+    <div class="section-container">
+        <div class="section-header">
+            <span class="icon">TIP</span>Download Tips
+        </div>
+        <div class="alert-box alert-low">
+            <strong>Pro Tips:</strong><br>
+            • Use <strong>CSV</strong> for universal compatibility with Excel, Google Sheets<br>
+            • Use <strong>Excel</strong> for formatted reports with multiple sheets (Combined Report)<br>
+            • Use <strong>JSON</strong> for API integration or custom data processing<br>
+            • Filter by currency to get region-specific reports<br>
+            • Use date ranges for quarterly or annual reports<br>
+            • Custom filenames help organize your downloads
+        </div>
+    </div>
+    ''', unsafe_allow_html=True)
+
 # Main App
 def main():
     """Main dashboard application."""
@@ -1231,7 +1577,8 @@ def main():
         "Expense Classification": "Expense Classification",
         "Forecasting": "Budget Forecasting",
         "Anomaly Detection": "Anomaly Alerts",
-        "Data Management": "Data Management"
+        "Data Management": "Data Management",
+        "Download Data": "Download Data"
     }
     
     # Page selection
@@ -1278,6 +1625,8 @@ def main():
         show_anomaly_detection_page()
     elif st.session_state.page == "Data Management":
         show_data_management_page()
+    elif st.session_state.page == "Download Data":
+        show_download_data_page()
 
 if __name__ == "__main__":
     main() 
