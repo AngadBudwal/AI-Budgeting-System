@@ -205,6 +205,7 @@ async def get_expenses(
     offset: int = Query(0, ge=0),
     department: Optional[str] = None,
     category: Optional[str] = None,
+    currency: Optional[str] = None,
     start_date: Optional[str] = None,
     end_date: Optional[str] = None,
     processor: DataProcessor = Depends(get_data_processor)
@@ -217,13 +218,15 @@ async def get_expenses(
             filters['department'] = department
         if category:
             filters['category'] = category
+        if currency:
+            filters['currency'] = currency
         if start_date:
             filters['start_date'] = start_date
         if end_date:
             filters['end_date'] = end_date
         
         expenses = processor.get_expenses(limit=limit, offset=offset, filters=filters)
-        return {"expenses": expenses, "total": len(expenses)}
+        return {"data": expenses, "total": len(expenses)}
     
     except Exception as e:
         logger.error(f"Get expenses error: {e}")

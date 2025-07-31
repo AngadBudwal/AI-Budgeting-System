@@ -568,6 +568,8 @@ class DataProcessor:
                     query = query.filter(ExpenseDB.department == filters['department'])
                 if filters.get('category'):
                     query = query.filter(ExpenseDB.category == filters['category'])
+                if filters.get('currency'):
+                    query = query.filter(ExpenseDB.currency == filters['currency'])
                 if filters.get('start_date'):
                     query = query.filter(ExpenseDB.date >= filters['start_date'])
                 if filters.get('end_date'):

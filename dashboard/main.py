@@ -356,15 +356,87 @@ def show_overview_page():
             </div>
         ''', unsafe_allow_html=True)
         
-        if stats.get('recent_expenses'):
-            df_recent = pd.DataFrame(stats['recent_expenses'])
+        # Currency filter for expense logs
+        currency_filter_options = {
+            "ALL": "All Currencies",
+            "USD": "US Dollar (USD)",
+            "INR": "Indian Rupee (INR)", 
+            "CAD": "Canadian Dollar (CAD)",
+            "TRY": "Turkish Lira (TRY)"
+        }
+        
+        col1, col2, col3 = st.columns([2, 2, 1])
+        
+        with col1:
+            selected_currency = st.selectbox(
+                "Filter by Currency", 
+                options=list(currency_filter_options.keys()),
+                format_func=lambda x: currency_filter_options[x],
+                key="expense_log_currency"
+            )
+        
+        with col2:
+            st.write("")  # Empty space for alignment
+        
+        with col3:
+            if st.button("Refresh", key="refresh_expenses"):
+                st.cache_data.clear()
+                st.rerun()
+        
+        # Get filtered expenses based on currency selection
+        if selected_currency == "ALL":
+            # Get all expenses with recent activity endpoint
+            if stats.get('recent_expenses'):
+                df_recent = pd.DataFrame(stats['recent_expenses'])
+                # Add currency display and ensure all currencies show
+                filtered_expenses = df_recent
+            else:
+                filtered_expenses = pd.DataFrame()
+        else:
+            # Get expenses filtered by specific currency
+            expense_endpoint = f"/expenses?currency={selected_currency}&limit=20&sort=created_at_desc"
+            expense_data = call_api(expense_endpoint)
+            
+            if expense_data and expense_data.get('data'):
+                filtered_expenses = pd.DataFrame(expense_data['data'])
+            else:
+                filtered_expenses = pd.DataFrame()
+        
+        # Display filtered expenses
+        if not filtered_expenses.empty:
+            # Format the dataframe for better display
+            display_df = filtered_expenses.copy()
+            
+            # Ensure currency column exists and format amount with currency
+            if 'currency' in display_df.columns and 'amount' in display_df.columns:
+                display_df['Amount'] = display_df.apply(
+                    lambda row: f"{row['amount']:,.2f} {row['currency']}", axis=1
+                )
+                # Remove the original amount and currency columns for cleaner display
+                columns_to_show = [col for col in display_df.columns if col not in ['amount', 'currency', 'id', 'created_at']]
+                display_df = display_df[columns_to_show]
+            
+            # Display the expenses table
             st.dataframe(
-                df_recent,
+                display_df,
                 use_container_width=True,
                 hide_index=True
             )
+            
+            # Show currency summary
+            if selected_currency == "ALL" and 'currency' in filtered_expenses.columns:
+                currency_summary = filtered_expenses.groupby('currency').agg({
+                    'amount': ['count', 'sum']
+                }).round(2)
+                currency_summary.columns = ['Count', 'Total Amount']
+                
+                st.subheader("Currency Summary")
+                st.dataframe(currency_summary, use_container_width=True)
         else:
-            st.info("No recent expenses found")
+            if selected_currency == "ALL":
+                st.info("No recent expenses found")
+            else:
+                st.info(f"No expenses found for {currency_filter_options[selected_currency]}")
         
         st.markdown('</div>', unsafe_allow_html=True)
     
