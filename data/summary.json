@@ -1,0 +1,131 @@
+{
+  "generated_date": "2025-07-09 11:11:54",
+  "total_expenses": 1605,
+  "total_amount": 4499771.79,
+  "total_budgets": 432,
+  "total_allocated": 3818061.27,
+  "departments": {
+    "HR": {
+      "count": 238,
+      "total": 606614.28
+    },
+    "Marketing": {
+      "count": 266,
+      "total": 848739.51
+    },
+    "Finance": {
+      "count": 201,
+      "total": 531944.74
+    },
+    "Operations": {
+      "count": 214,
+      "total": 697300.6
+    },
+    "Engineering": {
+      "count": 232,
+      "total": 616190.58
+    },
+    "Executive": {
+      "count": 203,
+      "total": 547242.29
+    },
+    "Sales": {
+      "count": 251,
+      "total": 651739.79
+    }
+  },
+  "categories": {
+    "Travel": {
+      "count": 192,
+      "total": 344088.8
+    },
+    "Equipment": {
+      "count": 164,
+      "total": 464225.96
+    },
+    "Other": {
+      "count": 141,
+      "total": 91755.29
+    },
+    "IT Infrastructure": {
+      "count": 148,
+      "total": 267099.93
+    },
+    "Training": {
+      "count": 152,
+      "total": 167156.26
+    },
+    "Professional Services": {
+      "count": 167,
+      "total": 821672.59
+    },
+    "Office Supplies": {
+      "count": 144,
+      "total": 64968.49
+    },
+    "Utilities": {
+      "count": 147,
+      "total": 134298.18
+    },
+    "Marketing": {
+      "count": 200,
+      "total": 695530.99
+    },
+    "Personnel": {
+      "count": 150,
+      "total": 1448975.3
+    }
+  },
+  "top_vendors": [
+    {
+      "vendor": "Workday",
+      "transactions": 25,
+      "total": 252963.48
+    },
+    {
+      "vendor": "BambooHR",
+      "transactions": 21,
+      "total": 222063.95
+    },
+    {
+      "vendor": "Indeed Hiring",
+      "transactions": 22,
+      "total": 211620.95
+    },
+    {
+      "vendor": "Gusto",
+      "transactions": 22,
+      "total": 171208.73
+    },
+    {
+      "vendor": "Paychex",
+      "transactions": 14,
+      "total": 169603.79
+    },
+    {
+      "vendor": "LinkedIn Recruiter",
+      "transactions": 16,
+      "total": 162331.17
+    },
+    {
+      "vendor": "ADP Payroll",
+      "transactions": 17,
+      "total": 160001.66
+    },
+    {
+      "vendor": "LinkedIn Marketing",
+      "transactions": 27,
+      "total": 121317.36
+    },
+    {
+      "vendor": "EY",
+      "transactions": 19,
+      "total": 108371.89
+    },
+    {
+      "vendor": "Wilson Law Firm",
+      "transactions": 24,
+      "total": 107138.84
+    }
+  ]
+}

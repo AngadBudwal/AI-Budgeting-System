@@ -1,0 +1,1606 @@
+date,amount,vendor,description,department,category,created_at
+2025-05-17,1497.54,Hilton,Business trip,HR,Travel,2025-07-09 11:25:08
+2025-06-29,4991.97,Apple Business,Computer equipment,Marketing,Equipment,2025-07-09 11:25:08
+2024-09-22,762.39,Business Services Inc,Miscellaneous expense,Marketing,Other,2025-07-09 11:25:08
+2025-04-30,2340.75,Heroku,API usage fees,Finance,IT Infrastructure,2025-07-09 11:25:08
+2024-08-07,2388.08,Slack,Software licenses,Operations,IT Infrastructure,2025-07-09 11:25:08
+2025-03-27,2067.47,GitHub,API usage fees,HR,IT Infrastructure,2025-07-09 11:25:08
+2025-01-18,1441.48,Slack,API usage fees,Finance,IT Infrastructure,2025-07-09 11:25:08
+2025-03-05,1779.78,Udemy Business,Conference registration,Engineering,Training,2025-07-09 11:25:08
+2024-12-28,1392.76,Docker,Cloud hosting costs,Operations,IT Infrastructure,2025-07-09 11:25:08
+2024-08-30,5470.94,PwC,Accounting services,Executive,Professional Services,2025-07-09 11:25:08
+2025-04-22,514.88,GitHub,Cloud hosting costs,Marketing,IT Infrastructure,2025-07-09 11:25:08
+2025-01-31,1750.68,Uber,Conference travel,Marketing,Travel,2025-07-09 11:25:08
+2024-10-28,506.78,Enterprise Rent-A-Car,Conference travel,Operations,Travel,2025-07-09 11:25:08
+2024-08-16,719.18,Business Services Inc,General business cost,Operations,Other,2025-07-09 11:25:08
+2025-01-26,472.63,Home Depot,Meeting room supplies,HR,Office Supplies,2025-07-09 11:25:08
+2025-01-19,151.26,AWS Training,Online course,Marketing,Training,2025-07-09 11:25:08
+2025-02-15,508.39,Home Depot,Desk supplies,Engineering,Office Supplies,2025-07-09 11:25:08
+2025-01-01,7251.87,Wilson Law Firm,Legal consultation,Operations,Professional Services,2025-07-09 11:25:08
+2024-07-31,2632.43,Zoom,Software licenses,Engineering,IT Infrastructure,2025-07-09 11:25:08
+2025-04-03,1740.52,DigitalOcean,Cloud hosting costs,HR,IT Infrastructure,2025-07-09 11:25:08
+2025-01-24,2603.18,KPMG,Legal consultation,Sales,Professional Services,2025-07-09 11:25:08
+2025-03-27,72.72,Office Depot,Desk supplies,Sales,Office Supplies,2025-07-09 11:25:08
+2024-08-07,700.93,AT&T Business,Internet service,Finance,Utilities,2025-07-09 11:25:08
+2025-04-14,344.52,Miscellaneous Vendor,General business cost,Operations,Other,2025-07-09 11:25:08
+2024-07-22,377.23,Coursera Business,Conference registration,Marketing,Training,2025-07-09 11:25:08
+2025-04-12,3808.49,ConEd,Internet service,Executive,Utilities,2025-07-09 11:25:08
+2024-08-16,1980.52,AWS,Cloud hosting costs,Engineering,IT Infrastructure,2025-07-09 11:25:08
+2024-09-07,144.72,Costco Business,Meeting room supplies,HR,Office Supplies,2025-07-09 11:25:08
+2025-04-18,392.98,Conference Registration,Online course,Operations,Training,2025-07-09 11:25:08
+2025-01-26,458.73,Pluralsight,Professional certification,Finance,Training,2025-07-09 11:25:08
+2024-12-24,505.06,HubSpot,Content creation,HR,Marketing,2025-07-09 11:25:08
+2025-03-12,2547.47,Microsoft Azure,Cloud hosting costs,HR,IT Infrastructure,2025-07-09 11:25:08
+2024-12-15,5196.88,KPMG,Legal consultation,Marketing,Professional Services,2025-07-09 11:25:08
+2025-05-10,742.68,Miscellaneous Vendor,General business cost,Sales,Other,2025-07-09 11:25:08
+2025-04-02,1723.51,Hootsuite,Marketing tools subscription,Executive,Marketing,2025-07-09 11:25:08
+2025-02-26,12419.76,Glassdoor,Recruitment fees,Sales,Personnel,2025-07-09 11:25:08
+2025-02-26,1394.88,AT&T Business,Phone service,Operations,Utilities,2025-07-09 11:25:08
+2025-02-04,618.72,Waste Management,Phone service,Marketing,Utilities,2025-07-09 11:25:08
+2024-08-19,697.31,General Supplies Co,Miscellaneous expense,Finance,Other,2025-07-09 11:25:08
+2024-11-06,1492.81,Adobe Creative,Marketing tools subscription,Sales,Marketing,2025-07-09 11:25:08
+2025-02-16,2775.81,Lenovo,Computer equipment,Finance,Equipment,2025-07-09 11:25:08
+2024-12-22,2384.25,Lyft,Business trip,Finance,Travel,2025-07-09 11:25:08
+2024-10-11,1849.53,LinkedIn Learning,Online course,Sales,Training,2025-07-09 11:25:08
+2025-06-18,669.81,Home Depot,Office materials,Operations,Office Supplies,2025-07-09 11:25:08
+2024-11-24,3145.21,LinkedIn Marketing,Marketing tools subscription,Executive,Marketing,2025-07-09 11:25:08
+2024-08-26,615.77,Coursera Business,Online course,Operations,Training,2025-07-09 11:25:08
+2025-03-10,3441.16,Apple Business,Office furniture,HR,Equipment,2025-07-09 11:25:08
+2024-11-28,22661.27,Paychex,Contractor payment,Executive,Personnel,2025-07-09 11:25:08
+2025-06-08,817.65,Conference Registration,Conference registration,Engineering,Training,2025-07-09 11:25:08
+2025-01-09,2462.27,Expedia,Client meeting travel,Executive,Travel,2025-07-09 11:25:08
+2024-08-15,271.24,LinkedIn Learning,Professional certification,Engineering,Training,2025-07-09 11:25:08
+2025-06-18,9502.4,Workday,Employee benefits,Marketing,Personnel,2025-07-09 11:25:08
+2025-04-09,634.85,Miscellaneous Vendor,Miscellaneous expense,Executive,Other,2025-07-09 11:25:08
+2025-05-24,706.89,Office Depot,Office materials,Engineering,Office Supplies,2025-07-09 11:25:08
+2025-06-02,139.36,LinkedIn Learning,Conference registration,HR,Training,2025-07-09 11:25:08
+2024-11-18,873.0,Lenovo,Office furniture,Finance,Equipment,2025-07-09 11:25:08
+2025-01-27,1421.73,Airbnb,Conference travel,Marketing,Travel,2025-07-09 11:25:08
+2024-08-21,1739.4,Canva,Ad campaign,Operations,Marketing,2025-07-09 11:25:08
+2025-01-21,1153.34,Comcast Business,Phone service,Operations,Utilities,2025-07-09 11:25:08
+2025-02-09,3059.76,Xerox,Computer equipment,HR,Equipment,2025-07-09 11:25:08
+2025-01-24,7543.01,PwC,Accounting services,HR,Professional Services,2025-07-09 11:25:08
+2024-07-26,183.21,Costco Business,Meeting room supplies,Operations,Office Supplies,2025-07-09 11:25:08
+2024-11-26,774.19,GitHub,API usage fees,Finance,IT Infrastructure,2025-07-09 11:25:08
+2025-03-27,2027.6,HubSpot,Ad campaign,Sales,Marketing,2025-07-09 11:25:08
+2025-06-13,460.65,O'Reilly Media,Online course,Executive,Training,2025-07-09 11:25:08
+2024-08-29,7726.11,Wilson Law Firm,Legal consultation,Operations,Professional Services,2025-07-09 11:25:08
+2025-04-26,366.37,General Supplies Co,Miscellaneous expense,Marketing,Other,2025-07-09 11:25:08
+2025-01-22,3450.04,McKinsey,Accounting services,Finance,Professional Services,2025-07-09 11:25:08
+2025-04-19,2167.79,Deloitte Consulting,Business consulting,Executive,Professional Services,2025-07-09 11:25:08
+2024-11-23,590.82,Comcast Business,Monthly utilities,Finance,Utilities,2025-07-09 11:25:08
+2024-09-09,425.66,Expedia,Client meeting travel,Executive,Travel,2025-07-09 11:25:08
+2024-12-15,2400.57,Hilton,Business trip,Operations,Travel,2025-07-09 11:25:08
+2024-10-04,1096.95,Xerox,Computer equipment,Finance,Equipment,2025-07-09 11:25:08
+2025-01-01,14058.5,LinkedIn Recruiter,Employee benefits,HR,Personnel,2025-07-09 11:25:08
+2024-11-10,878.13,Pacific Gas & Electric,Internet service,Executive,Utilities,2025-07-09 11:25:08
+2024-12-23,73.38,Amazon Business,Desk supplies,Executive,Office Supplies,2025-07-09 11:25:08
+2025-07-01,1467.83,Airbnb,Business trip,Marketing,Travel,2025-07-09 11:25:08
+2024-10-10,1541.32,O'Reilly Media,Professional certification,Engineering,Training,2025-07-09 11:25:08
+2025-06-15,2014.63,NetGear,Office furniture,HR,Equipment,2025-07-09 11:25:08
+2024-08-07,811.13,Coursera Business,Online course,Marketing,Training,2025-07-09 11:25:08
+2025-06-29,733.52,IKEA Business,Desk supplies,HR,Office Supplies,2025-07-09 11:25:08
+2025-01-30,851.88,LinkedIn Learning,Online course,Engineering,Training,2025-07-09 11:25:08
+2025-05-29,4785.92,Smith & Associates,Accounting services,Finance,Professional Services,2025-07-09 11:25:08
+2025-05-28,2030.54,Uber,Business trip,HR,Travel,2025-07-09 11:25:08
+2024-12-18,3269.62,HubSpot,Ad campaign,Marketing,Marketing,2025-07-09 11:25:08
+2024-07-23,7413.24,Smith & Associates,Accounting services,HR,Professional Services,2025-07-09 11:25:08
+2025-03-30,168.73,General Supplies Co,General business cost,Marketing,Other,2025-07-09 11:25:08
+2024-10-17,246.92,IKEA Business,Desk supplies,Sales,Office Supplies,2025-07-09 11:25:08
+2025-01-14,1600.25,PwC,Business consulting,HR,Professional Services,2025-07-09 11:25:08
+2024-08-16,60.26,Costco Business,Office materials,Marketing,Office Supplies,2025-07-09 11:25:08
+2024-07-21,715.85,Pacific Gas & Electric,Internet service,Engineering,Utilities,2025-07-09 11:25:08
+2025-02-21,13710.95,LinkedIn Recruiter,Recruitment fees,Engineering,Personnel,2025-07-09 11:25:08
+2024-11-09,3656.94,PwC,Accounting services,Engineering,Professional Services,2025-07-09 11:25:08
+2025-04-28,12978.97,Workday,Contractor payment,HR,Personnel,2025-07-09 11:25:08
+2025-03-16,1702.61,Enterprise Rent-A-Car,Business trip,Operations,Travel,2025-07-09 11:25:08
+2024-09-06,421.84,Best Buy Business,Desk supplies,Executive,Office Supplies,2025-07-09 11:25:08
+2024-09-27,1328.17,Waste Management,Monthly utilities,Finance,Utilities,2025-07-09 11:25:08
+2024-09-22,4367.4,Workday,Contractor payment,Engineering,Personnel,2025-07-09 11:25:08
+2025-05-11,644.8,Home Depot,Meeting room supplies,Finance,Office Supplies,2025-07-09 11:25:08
+2024-08-21,206.65,Costco Business,Desk supplies,Operations,Office Supplies,2025-07-09 11:25:08
+2025-01-16,1686.05,Marriott Hotels,Client meeting travel,Operations,Travel,2025-07-09 11:25:08
+2025-04-12,702.37,Business Services Inc,General business cost,Operations,Other,2025-07-09 11:25:08
+2024-10-29,3339.6,LinkedIn Recruiter,Contractor payment,Sales,Personnel,2025-07-09 11:25:08
+2025-04-02,11711.15,Workday,Employee benefits,Sales,Personnel,2025-07-09 11:25:08
+2025-06-19,6164.45,Deloitte Consulting,Accounting services,Executive,Professional Services,2025-07-09 11:25:08
+2025-04-08,2898.01,Adobe Creative,Content creation,Sales,Marketing,2025-07-09 11:25:08
+2024-10-26,3708.46,PwC,Accounting services,Marketing,Professional Services,2025-07-09 11:25:08
+2025-02-16,3622.76,Apple Business,Software/hardware,Finance,Equipment,2025-07-09 11:25:08
+2024-11-09,3744.69,PwC,Accounting services,Sales,Professional Services,2025-07-09 11:25:08
+2025-04-21,14434.36,Paychex,Recruitment fees,HR,Personnel,2025-07-09 11:25:08
+2024-09-30,14495.03,Paychex,Employee benefits,Operations,Personnel,2025-07-09 11:25:08
+2025-02-28,512.3,IKEA Business,Meeting room supplies,Sales,Office Supplies,2025-07-09 11:25:08
+2025-04-30,436.92,Waste Management,Internet service,HR,Utilities,2025-07-09 11:25:08
+2024-08-15,585.36,Comcast Business,Phone service,Finance,Utilities,2025-07-09 11:25:08
+2025-05-22,971.59,Business Services Inc,Miscellaneous expense,HR,Other,2025-07-09 11:25:08
+2025-05-23,410.55,LinkedIn Learning,Conference registration,Engineering,Training,2025-07-09 11:25:08
+2024-09-29,786.79,Uber,Business trip,Operations,Travel,2025-07-09 11:25:08
+2025-03-02,1192.94,Udemy Business,Professional certification,Engineering,Training,2025-07-09 11:25:08
+2025-05-06,403.18,Business Services Inc,Miscellaneous expense,Engineering,Other,2025-07-09 11:25:08
+2025-03-26,1632.22,Udemy Business,Online course,Marketing,Training,2025-07-09 11:25:08
+2024-12-18,2351.7,Uber,Conference travel,Sales,Travel,2025-07-09 11:25:08
+2024-12-27,981.43,Delta Airlines,Conference travel,Executive,Travel,2025-07-09 11:25:08
+2025-06-06,546.3,Best Buy Business,Meeting room supplies,Operations,Office Supplies,2025-07-09 11:25:08
+2024-11-13,1983.48,O'Reilly Media,Professional certification,Finance,Training,2025-07-09 11:25:08
+2024-07-30,471.17,Pacific Gas & Electric,Phone service,Finance,Utilities,2025-07-09 11:25:08
+2025-01-11,2460.29,Staples,Desk supplies,Sales,Office Supplies,2025-07-09 11:25:08
+2025-06-18,1154.0,Canva,Content creation,Operations,Marketing,2025-07-09 11:25:08
+2024-11-13,4707.91,NetGear,Office furniture,Executive,Equipment,2025-07-09 11:25:08
+2024-11-08,875.12,Pluralsight,Conference registration,Sales,Training,2025-07-09 11:25:08
+2024-11-27,4498.52,Legal Services Inc,Business consulting,Executive,Professional Services,2025-07-09 11:25:08
+2025-07-09,2385.13,Lyft,Client meeting travel,HR,Travel,2025-07-09 11:25:08
+2025-02-20,4782.75,LinkedIn Marketing,Marketing tools subscription,Engineering,Marketing,2025-07-09 11:25:08
+2024-09-29,341.02,IKEA Business,Office materials,Operations,Office Supplies,2025-07-09 11:25:08
+2024-08-31,604.98,Delta Airlines,Business trip,Engineering,Travel,2025-07-09 11:25:08
+2025-05-04,340.88,Airbnb,Conference travel,HR,Travel,2025-07-09 11:25:08
+2025-02-10,3835.18,Lenovo,Computer equipment,Engineering,Equipment,2025-07-09 11:25:08
+2025-06-02,2308.83,Legal Services Inc,Accounting services,Operations,Professional Services,2025-07-09 11:25:08
+2024-10-30,546.12,Conference Registration,Conference registration,Operations,Training,2025-07-09 11:25:08
+2025-07-07,754.15,IKEA Business,Desk supplies,Executive,Office Supplies,2025-07-09 11:25:08
+2025-03-27,4218.13,HP Enterprise,Software/hardware,Sales,Equipment,2025-07-09 11:25:08
+2024-09-22,14728.75,BambooHR,Employee benefits,Marketing,Personnel,2025-07-09 11:25:08
+2025-01-06,1892.47,Coursera Business,Professional certification,Marketing,Training,2025-07-09 11:25:08
+2024-10-24,2725.03,JetBrains,Software licenses,Engineering,IT Infrastructure,2025-07-09 11:25:08
+2025-01-14,986.62,JetBrains,Software licenses,Operations,IT Infrastructure,2025-07-09 11:25:08
+2025-06-28,1741.25,Conference Registration,Online course,Operations,Training,2025-07-09 11:25:08
+2025-01-28,3481.44,NetGear,Office furniture,Sales,Equipment,2025-07-09 11:25:08
+2025-01-03,291.2,Home Depot,Desk supplies,Engineering,Office Supplies,2025-07-09 11:25:08
+2024-12-05,4652.82,Deloitte Consulting,Accounting services,Finance,Professional Services,2025-07-09 11:25:08
+2025-01-02,1628.75,Lyft,Conference travel,Operations,Travel,2025-07-09 11:25:08
+2025-02-18,1709.97,United Airlines,Conference travel,Sales,Travel,2025-07-09 11:25:08
+2024-08-27,491.44,Office Depot,Desk supplies,HR,Office Supplies,2025-07-09 11:25:08
+2024-11-01,3196.54,Adobe Creative,Ad campaign,Sales,Marketing,2025-07-09 11:25:08
+2024-08-31,1002.29,O'Reilly Media,Conference registration,Operations,Training,2025-07-09 11:25:08
+2024-10-04,998.62,Uber,Client meeting travel,Finance,Travel,2025-07-09 11:25:08
+2025-04-23,327.69,Comcast Business,Monthly utilities,Finance,Utilities,2025-07-09 11:25:08
+2024-09-26,1942.68,AWS,Software licenses,HR,IT Infrastructure,2025-07-09 11:25:08
+2025-01-13,7805.48,Smith & Associates,Business consulting,Marketing,Professional Services,2025-07-09 11:25:08
+2024-10-23,4659.38,Hootsuite,Ad campaign,Engineering,Marketing,2025-07-09 11:25:08
+2025-01-07,3699.41,Gusto,Contractor payment,Sales,Personnel,2025-07-09 11:25:08
+2024-08-01,1147.37,Hilton,Client meeting travel,HR,Travel,2025-07-09 11:25:08
+2024-09-17,6969.16,Legal Services Inc,Accounting services,HR,Professional Services,2025-07-09 11:25:08
+2025-04-15,4670.38,LinkedIn Recruiter,Recruitment fees,Operations,Personnel,2025-07-09 11:25:08
+2025-06-23,526.57,Miscellaneous Vendor,General business cost,Sales,Other,2025-07-09 11:25:08
+2025-06-15,1823.19,Enterprise Rent-A-Car,Client meeting travel,Executive,Travel,2025-07-09 11:25:08
+2024-11-10,376.46,Udemy Business,Conference registration,Executive,Training,2025-07-09 11:25:08
+2025-03-11,379.89,General Supplies Co,General business cost,Marketing,Other,2025-07-09 11:25:08
+2025-06-17,2771.76,Atlassian,Cloud hosting costs,Finance,IT Infrastructure,2025-07-09 11:25:08
+2024-12-15,1287.87,Uber,Conference travel,Sales,Travel,2025-07-09 11:25:08
+2025-02-04,11559.79,ADP Payroll,Contractor payment,Engineering,Personnel,2025-07-09 11:25:08
+2024-11-06,273.56,Verizon Business,Monthly utilities,Sales,Utilities,2025-07-09 11:25:08
+2025-06-05,4344.37,Glassdoor,Contractor payment,Finance,Personnel,2025-07-09 11:25:08
+2024-08-08,401.36,Zoom,Software licenses,Sales,IT Infrastructure,2025-07-09 11:25:08
+2024-07-31,1834.98,Conference Registration,Professional certification,Engineering,Training,2025-07-09 11:25:08
+2025-03-10,3590.37,PwC,Legal consultation,Finance,Professional Services,2025-07-09 11:25:08
+2025-05-01,23917.02,PwC,Business consulting,Operations,Professional Services,2025-07-09 11:25:08
+2024-08-19,804.76,O'Reilly Media,Online course,HR,Training,2025-07-09 11:25:08
+2025-05-09,908.78,Miscellaneous Vendor,Miscellaneous expense,Operations,Other,2025-07-09 11:25:08
+2024-08-18,704.26,Pacific Gas & Electric,Monthly utilities,Marketing,Utilities,2025-07-09 11:25:08
+2024-09-13,4496.07,Apple Business,Computer equipment,HR,Equipment,2025-07-09 11:25:08
+2025-06-24,11132.35,Paychex,Contractor payment,Engineering,Personnel,2025-07-09 11:25:08
+2024-07-25,818.94,Business Services Inc,Miscellaneous expense,Marketing,Other,2025-07-09 11:25:08
+2025-07-02,4420.45,Lyft,Conference travel,Marketing,Travel,2025-07-09 11:25:08
+2025-06-02,398.37,Business Services Inc,Miscellaneous expense,Operations,Other,2025-07-09 11:25:08
+2025-04-16,7363.13,Deloitte Consulting,Legal consultation,Operations,Professional Services,2025-07-09 11:25:08
+2025-02-25,6968.89,Smith & Associates,Legal consultation,Sales,Professional Services,2025-07-09 11:25:08
+2024-11-21,2392.19,Enterprise Rent-A-Car,Conference travel,Executive,Travel,2025-07-09 11:25:08
+2025-04-07,642.21,General Supplies Co,Miscellaneous expense,HR,Other,2025-07-09 11:25:08
+2025-02-15,5291.37,Paychex,Contractor payment,Finance,Personnel,2025-07-09 11:25:08
+2025-04-27,403.65,Conference Registration,Professional certification,Operations,Training,2025-07-09 11:25:08
+2024-10-07,2987.89,Lenovo,Office furniture,Executive,Equipment,2025-07-09 11:25:08
+2025-01-09,446.88,Best Buy Business,Desk supplies,HR,Office Supplies,2025-07-09 11:25:08
+2024-11-05,666.79,Verizon Business,Internet service,Operations,Utilities,2025-07-09 11:25:08
+2024-12-13,1089.56,LinkedIn Learning,Online course,Finance,Training,2025-07-09 11:25:08
+2025-04-22,5721.21,KPMG,Business consulting,Finance,Professional Services,2025-07-09 11:25:08
+2024-09-26,1723.2,Xerox,Software/hardware,Finance,Equipment,2025-07-09 11:25:08
+2025-04-27,977.15,GitHub,API usage fees,HR,IT Infrastructure,2025-07-09 11:25:08
+2024-07-24,2675.18,Apple Business,Software/hardware,HR,Equipment,2025-07-09 11:25:08
+2024-12-22,1407.04,Smith & Associates,Legal consultation,HR,Professional Services,2025-07-09 11:25:08
+2024-07-26,836.05,Business Services Inc,General business cost,Sales,Other,2025-07-09 11:25:08
+2025-06-26,775.8,Pluralsight,Professional certification,Sales,Training,2025-07-09 11:25:08
+2025-01-24,1431.0,Uber,Conference travel,Engineering,Travel,2025-07-09 11:25:08
+2025-02-11,248.95,Staples,Meeting room supplies,Operations,Office Supplies,2025-07-09 11:25:08
+2024-07-22,2224.21,NetGear,Office furniture,Finance,Equipment,2025-07-09 11:25:08
+2025-02-20,5628.77,ADP Payroll,Employee benefits,Sales,Personnel,2025-07-09 11:25:08
+2024-09-15,2086.93,Google Cloud,Cloud hosting costs,Marketing,IT Infrastructure,2025-07-09 11:25:08
+2024-10-18,2410.75,Canon Business,Software/hardware,Operations,Equipment,2025-07-09 11:25:08
+2025-04-07,2603.42,Deloitte Consulting,Legal consultation,Executive,Professional Services,2025-07-09 11:25:08
+2025-01-11,4259.22,Lenovo,Software/hardware,Sales,Equipment,2025-07-09 11:25:08
+2024-10-21,657.03,Docker,Cloud hosting costs,Executive,IT Infrastructure,2025-07-09 11:25:08
+2024-08-10,1884.43,Hootsuite,Content creation,Marketing,Marketing,2025-07-09 11:25:08
+2024-10-29,3670.66,Mailchimp,Marketing tools subscription,Sales,Marketing,2025-07-09 11:25:08
+2024-12-30,2159.93,Lyft,Conference travel,Sales,Travel,2025-07-09 11:25:08
+2024-10-10,2748.86,Apple Business,Computer equipment,HR,Equipment,2025-07-09 11:25:08
+2025-06-09,1536.53,Coursera Business,Conference registration,Engineering,Training,2025-07-09 11:25:08
+2024-12-13,590.59,Business Services Inc,General business cost,HR,Other,2025-07-09 11:25:08
+2024-08-08,3329.6,McKinsey,Accounting services,Marketing,Professional Services,2025-07-09 11:25:08
+2024-09-23,9070.0,Paychex,Contractor payment,Operations,Personnel,2025-07-09 11:25:08
+2025-03-19,778.1,AT&T Business,Monthly utilities,Sales,Utilities,2025-07-09 11:25:08
+2025-03-07,3548.2,Salesforce,Marketing tools subscription,Finance,Marketing,2025-07-09 11:25:08
+2025-01-30,907.35,Pluralsight,Online course,Executive,Training,2025-07-09 11:25:08
+2025-05-29,84.98,Amazon Business,Office materials,HR,Office Supplies,2025-07-09 11:25:08
+2024-09-14,2919.55,Canva,Marketing tools subscription,Executive,Marketing,2025-07-09 11:25:08
+2025-04-06,2083.25,Delta Airlines,Conference travel,HR,Travel,2025-07-09 11:25:08
+2025-01-01,942.15,General Supplies Co,General business cost,Sales,Other,2025-07-09 11:25:08
+2025-04-15,1195.87,Pluralsight,Conference registration,Executive,Training,2025-07-09 11:25:08
+2025-01-09,168.23,Conference Registration,Professional certification,Executive,Training,2025-07-09 11:25:08
+2024-08-02,5376.86,Glassdoor,Employee benefits,Sales,Personnel,2025-07-09 11:25:08
+2024-09-09,489.61,AT&T Business,Phone service,Executive,Utilities,2025-07-09 11:25:08
+2025-04-05,2257.57,Hootsuite,Content creation,Finance,Marketing,2025-07-09 11:25:08
+2024-08-02,9181.93,Indeed Hiring,Employee benefits,Sales,Personnel,2025-07-09 11:25:08
+2024-09-12,1768.86,Conference Registration,Professional certification,HR,Training,2025-07-09 11:25:08
+2025-06-27,1649.36,Udemy Business,Online course,Executive,Training,2025-07-09 11:25:08
+2025-02-14,1696.13,LinkedIn Learning,Conference registration,Sales,Training,2025-07-09 11:25:08
+2024-11-17,5552.41,Paychex,Contractor payment,Engineering,Personnel,2025-07-09 11:25:08
+2025-03-09,1536.29,LinkedIn Marketing,Marketing tools subscription,Engineering,Marketing,2025-07-09 11:25:08
+2024-10-14,5360.09,KPMG,Business consulting,Sales,Professional Services,2025-07-09 11:25:08
+2024-10-02,1343.46,ConEd,Internet service,Finance,Utilities,2025-07-09 11:25:08
+2024-09-22,7680.96,Glassdoor,Contractor payment,Finance,Personnel,2025-07-09 11:25:08
+2025-05-11,348.83,Miscellaneous Vendor,General business cost,Executive,Other,2025-07-09 11:25:08
+2024-10-27,659.59,Staples,Meeting room supplies,Finance,Office Supplies,2025-07-09 11:25:08
+2025-05-14,4451.18,Workday,Employee benefits,Marketing,Personnel,2025-07-09 11:25:08
+2024-10-21,5931.95,Smith & Associates,Accounting services,Engineering,Professional Services,2025-07-09 11:25:08
+2024-08-25,912.89,General Supplies Co,General business cost,Finance,Other,2025-07-09 11:25:08
+2025-06-12,742.79,JetBrains,Cloud hosting costs,HR,IT Infrastructure,2025-07-09 11:25:08
+2025-06-17,1574.94,Smith & Associates,Accounting services,HR,Professional Services,2025-07-09 11:25:08
+2024-10-10,5256.29,McKinsey,Legal consultation,Sales,Professional Services,2025-07-09 11:25:08
+2024-11-25,959.69,Pacific Gas & Electric,Phone service,Finance,Utilities,2025-07-09 11:25:08
+2025-04-26,2742.53,DigitalOcean,Software licenses,Sales,IT Infrastructure,2025-07-09 11:25:08
+2025-01-18,808.64,Miscellaneous Vendor,General business cost,Executive,Other,2025-07-09 11:25:08
+2024-09-20,1625.03,United Airlines,Business trip,Marketing,Travel,2025-07-09 11:25:08
+2024-11-25,7209.86,Smith & Associates,Accounting services,Marketing,Professional Services,2025-07-09 11:25:08
+2024-07-31,637.65,Google Cloud,Cloud hosting costs,HR,IT Infrastructure,2025-07-09 11:25:08
+2025-05-13,5427.26,Deloitte Consulting,Accounting services,Engineering,Professional Services,2025-07-09 11:25:08
+2024-07-22,542.95,United Airlines,Business trip,HR,Travel,2025-07-09 11:25:08
+2024-11-14,745.46,Conference Registration,Conference registration,Operations,Training,2025-07-09 11:25:08
+2025-05-06,2477.42,KPMG,Accounting services,Sales,Professional Services,2025-07-09 11:25:08
+2024-11-17,2039.13,Hilton,Conference travel,Engineering,Travel,2025-07-09 11:25:08
+2024-12-26,695.84,Hootsuite,Content creation,HR,Marketing,2025-07-09 11:25:08
+2024-11-16,558.24,Amazon Business,Meeting room supplies,Finance,Office Supplies,2025-07-09 11:25:08
+2025-01-23,1261.88,ConEd,Phone service,Finance,Utilities,2025-07-09 11:25:08
+2024-10-10,4244.07,Google Ads,Marketing tools subscription,Finance,Marketing,2025-07-09 11:25:08
+2025-01-19,2973.01,LinkedIn Marketing,Ad campaign,Sales,Marketing,2025-07-09 11:25:08
+2025-03-01,3891.16,PwC,Accounting services,Executive,Professional Services,2025-07-09 11:25:08
+2024-11-10,2237.76,Salesforce,Marketing tools subscription,Engineering,Marketing,2025-07-09 11:25:08
+2024-09-15,3040.96,McKinsey,Accounting services,Engineering,Professional Services,2025-07-09 11:25:08
+2024-10-28,2639.14,Zoom,API usage fees,Marketing,IT Infrastructure,2025-07-09 11:25:08
+2025-05-28,1096.6,Pacific Gas & Electric,Internet service,Operations,Utilities,2025-07-09 11:25:08
+2025-01-16,1255.12,Pacific Gas & Electric,Phone service,Finance,Utilities,2025-07-09 11:25:08
+2024-10-11,235.61,Home Depot,Office materials,HR,Office Supplies,2025-07-09 11:25:08
+2024-07-28,12449.66,BambooHR,Recruitment fees,HR,Personnel,2025-07-09 11:25:08
+2025-04-22,647.89,Office Depot,Office materials,Marketing,Office Supplies,2025-07-09 11:25:08
+2024-09-23,4998.16,Xerox,Software/hardware,Operations,Equipment,2025-07-09 11:25:08
+2024-07-24,8149.76,Glassdoor,Employee benefits,Engineering,Personnel,2025-07-09 11:25:08
+2024-11-08,475.91,Waste Management,Monthly utilities,Operations,Utilities,2025-07-09 11:25:08
+2025-05-04,585.82,Google Ads,Marketing tools subscription,Marketing,Marketing,2025-07-09 11:25:08
+2025-04-05,717.17,Costco Business,Office materials,Marketing,Office Supplies,2025-07-09 11:25:08
+2025-01-25,11411.98,BambooHR,Contractor payment,Operations,Personnel,2025-07-09 11:25:08
+2024-11-04,4659.24,Dell Business,Software/hardware,Marketing,Equipment,2025-07-09 11:25:08
+2024-08-29,11954.25,Workday,Recruitment fees,Engineering,Personnel,2025-07-09 11:25:08
+2025-05-16,1300.93,HP Enterprise,Computer equipment,Executive,Equipment,2025-07-09 11:25:08
+2025-05-06,2022.46,Lyft,Business trip,Sales,Travel,2025-07-09 11:25:08
+2024-08-21,4462.71,Apple Business,Office furniture,Operations,Equipment,2025-07-09 11:25:08
+2025-05-15,1907.34,KPMG,Legal consultation,Sales,Professional Services,2025-07-09 11:25:08
+2025-05-21,7211.11,Smith & Associates,Business consulting,Sales,Professional Services,2025-07-09 11:25:08
+2024-08-06,1899.46,DigitalOcean,Software licenses,Sales,IT Infrastructure,2025-07-09 11:25:08
+2024-08-18,606.72,Hilton,Business trip,Operations,Travel,2025-07-09 11:25:08
+2024-07-15,109.75,Costco Business,Meeting room supplies,Engineering,Office Supplies,2025-07-09 11:25:08
+2024-08-25,315.87,Home Depot,Meeting room supplies,HR,Office Supplies,2025-07-09 11:25:08
+2025-02-03,12838.62,Workday,Employee benefits,Executive,Personnel,2025-07-09 11:25:08
+2024-10-13,1877.88,HP Enterprise,Office furniture,Engineering,Equipment,2025-07-09 11:25:08
+2024-09-26,815.56,Pluralsight,Conference registration,Engineering,Training,2025-07-09 11:25:08
+2024-10-23,34325.94,LinkedIn Recruiter,Contractor payment,Marketing,Personnel,2025-07-09 11:25:08
+2025-05-17,1585.09,LinkedIn Learning,Online course,Sales,Training,2025-07-09 11:25:08
+2025-02-06,763.56,Dell Business,Office furniture,Engineering,Equipment,2025-07-09 11:25:08
+2024-10-18,1532.75,Legal Services Inc,Legal consultation,HR,Professional Services,2025-07-09 11:25:08
+2024-09-19,383.45,Business Services Inc,General business cost,Finance,Other,2025-07-09 11:25:08
+2024-12-15,449.52,IKEA Business,Desk supplies,Finance,Office Supplies,2025-07-09 11:25:08
+2025-03-05,312.22,Waste Management,Phone service,Marketing,Utilities,2025-07-09 11:25:08
+2024-07-28,790.05,Delta Airlines,Conference travel,Executive,Travel,2025-07-09 11:25:08
+2025-01-08,270.69,ConEd,Internet service,HR,Utilities,2025-07-09 11:25:08
+2024-09-28,139.02,Best Buy Business,Desk supplies,Finance,Office Supplies,2025-07-09 11:25:08
+2024-08-23,515.78,Waste Management,Monthly utilities,HR,Utilities,2025-07-09 11:25:08
+2025-04-11,445.6,Business Services Inc,General business cost,Sales,Other,2025-07-09 11:25:08
+2024-11-22,3970.92,McKinsey,Accounting services,Executive,Professional Services,2025-07-09 11:25:08
+2024-12-19,2928.4,Slack,Cloud hosting costs,Finance,IT Infrastructure,2025-07-09 11:25:08
+2024-07-31,2795.49,Cisco Systems,Computer equipment,Sales,Equipment,2025-07-09 11:25:08
+2024-10-31,3653.91,Smith & Associates,Legal consultation,Sales,Professional Services,2025-07-09 11:25:08
+2024-11-12,4479.12,LinkedIn Marketing,Ad campaign,Engineering,Marketing,2025-07-09 11:25:08
+2024-09-18,3142.24,Canva,Ad campaign,Sales,Marketing,2025-07-09 11:25:08
+2025-01-25,723.05,Hilton,Business trip,Executive,Travel,2025-07-09 11:25:08
+2024-10-02,355.17,Office Depot,Office materials,Sales,Office Supplies,2025-07-09 11:25:08
+2024-11-05,307.49,Home Depot,Desk supplies,Marketing,Office Supplies,2025-07-09 11:25:08
+2024-11-17,462.14,Miscellaneous Vendor,Miscellaneous expense,Engineering,Other,2025-07-09 11:25:08
+2025-03-01,345.97,Zoom,Cloud hosting costs,Operations,IT Infrastructure,2025-07-09 11:25:08
+2025-03-31,1166.09,Marriott Hotels,Business trip,Operations,Travel,2025-07-09 11:25:08
+2024-07-25,2325.87,United Airlines,Conference travel,Marketing,Travel,2025-07-09 11:25:08
+2025-01-03,446.09,Home Depot,Meeting room supplies,Executive,Office Supplies,2025-07-09 11:25:08
+2025-01-09,851.7,Comcast Business,Internet service,Executive,Utilities,2025-07-09 11:25:08
+2024-09-06,1280.72,ConEd,Phone service,HR,Utilities,2025-07-09 11:25:08
+2025-05-11,4674.37,Salesforce,Ad campaign,HR,Marketing,2025-07-09 11:25:08
+2024-12-08,3513.97,Cisco Systems,Office furniture,Sales,Equipment,2025-07-09 11:25:08
+2024-12-21,3098.59,HubSpot,Marketing tools subscription,Engineering,Marketing,2025-07-09 11:25:08
+2024-12-10,2324.78,Enterprise Rent-A-Car,Conference travel,Executive,Travel,2025-07-09 11:25:08
+2025-05-08,159.96,Home Depot,Meeting room supplies,Sales,Office Supplies,2025-07-09 11:25:08
+2024-08-28,5580.43,KPMG,Accounting services,Executive,Professional Services,2025-07-09 11:25:08
+2024-10-23,7109.67,Workday,Employee benefits,Operations,Personnel,2025-07-09 11:25:08
+2025-04-29,4995.75,KPMG,Business consulting,Engineering,Professional Services,2025-07-09 11:25:08
+2025-06-10,6353.32,Legal Services Inc,Business consulting,HR,Professional Services,2025-07-09 11:25:08
+2024-09-24,1188.91,Expedia,Client meeting travel,Operations,Travel,2025-07-09 11:25:08
+2025-03-15,3367.66,HP Enterprise,Software/hardware,Marketing,Equipment,2025-07-09 11:25:08
+2025-06-11,166.4,Business Services Inc,Miscellaneous expense,Sales,Other,2025-07-09 11:25:08
+2024-10-11,3955.0,Canva,Content creation,HR,Marketing,2025-07-09 11:25:08
+2025-02-28,350.89,Conference Registration,Conference registration,Executive,Training,2025-07-09 11:25:08
+2024-11-08,668.22,IKEA Business,Meeting room supplies,Engineering,Office Supplies,2025-07-09 11:25:08
+2025-02-15,790.79,AT&T Business,Phone service,Engineering,Utilities,2025-07-09 11:25:08
+2024-11-18,2821.32,Mailchimp,Ad campaign,Operations,Marketing,2025-07-09 11:25:08
+2025-01-16,8692.0,Apple Business,Software/hardware,HR,Equipment,2025-07-09 11:25:08
+2025-02-24,2052.51,Legal Services Inc,Business consulting,Executive,Professional Services,2025-07-09 11:25:08
+2024-11-01,1375.28,Verizon Business,Internet service,HR,Utilities,2025-07-09 11:25:08
+2025-01-21,776.48,Airbnb,Client meeting travel,Marketing,Travel,2025-07-09 11:25:08
+2024-10-08,4168.12,Canon Business,Computer equipment,Operations,Equipment,2025-07-09 11:25:08
+2025-07-07,1184.09,AWS Training,Online course,Executive,Training,2025-07-09 11:25:08
+2024-12-08,1044.35,Atlassian,Software licenses,Sales,IT Infrastructure,2025-07-09 11:25:08
+2025-07-08,614.66,Hootsuite,Ad campaign,Operations,Marketing,2025-07-09 11:25:08
+2024-08-26,2431.23,JetBrains,API usage fees,Operations,IT Infrastructure,2025-07-09 11:25:08
+2024-10-31,4635.67,PwC,Business consulting,Sales,Professional Services,2025-07-09 11:25:08
+2024-08-01,3952.87,Facebook Ads,Content creation,Finance,Marketing,2025-07-09 11:25:08
+2025-02-18,6817.17,Smith & Associates,Accounting services,HR,Professional Services,2025-07-09 11:25:08
+2024-07-16,7038.56,Deloitte Consulting,Accounting services,Finance,Professional Services,2025-07-09 11:25:08
+2025-06-08,2680.2,DigitalOcean,API usage fees,Engineering,IT Infrastructure,2025-07-09 11:25:08
+2025-01-07,14475.85,BambooHR,Employee benefits,Operations,Personnel,2025-07-09 11:25:08
+2025-04-14,2589.36,Apple Business,Computer equipment,Finance,Equipment,2025-07-09 11:25:08
+2024-07-21,615.38,Home Depot,Office materials,Executive,Office Supplies,2025-07-09 11:25:08
+2024-10-25,1475.66,Verizon Business,Phone service,Marketing,Utilities,2025-07-09 11:25:08
+2024-11-07,4284.42,Indeed Hiring,Recruitment fees,Executive,Personnel,2025-07-09 11:25:08
+2025-06-28,11032.67,ADP Payroll,Recruitment fees,Operations,Personnel,2025-07-09 11:25:08
+2025-03-27,2556.63,Wilson Law Firm,Business consulting,Operations,Professional Services,2025-07-09 11:25:08
+2025-03-27,1143.11,Enterprise Rent-A-Car,Conference travel,Engineering,Travel,2025-07-09 11:25:08
+2024-10-13,561.32,Pacific Gas & Electric,Phone service,Finance,Utilities,2025-07-09 11:25:08
+2025-03-12,952.01,AT&T Business,Monthly utilities,Executive,Utilities,2025-07-09 11:25:08
+2025-04-05,1707.1,Enterprise Rent-A-Car,Business trip,Executive,Travel,2025-07-09 11:25:08
+2024-12-03,1803.89,Miscellaneous Vendor,General business cost,Engineering,Other,2025-07-09 11:25:08
+2025-04-08,2013.23,Uber,Business trip,HR,Travel,2025-07-09 11:25:08
+2025-03-25,4067.71,Hilton,Business trip,Operations,Travel,2025-07-09 11:25:08
+2024-08-21,304.05,Costco Business,Meeting room supplies,Finance,Office Supplies,2025-07-09 11:25:08
+2024-12-26,179.91,Costco Business,Meeting room supplies,HR,Office Supplies,2025-07-09 11:25:08
+2025-03-19,2683.45,Legal Services Inc,Legal consultation,Executive,Professional Services,2025-07-09 11:25:08
+2024-09-14,195.8,Home Depot,Desk supplies,Engineering,Office Supplies,2025-07-09 11:25:08
+2024-07-20,504.04,Amazon Business,Meeting room supplies,Engineering,Office Supplies,2025-07-09 11:25:08
+2025-04-01,2608.29,DigitalOcean,Software licenses,Sales,IT Infrastructure,2025-07-09 11:25:08
+2025-02-09,690.94,Staples,Desk supplies,Finance,Office Supplies,2025-07-09 11:25:08
+2025-04-06,2024.73,Uber,Business trip,Marketing,Travel,2025-07-09 11:25:08
+2025-06-27,319.72,AT&T Business,Internet service,Operations,Utilities,2025-07-09 11:25:08
+2025-06-06,559.94,Miscellaneous Vendor,Miscellaneous expense,Marketing,Other,2025-07-09 11:25:08
+2025-06-25,515.59,Waste Management,Monthly utilities,Marketing,Utilities,2025-07-09 11:25:08
+2025-07-02,1314.91,JetBrains,Software licenses,Executive,IT Infrastructure,2025-07-09 11:25:08
+2025-04-06,1198.79,Deloitte Consulting,Business consulting,Engineering,Professional Services,2025-07-09 11:25:08
+2025-03-07,2941.41,Google Cloud,API usage fees,Finance,IT Infrastructure,2025-07-09 11:25:08
+2024-10-15,518.32,Cisco Systems,Computer equipment,Finance,Equipment,2025-07-09 11:25:08
+2024-12-25,5067.17,Wilson Law Firm,Business consulting,HR,Professional Services,2025-07-09 11:25:08
+2025-06-03,625.31,General Supplies Co,Miscellaneous expense,HR,Other,2025-07-09 11:25:08
+2025-03-31,1608.64,Slack,Cloud hosting costs,Finance,IT Infrastructure,2025-07-09 11:25:08
+2025-05-04,671.27,Pluralsight,Professional certification,Sales,Training,2025-07-09 11:25:08
+2024-08-18,137.76,Amazon Business,Meeting room supplies,Finance,Office Supplies,2025-07-09 11:25:08
+2025-04-01,327.6,Business Services Inc,Miscellaneous expense,Executive,Other,2025-07-09 11:25:08
+2024-11-29,5361.96,Wilson Law Firm,Legal consultation,Sales,Professional Services,2025-07-09 11:25:08
+2024-12-20,2125.12,Heroku,Software licenses,Operations,IT Infrastructure,2025-07-09 11:25:08
+2025-04-19,3138.43,ADP Payroll,Recruitment fees,Marketing,Personnel,2025-07-09 11:25:08
+2025-02-11,2998.67,Google Cloud,Software licenses,Operations,IT Infrastructure,2025-07-09 11:25:08
+2024-08-03,836.85,Verizon Business,Phone service,Executive,Utilities,2025-07-09 11:25:08
+2024-09-15,1164.21,Udemy Business,Online course,HR,Training,2025-07-09 11:25:08
+2025-01-10,20679.14,Indeed Hiring,Employee benefits,Operations,Personnel,2025-07-09 11:25:08
+2025-05-31,523.84,Pacific Gas & Electric,Internet service,Sales,Utilities,2025-07-09 11:25:08
+2025-05-03,2447.2,Canva,Ad campaign,Engineering,Marketing,2025-07-09 11:25:08
+2025-04-12,7389.84,EY,Accounting services,Marketing,Professional Services,2025-07-09 11:25:08
+2025-01-22,4266.77,NetGear,Computer equipment,Engineering,Equipment,2025-07-09 11:25:08
+2024-09-02,3864.4,Mailchimp,Ad campaign,Engineering,Marketing,2025-07-09 11:25:08
+2024-11-15,1087.99,Salesforce,Content creation,Marketing,Marketing,2025-07-09 11:25:08
+2024-10-02,649.16,IKEA Business,Office materials,Finance,Office Supplies,2025-07-09 11:25:08
+2025-04-10,259.85,General Supplies Co,Miscellaneous expense,Engineering,Other,2025-07-09 11:25:08
+2024-09-09,1150.0,ConEd,Internet service,Engineering,Utilities,2025-07-09 11:25:08
+2025-02-01,663.07,Miscellaneous Vendor,Miscellaneous expense,Sales,Other,2025-07-09 11:25:08
+2024-12-02,792.4,Home Depot,Desk supplies,HR,Office Supplies,2025-07-09 11:25:08
+2024-09-29,7670.09,McKinsey,Business consulting,Sales,Professional Services,2025-07-09 11:25:08
+2024-09-04,10303.28,LinkedIn Recruiter,Employee benefits,Sales,Personnel,2025-07-09 11:25:08
+2025-05-15,1330.78,Pluralsight,Online course,Marketing,Training,2025-07-09 11:25:08
+2024-11-22,4554.48,NetGear,Computer equipment,HR,Equipment,2025-07-09 11:25:08
+2025-01-06,845.17,Zoom,Software licenses,Sales,IT Infrastructure,2025-07-09 11:25:08
+2025-04-14,12472.52,Gusto,Contractor payment,Operations,Personnel,2025-07-09 11:25:08
+2025-06-03,24143.79,KPMG,Business consulting,HR,Professional Services,2025-07-09 11:25:08
+2024-08-26,670.38,Miscellaneous Vendor,General business cost,Engineering,Other,2025-07-09 11:25:08
+2025-01-11,1599.74,Uber,Conference travel,Engineering,Travel,2025-07-09 11:25:08
+2025-04-13,1299.36,AT&T Business,Monthly utilities,Finance,Utilities,2025-07-09 11:25:08
+2025-02-11,1122.6,Marriott Hotels,Conference travel,Engineering,Travel,2025-07-09 11:25:08
+2025-03-21,599.39,Costco Business,Office materials,Finance,Office Supplies,2025-07-09 11:25:08
+2025-07-05,1115.31,DigitalOcean,API usage fees,Marketing,IT Infrastructure,2025-07-09 11:25:08
+2025-07-05,1818.41,Coursera Business,Conference registration,Sales,Training,2025-07-09 11:25:08
+2025-01-06,2492.77,Docker,Software licenses,HR,IT Infrastructure,2025-07-09 11:25:08
+2025-01-20,2768.53,McKinsey,Business consulting,HR,Professional Services,2025-07-09 11:25:08
+2025-05-18,411.68,United Airlines,Business trip,Operations,Travel,2025-07-09 11:25:08
+2025-06-10,3731.85,Gusto,Contractor payment,Marketing,Personnel,2025-07-09 11:25:08
+2024-09-07,2550.65,NetGear,Computer equipment,Sales,Equipment,2025-07-09 11:25:08
+2024-12-14,74.56,IKEA Business,Meeting room supplies,Executive,Office Supplies,2025-07-09 11:25:08
+2024-09-11,3572.35,NetGear,Office furniture,Marketing,Equipment,2025-07-09 11:25:08
+2024-08-25,1337.82,Airbnb,Client meeting travel,HR,Travel,2025-07-09 11:25:08
+2025-04-23,869.14,General Supplies Co,General business cost,Marketing,Other,2025-07-09 11:25:08
+2024-11-05,3103.9,Apple Business,Office furniture,HR,Equipment,2025-07-09 11:25:08
+2024-07-21,1367.34,Apple Business,Computer equipment,HR,Equipment,2025-07-09 11:25:08
+2025-05-26,690.15,Staples,Meeting room supplies,HR,Office Supplies,2025-07-09 11:25:08
+2024-09-09,2265.89,LinkedIn Marketing,Ad campaign,Engineering,Marketing,2025-07-09 11:25:08
+2025-04-03,2305.04,Google Cloud,Cloud hosting costs,Executive,IT Infrastructure,2025-07-09 11:25:08
+2024-10-18,1252.1,LinkedIn Learning,Online course,Finance,Training,2025-07-09 11:25:08
+2025-03-25,444.67,Pacific Gas & Electric,Monthly utilities,HR,Utilities,2025-07-09 11:25:08
+2025-04-06,3847.29,Hootsuite,Marketing tools subscription,Engineering,Marketing,2025-07-09 11:25:08
+2024-11-02,14410.65,ADP Payroll,Contractor payment,Executive,Personnel,2025-07-09 11:25:08
+2024-10-04,970.9,Miscellaneous Vendor,Miscellaneous expense,Marketing,Other,2025-07-09 11:25:08
+2025-04-01,3119.23,LinkedIn Recruiter,Employee benefits,Operations,Personnel,2025-07-09 11:25:08
+2025-05-18,3421.48,Paychex,Contractor payment,Operations,Personnel,2025-07-09 11:25:08
+2024-12-31,1334.31,Waste Management,Internet service,Finance,Utilities,2025-07-09 11:25:08
+2025-02-25,962.57,Pluralsight,Professional certification,Engineering,Training,2025-07-09 11:25:08
+2025-05-15,1382.15,Heroku,Software licenses,Finance,IT Infrastructure,2025-07-09 11:25:08
+2025-06-17,3869.69,BambooHR,Contractor payment,Executive,Personnel,2025-07-09 11:25:08
+2025-03-09,1020.64,NetGear,Software/hardware,Marketing,Equipment,2025-07-09 11:25:08
+2025-01-21,890.24,General Supplies Co,Miscellaneous expense,Operations,Other,2025-07-09 11:25:08
+2025-02-26,573.27,Adobe Creative,Content creation,Sales,Marketing,2025-07-09 11:25:08
+2024-09-01,8400.23,Indeed Hiring,Contractor payment,Finance,Personnel,2025-07-09 11:25:08
+2025-06-16,2096.19,Enterprise Rent-A-Car,Conference travel,Sales,Travel,2025-07-09 11:25:08
+2025-03-08,726.52,General Supplies Co,Miscellaneous expense,Marketing,Other,2025-07-09 11:25:08
+2025-01-20,1124.95,Comcast Business,Monthly utilities,Operations,Utilities,2025-07-09 11:25:08
+2024-11-21,993.96,General Supplies Co,Miscellaneous expense,Operations,Other,2025-07-09 11:25:08
+2025-07-07,7610.12,Microsoft Azure,API usage fees,Sales,IT Infrastructure,2025-07-09 11:25:08
+2025-04-22,468.68,United Airlines,Client meeting travel,Executive,Travel,2025-07-09 11:25:08
+2024-08-22,233.91,Office Depot,Desk supplies,Operations,Office Supplies,2025-07-09 11:25:08
+2024-10-11,544.38,Amazon Business,Desk supplies,Executive,Office Supplies,2025-07-09 11:25:08
+2024-09-03,639.41,Staples,Desk supplies,HR,Office Supplies,2025-07-09 11:25:08
+2025-04-26,2815.94,Slack,Software licenses,Executive,IT Infrastructure,2025-07-09 11:25:08
+2024-10-07,4975.61,EY,Legal consultation,Engineering,Professional Services,2025-07-09 11:25:08
+2025-06-25,426.53,Home Depot,Desk supplies,Marketing,Office Supplies,2025-07-09 11:25:08
+2025-03-19,3431.79,Xerox,Software/hardware,HR,Equipment,2025-07-09 11:25:08
+2025-06-22,6055.63,McKinsey,Accounting services,Engineering,Professional Services,2025-07-09 11:25:08
+2024-10-22,1405.67,Enterprise Rent-A-Car,Business trip,Operations,Travel,2025-07-09 11:25:08
+2025-01-08,2135.21,Enterprise Rent-A-Car,Client meeting travel,Finance,Travel,2025-07-09 11:25:08
+2024-10-18,13748.08,Indeed Hiring,Employee benefits,HR,Personnel,2025-07-09 11:25:08
+2024-11-01,3425.76,Deloitte Consulting,Legal consultation,Finance,Professional Services,2025-07-09 11:25:08
+2024-09-03,4196.46,LinkedIn Marketing,Marketing tools subscription,Sales,Marketing,2025-07-09 11:25:08
+2024-10-08,5166.62,Gusto,Employee benefits,Finance,Personnel,2025-07-09 11:25:08
+2025-02-15,206.9,Best Buy Business,Desk supplies,Finance,Office Supplies,2025-07-09 11:25:08
+2025-04-25,2372.98,JetBrains,Cloud hosting costs,Executive,IT Infrastructure,2025-07-09 11:25:08
+2025-05-21,2874.8,ConEd,Phone service,Sales,Utilities,2025-07-09 11:25:08
+2024-09-01,11233.91,Indeed Hiring,Recruitment fees,Executive,Personnel,2025-07-09 11:25:08
+2025-05-17,1421.39,NetGear,Computer equipment,Operations,Equipment,2025-07-09 11:25:08
+2024-07-22,14838.88,LinkedIn Marketing,Content creation,Finance,Marketing,2025-07-09 11:25:08
+2025-02-14,402.65,Costco Business,Meeting room supplies,Finance,Office Supplies,2025-07-09 11:25:08
+2024-09-10,7940.12,McKinsey,Legal consultation,Finance,Professional Services,2025-07-09 11:25:08
+2025-05-01,2414.25,Uber,Business trip,HR,Travel,2025-07-09 11:25:08
+2025-03-23,94.4,Best Buy Business,Desk supplies,Engineering,Office Supplies,2025-07-09 11:25:08
+2024-07-21,1042.81,Slack,Software licenses,Marketing,IT Infrastructure,2025-07-09 11:25:08
+2024-10-15,494.2,Slack,Software licenses,Engineering,IT Infrastructure,2025-07-09 11:25:08
+2024-08-21,4971.09,Workday,Employee benefits,Marketing,Personnel,2025-07-09 11:25:08
+2024-12-17,612.37,Costco Business,Desk supplies,Operations,Office Supplies,2025-07-09 11:25:08
+2024-09-03,6452.94,McKinsey,Accounting services,Engineering,Professional Services,2025-07-09 11:25:08
+2024-08-11,2033.08,Canva,Marketing tools subscription,Sales,Marketing,2025-07-09 11:25:08
+2025-05-27,121.74,General Supplies Co,Miscellaneous expense,HR,Other,2025-07-09 11:25:08
+2025-06-10,135.64,Home Depot,Office materials,Operations,Office Supplies,2025-07-09 11:25:08
+2024-07-24,1094.77,Hootsuite,Content creation,Sales,Marketing,2025-07-09 11:25:08
+2024-12-25,4791.19,HP Enterprise,Software/hardware,Executive,Equipment,2025-07-09 11:25:08
+2024-07-20,247.91,IKEA Business,Meeting room supplies,Executive,Office Supplies,2025-07-09 11:25:08
+2024-11-12,486.62,O'Reilly Media,Online course,HR,Training,2025-07-09 11:25:08
+2025-01-01,778.94,Cisco Systems,Computer equipment,Finance,Equipment,2025-07-09 11:25:08
+2024-08-22,1303.9,Zoom,API usage fees,Finance,IT Infrastructure,2025-07-09 11:25:08
+2024-11-08,1322.56,Waste Management,Internet service,Marketing,Utilities,2025-07-09 11:25:08
+2025-03-28,4292.23,Canon Business,Software/hardware,HR,Equipment,2025-07-09 11:25:08
+2024-12-29,296.17,Office Depot,Meeting room supplies,HR,Office Supplies,2025-07-09 11:25:08
+2025-01-29,1121.24,HubSpot,Marketing tools subscription,Marketing,Marketing,2025-07-09 11:25:08
+2025-05-07,4549.47,Legal Services Inc,Legal consultation,Marketing,Professional Services,2025-07-09 11:25:08
+2025-02-17,14604.23,Glassdoor,Contractor payment,HR,Personnel,2025-07-09 11:25:08
+2025-03-22,2623.56,Microsoft Azure,Software licenses,Sales,IT Infrastructure,2025-07-09 11:25:08
+2024-07-20,1739.37,Canon Business,Office furniture,Engineering,Equipment,2025-07-09 11:25:08
+2024-09-07,2091.54,Airbnb,Conference travel,Marketing,Travel,2025-07-09 11:25:08
+2025-04-03,798.37,IKEA Business,Office materials,Sales,Office Supplies,2025-07-09 11:25:08
+2024-09-29,2202.78,Uber,Client meeting travel,HR,Travel,2025-07-09 11:25:08
+2024-10-14,1010.23,KPMG,Accounting services,HR,Professional Services,2025-07-09 11:25:08
+2025-04-22,1788.88,Conference Registration,Professional certification,Executive,Training,2025-07-09 11:25:08
+2024-12-18,1729.43,Udemy Business,Conference registration,Operations,Training,2025-07-09 11:25:08
+2024-10-20,907.94,Pacific Gas & Electric,Phone service,Engineering,Utilities,2025-07-09 11:25:08
+2024-10-27,7818.48,ADP Payroll,Recruitment fees,HR,Personnel,2025-07-09 11:25:08
+2025-04-24,1745.47,Hilton,Business trip,Sales,Travel,2025-07-09 11:25:08
+2025-01-09,565.84,AT&T Business,Internet service,Marketing,Utilities,2025-07-09 11:25:08
+2025-01-15,624.49,AWS Training,Conference registration,Operations,Training,2025-07-09 11:25:08
+2024-12-22,759.1,General Supplies Co,Miscellaneous expense,Marketing,Other,2025-07-09 11:25:08
+2025-03-29,2298.15,Hilton,Business trip,Operations,Travel,2025-07-09 11:25:08
+2025-05-16,265.41,Costco Business,Office materials,Sales,Office Supplies,2025-07-09 11:25:08
+2024-09-22,7862.92,Deloitte Consulting,Legal consultation,Sales,Professional Services,2025-07-09 11:25:08
+2025-06-21,1959.79,Xerox,Software/hardware,Marketing,Equipment,2025-07-09 11:25:08
+2025-05-17,344.29,ConEd,Internet service,Sales,Utilities,2025-07-09 11:25:08
+2024-10-19,710.94,Pacific Gas & Electric,Internet service,HR,Utilities,2025-07-09 11:25:08
+2025-04-10,5093.56,Microsoft Azure,Cloud hosting costs,HR,IT Infrastructure,2025-07-09 11:25:08
+2024-08-04,592.45,Pluralsight,Professional certification,Executive,Training,2025-07-09 11:25:08
+2024-09-06,753.21,Hootsuite,Marketing tools subscription,HR,Marketing,2025-07-09 11:25:08
+2024-12-27,4158.49,Hootsuite,Ad campaign,Marketing,Marketing,2025-07-09 11:25:08
+2024-09-16,10081.89,Gusto,Contractor payment,Sales,Personnel,2025-07-09 11:25:08
+2025-06-02,994.47,Miscellaneous Vendor,Miscellaneous expense,Executive,Other,2025-07-09 11:25:08
+2024-08-30,652.83,ConEd,Monthly utilities,Marketing,Utilities,2025-07-09 11:25:08
+2024-12-14,1468.76,Zoom,Cloud hosting costs,Operations,IT Infrastructure,2025-07-09 11:25:08
+2024-10-09,917.94,Pacific Gas & Electric,Monthly utilities,Marketing,Utilities,2025-07-09 11:25:08
+2024-08-22,1950.92,GitHub,Software licenses,Executive,IT Infrastructure,2025-07-09 11:25:08
+2024-12-16,1194.24,Udemy Business,Online course,Finance,Training,2025-07-09 11:25:08
+2025-02-03,259.05,Docker,API usage fees,Operations,IT Infrastructure,2025-07-09 11:25:08
+2025-03-10,1120.49,Udemy Business,Professional certification,Executive,Training,2025-07-09 11:25:08
+2025-06-22,993.24,HP Enterprise,Computer equipment,Engineering,Equipment,2025-07-09 11:25:08
+2025-05-23,254.24,Zoom,Software licenses,Operations,IT Infrastructure,2025-07-09 11:25:08
+2024-09-14,10840.45,Indeed Hiring,Recruitment fees,Sales,Personnel,2025-07-09 11:25:08
+2024-08-14,1674.5,Zoom,Software licenses,HR,IT Infrastructure,2025-07-09 11:25:08
+2024-07-30,1550.85,Google Ads,Marketing tools subscription,Sales,Marketing,2025-07-09 11:25:08
+2025-03-05,4441.31,Dell Business,Software/hardware,Executive,Equipment,2025-07-09 11:25:08
+2025-01-01,3042.35,HubSpot,Content creation,Operations,Marketing,2025-07-09 11:25:08
+2025-03-27,467.28,Business Services Inc,Miscellaneous expense,Executive,Other,2025-07-09 11:25:08
+2025-01-04,930.36,Miscellaneous Vendor,General business cost,Executive,Other,2025-07-09 11:25:08
+2025-05-19,1376.71,Enterprise Rent-A-Car,Conference travel,Executive,Travel,2025-07-09 11:25:08
+2025-01-02,1189.93,Verizon Business,Phone service,Sales,Utilities,2025-07-09 11:25:08
+2024-11-29,793.42,Comcast Business,Internet service,Operations,Utilities,2025-07-09 11:25:08
+2024-07-14,7060.33,Lyft,Business trip,Sales,Travel,2025-07-09 11:25:08
+2025-02-20,745.77,Amazon Business,Desk supplies,Marketing,Office Supplies,2025-07-09 11:25:08
+2025-07-01,824.35,NetGear,Office furniture,Marketing,Equipment,2025-07-09 11:25:08
+2025-02-20,870.12,Pacific Gas & Electric,Phone service,Engineering,Utilities,2025-07-09 11:25:08
+2025-01-19,475.33,Staples,Office materials,Executive,Office Supplies,2025-07-09 11:25:08
+2024-11-07,2650.48,Hootsuite,Ad campaign,Sales,Marketing,2025-07-09 11:25:08
+2025-06-06,7572.2,EY,Legal consultation,Operations,Professional Services,2025-07-09 11:25:08
+2024-12-19,650.57,Costco Business,Office materials,Finance,Office Supplies,2025-07-09 11:25:08
+2024-10-05,821.03,Miscellaneous Vendor,General business cost,Engineering,Other,2025-07-09 11:25:08
+2025-04-03,549.38,Business Services Inc,General business cost,Marketing,Other,2025-07-09 11:25:08
+2024-09-01,804.38,General Supplies Co,Miscellaneous expense,Operations,Other,2025-07-09 11:25:08
+2025-04-17,494.88,Verizon Business,Phone service,Operations,Utilities,2025-07-09 11:25:08
+2024-09-09,502.66,Verizon Business,Phone service,Marketing,Utilities,2025-07-09 11:25:08
+2025-07-02,525.02,Comcast Business,Phone service,Executive,Utilities,2025-07-09 11:25:08
+2025-07-04,1861.53,Hootsuite,Marketing tools subscription,HR,Marketing,2025-07-09 11:25:08
+2024-07-16,14656.04,Gusto,Employee benefits,Sales,Personnel,2025-07-09 11:25:08
+2024-10-11,10664.97,Gusto,Employee benefits,Sales,Personnel,2025-07-09 11:25:08
+2024-11-08,3303.18,Expedia,Business trip,Finance,Travel,2025-07-09 11:25:08
+2024-08-17,1904.11,Udemy Business,Professional certification,HR,Training,2025-07-09 11:25:08
+2024-10-25,4541.86,BambooHR,Employee benefits,Sales,Personnel,2025-07-09 11:25:08
+2024-09-11,1484.98,HubSpot,Marketing tools subscription,Executive,Marketing,2025-07-09 11:25:08
+2024-08-11,639.21,Udemy Business,Professional certification,Executive,Training,2025-07-09 11:25:08
+2025-02-01,886.3,Canva,Marketing tools subscription,Marketing,Marketing,2025-07-09 11:25:08
+2025-03-15,395.99,Costco Business,Desk supplies,Executive,Office Supplies,2025-07-09 11:25:08
+2025-03-09,4205.95,Xerox,Computer equipment,HR,Equipment,2025-07-09 11:25:08
+2024-10-29,698.03,Uber,Client meeting travel,Sales,Travel,2025-07-09 11:25:08
+2025-01-10,289.86,AT&T Business,Phone service,Sales,Utilities,2025-07-09 11:25:08
+2025-03-15,1753.33,Microsoft Azure,Software licenses,Executive,IT Infrastructure,2025-07-09 11:25:08
+2024-09-13,1710.35,Facebook Ads,Marketing tools subscription,Operations,Marketing,2025-07-09 11:25:08
+2025-04-10,7718.3,Glassdoor,Recruitment fees,Marketing,Personnel,2025-07-09 11:25:08
+2024-09-07,7298.61,Deloitte Consulting,Accounting services,Executive,Professional Services,2025-07-09 11:25:08
+2024-08-26,245.69,DigitalOcean,Cloud hosting costs,Engineering,IT Infrastructure,2025-07-09 11:25:08
+2025-01-17,1221.66,Expedia,Conference travel,Executive,Travel,2025-07-09 11:25:08
+2025-02-22,287.71,Atlassian,Cloud hosting costs,Executive,IT Infrastructure,2025-07-09 11:25:08
+2024-08-17,565.05,ConEd,Monthly utilities,Engineering,Utilities,2025-07-09 11:25:08
+2024-10-31,904.5,Lenovo,Software/hardware,Engineering,Equipment,2025-07-09 11:25:08
+2025-06-26,4059.99,HP Enterprise,Office furniture,Finance,Equipment,2025-07-09 11:25:08
+2025-02-10,4718.95,Apple Business,Software/hardware,Executive,Equipment,2025-07-09 11:25:08
+2025-03-13,4051.49,Lenovo,Computer equipment,Operations,Equipment,2025-07-09 11:25:08
+2024-08-20,10679.37,Adobe Creative,Content creation,Engineering,Marketing,2025-07-09 11:25:08
+2024-12-01,1241.62,Mailchimp,Marketing tools subscription,Engineering,Marketing,2025-07-09 11:25:08
+2024-09-07,4057.29,Canva,Ad campaign,Operations,Marketing,2025-07-09 11:25:08
+2025-01-29,1902.62,Legal Services Inc,Business consulting,Operations,Professional Services,2025-07-09 11:25:08
+2025-03-15,1090.39,Verizon Business,Phone service,Operations,Utilities,2025-07-09 11:25:08
+2025-02-20,12062.96,Indeed Hiring,Contractor payment,Marketing,Personnel,2025-07-09 11:25:08
+2024-08-14,759.31,General Supplies Co,Miscellaneous expense,HR,Other,2025-07-09 11:25:08
+2025-04-25,3692.22,Facebook Ads,Content creation,Operations,Marketing,2025-07-09 11:25:08
+2024-12-06,3244.93,Apple Business,Office furniture,Executive,Equipment,2025-07-09 11:25:08
+2025-03-12,7244.39,LinkedIn Recruiter,Contractor payment,Marketing,Personnel,2025-07-09 11:25:08
+2024-12-22,2206.32,Marriott Hotels,Client meeting travel,Engineering,Travel,2025-07-09 11:25:08
+2025-03-05,7586.79,Gusto,Employee benefits,Marketing,Personnel,2025-07-09 11:25:08
+2024-09-13,579.84,LinkedIn Learning,Conference registration,Executive,Training,2025-07-09 11:25:08
+2024-10-11,920.57,General Supplies Co,Miscellaneous expense,Finance,Other,2025-07-09 11:25:08
+2024-12-26,378.79,Home Depot,Desk supplies,Executive,Office Supplies,2025-07-09 11:25:08
+2025-03-30,3773.45,Adobe Creative,Ad campaign,Finance,Marketing,2025-07-09 11:25:08
+2025-04-17,15368.67,BambooHR,Contractor payment,Marketing,Personnel,2025-07-09 11:25:08
+2024-11-06,1295.16,Dell Business,Office furniture,Marketing,Equipment,2025-07-09 11:25:08
+2025-05-11,971.82,Verizon Business,Phone service,Marketing,Utilities,2025-07-09 11:25:08
+2025-03-09,1959.75,Delta Airlines,Business trip,HR,Travel,2025-07-09 11:25:08
+2024-07-18,1273.94,Cisco Systems,Computer equipment,Engineering,Equipment,2025-07-09 11:25:08
+2025-05-15,1356.06,Waste Management,Phone service,Sales,Utilities,2025-07-09 11:25:08
+2024-09-06,13592.16,Workday,Employee benefits,Finance,Personnel,2025-07-09 11:25:08
+2025-04-07,5235.5,EY,Business consulting,Executive,Professional Services,2025-07-09 11:25:08
+2025-02-27,11924.43,Workday,Employee benefits,Finance,Personnel,2025-07-09 11:25:08
+2024-10-14,1530.08,Udemy Business,Conference registration,Executive,Training,2025-07-09 11:25:08
+2025-05-22,407.56,Coursera Business,Online course,Finance,Training,2025-07-09 11:25:08
+2025-01-31,3808.47,Canon Business,Computer equipment,Sales,Equipment,2025-07-09 11:25:08
+2024-12-30,8237.1,Workday,Contractor payment,Engineering,Personnel,2025-07-09 11:25:08
+2025-01-23,347.27,Google Cloud,Cloud hosting costs,HR,IT Infrastructure,2025-07-09 11:25:08
+2024-12-26,2171.46,GitHub,Software licenses,Operations,IT Infrastructure,2025-07-09 11:25:08
+2025-04-14,2859.22,JetBrains,Cloud hosting costs,Finance,IT Infrastructure,2025-07-09 11:25:08
+2025-04-01,2471.52,Lyft,Client meeting travel,Engineering,Travel,2025-07-09 11:25:08
+2024-07-25,7590.55,KPMG,Accounting services,Finance,Professional Services,2025-07-09 11:25:08
+2025-04-03,302.86,AT&T Business,Internet service,Marketing,Utilities,2025-07-09 11:25:08
+2024-12-12,927.93,Miscellaneous Vendor,Miscellaneous expense,Engineering,Other,2025-07-09 11:25:08
+2025-06-06,788.83,HubSpot,Marketing tools subscription,Operations,Marketing,2025-07-09 11:25:08
+2024-09-28,6156.22,EY,Business consulting,Operations,Professional Services,2025-07-09 11:25:08
+2024-11-11,549.27,Business Services Inc,Miscellaneous expense,Finance,Other,2025-07-09 11:25:08
+2024-10-02,3682.58,Xerox,Office furniture,Finance,Equipment,2025-07-09 11:25:08
+2025-05-26,4366.58,AWS Training,Online course,Engineering,Training,2025-07-09 11:25:08
+2024-11-26,346.88,Comcast Business,Internet service,HR,Utilities,2025-07-09 11:25:08
+2025-06-11,1065.91,AT&T Business,Monthly utilities,Finance,Utilities,2025-07-09 11:25:08
+2024-08-16,279.37,Udemy Business,Professional certification,Operations,Training,2025-07-09 11:25:08
+2025-04-01,1513.66,Facebook Ads,Ad campaign,HR,Marketing,2025-07-09 11:25:08
+2024-12-08,1377.79,Uber,Client meeting travel,HR,Travel,2025-07-09 11:25:08
+2024-09-23,5960.05,Lyft,Conference travel,Operations,Travel,2025-07-09 11:25:08
+2025-01-12,2192.89,Apple Business,Office furniture,Finance,Equipment,2025-07-09 11:25:08
+2024-11-12,4594.28,Hootsuite,Content creation,Executive,Marketing,2025-07-09 11:25:08
+2025-04-05,2000.79,Cisco Systems,Computer equipment,HR,Equipment,2025-07-09 11:25:08
+2024-08-04,776.09,Docker,Software licenses,HR,IT Infrastructure,2025-07-09 11:25:08
+2024-11-27,841.68,General Supplies Co,General business cost,Operations,Other,2025-07-09 11:25:08
+2025-03-09,1469.32,Google Cloud,API usage fees,Operations,IT Infrastructure,2025-07-09 11:25:08
+2024-10-01,102.52,Office Depot,Meeting room supplies,Operations,Office Supplies,2025-07-09 11:25:08
+2024-08-18,2089.25,Salesforce,Ad campaign,Engineering,Marketing,2025-07-09 11:25:08
+2024-12-20,3176.15,Xerox,Computer equipment,Engineering,Equipment,2025-07-09 11:25:08
+2025-04-17,742.22,Business Services Inc,General business cost,Operations,Other,2025-07-09 11:25:08
+2025-03-09,3487.84,Canon Business,Software/hardware,HR,Equipment,2025-07-09 11:25:08
+2025-04-03,3924.77,HubSpot,Content creation,Sales,Marketing,2025-07-09 11:25:08
+2025-02-27,498.67,Home Depot,Office materials,Operations,Office Supplies,2025-07-09 11:25:08
+2025-04-12,2130.69,Office Depot,Office materials,Executive,Office Supplies,2025-07-09 11:25:08
+2024-10-07,692.13,AT&T Business,Phone service,Sales,Utilities,2025-07-09 11:25:08
+2024-12-05,4612.31,Facebook Ads,Marketing tools subscription,Executive,Marketing,2025-07-09 11:25:08
+2024-07-17,293.06,Amazon Business,Desk supplies,Executive,Office Supplies,2025-07-09 11:25:08
+2025-04-11,2311.06,Uber,Conference travel,Operations,Travel,2025-07-09 11:25:08
+2024-10-04,174.93,Pluralsight,Online course,Sales,Training,2025-07-09 11:25:08
+2024-10-11,6017.21,Paychex,Recruitment fees,Executive,Personnel,2025-07-09 11:25:08
+2024-10-07,797.6,Costco Business,Desk supplies,Executive,Office Supplies,2025-07-09 11:25:08
+2025-01-27,542.77,General Supplies Co,Miscellaneous expense,HR,Other,2025-07-09 11:25:08
+2025-06-27,1421.89,DigitalOcean,API usage fees,Finance,IT Infrastructure,2025-07-09 11:25:08
+2024-09-25,769.11,Canon Business,Software/hardware,Operations,Equipment,2025-07-09 11:25:08
+2025-02-20,1159.47,Apple Business,Office furniture,Marketing,Equipment,2025-07-09 11:25:08
+2025-01-30,8840.34,BambooHR,Recruitment fees,Engineering,Personnel,2025-07-09 11:25:08
+2024-07-20,2292.43,Enterprise Rent-A-Car,Business trip,HR,Travel,2025-07-09 11:25:08
+2024-09-28,7388.14,EY,Accounting services,Finance,Professional Services,2025-07-09 11:25:08
+2024-09-04,4145.28,Canva,Marketing tools subscription,Marketing,Marketing,2025-07-09 11:25:08
+2024-09-07,3061.42,EY,Accounting services,Sales,Professional Services,2025-07-09 11:25:08
+2024-08-17,3618.85,LinkedIn Marketing,Marketing tools subscription,Operations,Marketing,2025-07-09 11:25:08
+2024-07-21,4760.76,Workday,Contractor payment,Marketing,Personnel,2025-07-09 11:25:08
+2025-07-04,11899.59,Gusto,Employee benefits,Engineering,Personnel,2025-07-09 11:25:08
+2025-02-03,1547.84,Heroku,API usage fees,Operations,IT Infrastructure,2025-07-09 11:25:08
+2024-12-22,349.73,IKEA Business,Meeting room supplies,Sales,Office Supplies,2025-07-09 11:25:08
+2025-05-26,301.61,Miscellaneous Vendor,Miscellaneous expense,HR,Other,2025-07-09 11:25:08
+2024-07-27,1036.09,Waste Management,Internet service,Finance,Utilities,2025-07-09 11:25:08
+2024-08-29,3481.33,Indeed Hiring,Contractor payment,Engineering,Personnel,2025-07-09 11:25:08
+2025-07-09,671.7,Miscellaneous Vendor,General business cost,HR,Other,2025-07-09 11:25:08
+2025-02-20,13336.94,Gusto,Contractor payment,Operations,Personnel,2025-07-09 11:25:08
+2024-09-30,105.28,O'Reilly Media,Professional certification,Sales,Training,2025-07-09 11:25:08
+2024-08-16,148.74,General Supplies Co,General business cost,Marketing,Other,2025-07-09 11:25:08
+2025-02-14,952.93,Miscellaneous Vendor,Miscellaneous expense,Engineering,Other,2025-07-09 11:25:08
+2025-06-27,3318.46,Lenovo,Office furniture,HR,Equipment,2025-07-09 11:25:08
+2024-11-12,1061.29,Atlassian,Software licenses,Operations,IT Infrastructure,2025-07-09 11:25:08
+2024-08-29,1241.91,Pluralsight,Online course,Engineering,Training,2025-07-09 11:25:08
+2024-11-21,834.87,Enterprise Rent-A-Car,Conference travel,Operations,Travel,2025-07-09 11:25:08
+2025-02-24,3414.37,Apple Business,Computer equipment,HR,Equipment,2025-07-09 11:25:08
+2024-09-13,2251.18,Marriott Hotels,Conference travel,Executive,Travel,2025-07-09 11:25:08
+2024-12-01,1750.68,AWS,Cloud hosting costs,Executive,IT Infrastructure,2025-07-09 11:25:08
+2024-12-03,2387.62,KPMG,Business consulting,Finance,Professional Services,2025-07-09 11:25:08
+2024-11-29,5121.26,Indeed Hiring,Employee benefits,Executive,Personnel,2025-07-09 11:25:08
+2024-10-08,1155.28,United Airlines,Business trip,Sales,Travel,2025-07-09 11:25:08
+2025-02-07,346.73,Pacific Gas & Electric,Internet service,HR,Utilities,2025-07-09 11:25:08
+2025-02-12,408.05,Waste Management,Monthly utilities,Engineering,Utilities,2025-07-09 11:25:08
+2025-01-30,7405.32,McKinsey,Business consulting,Finance,Professional Services,2025-07-09 11:25:08
+2025-03-20,4924.3,Lenovo,Computer equipment,Finance,Equipment,2025-07-09 11:25:08
+2024-08-27,12888.09,Indeed Hiring,Contractor payment,Engineering,Personnel,2025-07-09 11:25:08
+2024-07-18,518.98,Pacific Gas & Electric,Phone service,Sales,Utilities,2025-07-09 11:25:08
+2025-02-11,460.55,AWS Training,Conference registration,Executive,Training,2025-07-09 11:25:08
+2024-10-05,6227.05,LinkedIn Recruiter,Contractor payment,Engineering,Personnel,2025-07-09 11:25:08
+2025-01-01,5481.64,McKinsey,Legal consultation,Executive,Professional Services,2025-07-09 11:25:08
+2025-01-22,1308.47,Conference Registration,Professional certification,Sales,Training,2025-07-09 11:25:08
+2024-12-18,12273.81,BambooHR,Contractor payment,Marketing,Personnel,2025-07-09 11:25:08
+2025-06-19,607.94,General Supplies Co,Miscellaneous expense,Marketing,Other,2025-07-09 11:25:08
+2025-07-01,1934.64,Conference Registration,Professional certification,Marketing,Training,2025-07-09 11:25:08
+2025-01-23,6240.58,Smith & Associates,Business consulting,Engineering,Professional Services,2025-07-09 11:25:08
+2025-04-16,10772.35,JetBrains,API usage fees,Executive,IT Infrastructure,2025-07-09 11:25:08
+2024-07-31,529.18,Uber,Business trip,Finance,Travel,2025-07-09 11:25:08
+2024-12-28,1007.77,Comcast Business,Phone service,HR,Utilities,2025-07-09 11:25:08
+2024-12-27,3841.89,Hootsuite,Ad campaign,Sales,Marketing,2025-07-09 11:25:08
+2025-04-24,2479.63,United Airlines,Conference travel,Finance,Travel,2025-07-09 11:25:08
+2025-05-01,148.11,IKEA Business,Meeting room supplies,Operations,Office Supplies,2025-07-09 11:25:08
+2024-08-12,753.39,Waste Management,Monthly utilities,Marketing,Utilities,2025-07-09 11:25:08
+2024-10-07,4357.05,LinkedIn Marketing,Ad campaign,Sales,Marketing,2025-07-09 11:25:08
+2024-11-24,3601.12,Dell Business,Software/hardware,Marketing,Equipment,2025-07-09 11:25:08
+2024-07-26,291.52,LinkedIn Learning,Professional certification,Sales,Training,2025-07-09 11:25:08
+2024-12-07,1074.67,EY,Business consulting,Sales,Professional Services,2025-07-09 11:25:08
+2024-09-20,3435.82,Mailchimp,Content creation,Finance,Marketing,2025-07-09 11:25:08
+2025-03-16,1585.28,Slack,API usage fees,Operations,IT Infrastructure,2025-07-09 11:25:08
+2024-07-14,5607.28,Indeed Hiring,Contractor payment,Marketing,Personnel,2025-07-09 11:25:08
+2024-10-11,297.92,General Supplies Co,General business cost,HR,Other,2025-07-09 11:25:08
+2025-03-04,421.4,Best Buy Business,Office materials,Engineering,Office Supplies,2025-07-09 11:25:08
+2024-09-24,889.42,Miscellaneous Vendor,Miscellaneous expense,Marketing,Other,2025-07-09 11:25:08
+2025-04-19,1079.18,Conference Registration,Online course,HR,Training,2025-07-09 11:25:08
+2024-12-28,3099.46,Dell Business,Software/hardware,Finance,Equipment,2025-07-09 11:25:08
+2024-12-17,1268.57,Comcast Business,Monthly utilities,Marketing,Utilities,2025-07-09 11:25:08
+2024-10-29,3210.77,NetGear,Software/hardware,HR,Equipment,2025-07-09 11:25:08
+2024-10-16,1238.66,Verizon Business,Monthly utilities,Engineering,Utilities,2025-07-09 11:25:08
+2025-04-24,921.39,General Supplies Co,General business cost,Operations,Other,2025-07-09 11:25:08
+2024-08-18,6728.15,EY,Accounting services,Executive,Professional Services,2025-07-09 11:25:08
+2025-04-13,887.11,Uber,Client meeting travel,Engineering,Travel,2025-07-09 11:25:08
+2024-11-27,680.63,Verizon Business,Monthly utilities,Marketing,Utilities,2025-07-09 11:25:08
+2024-12-08,342.18,Staples,Meeting room supplies,Engineering,Office Supplies,2025-07-09 11:25:08
+2024-12-05,2156.38,Marriott Hotels,Business trip,HR,Travel,2025-07-09 11:25:08
+2025-04-23,39791.0,Paychex,Contractor payment,Operations,Personnel,2025-07-09 11:25:08
+2024-08-12,1513.73,DigitalOcean,API usage fees,HR,IT Infrastructure,2025-07-09 11:25:08
+2025-01-28,12733.26,ADP Payroll,Employee benefits,HR,Personnel,2025-07-09 11:25:08
+2025-04-16,6166.99,McKinsey,Accounting services,Executive,Professional Services,2025-07-09 11:25:08
+2025-01-31,246.55,GitHub,Cloud hosting costs,Sales,IT Infrastructure,2025-07-09 11:25:08
+2025-04-17,58.18,Best Buy Business,Desk supplies,Engineering,Office Supplies,2025-07-09 11:25:08
+2025-06-25,1799.75,Cisco Systems,Software/hardware,Sales,Equipment,2025-07-09 11:25:08
+2025-05-10,733.63,Docker,API usage fees,Executive,IT Infrastructure,2025-07-09 11:25:08
+2025-01-13,2092.92,Google Ads,Marketing tools subscription,Sales,Marketing,2025-07-09 11:25:08
+2025-02-19,5744.04,KPMG,Legal consultation,Finance,Professional Services,2025-07-09 11:25:08
+2025-03-25,516.86,Miscellaneous Vendor,Miscellaneous expense,Executive,Other,2025-07-09 11:25:08
+2025-01-11,697.83,Xerox,Software/hardware,Engineering,Equipment,2025-07-09 11:25:08
+2024-10-23,430.52,Miscellaneous Vendor,General business cost,Sales,Other,2025-07-09 11:25:08
+2024-08-04,768.84,Office Depot,Office materials,Engineering,Office Supplies,2025-07-09 11:25:08
+2025-02-12,5910.37,PwC,Business consulting,Sales,Professional Services,2025-07-09 11:25:08
+2025-06-09,4416.34,Legal Services Inc,Legal consultation,Sales,Professional Services,2025-07-09 11:25:08
+2025-02-09,2809.09,Canon Business,Office furniture,Marketing,Equipment,2025-07-09 11:25:08
+2025-01-20,2646.47,Adobe Creative,Ad campaign,Operations,Marketing,2025-07-09 11:25:08
+2024-12-21,304.28,Best Buy Business,Office materials,Sales,Office Supplies,2025-07-09 11:25:08
+2024-09-18,4894.45,Facebook Ads,Content creation,Engineering,Marketing,2025-07-09 11:25:08
+2025-05-23,4606.66,Facebook Ads,Content creation,HR,Marketing,2025-07-09 11:25:08
+2024-10-30,700.18,Costco Business,Office materials,HR,Office Supplies,2025-07-09 11:25:08
+2024-09-20,138.04,Miscellaneous Vendor,Miscellaneous expense,Finance,Other,2025-07-09 11:25:08
+2024-10-03,1238.99,GitHub,Software licenses,Executive,IT Infrastructure,2025-07-09 11:25:08
+2024-12-16,580.52,DigitalOcean,API usage fees,HR,IT Infrastructure,2025-07-09 11:25:08
+2025-03-29,4358.65,Smith & Associates,Legal consultation,Sales,Professional Services,2025-07-09 11:25:08
+2025-04-07,1996.82,Salesforce,Ad campaign,Sales,Marketing,2025-07-09 11:25:08
+2024-09-26,1732.53,United Airlines,Conference travel,Finance,Travel,2025-07-09 11:25:08
+2024-09-06,620.77,Business Services Inc,General business cost,Executive,Other,2025-07-09 11:25:08
+2025-05-14,1053.86,Google Cloud,Cloud hosting costs,Finance,IT Infrastructure,2025-07-09 11:25:08
+2025-06-06,1165.16,Legal Services Inc,Legal consultation,Sales,Professional Services,2025-07-09 11:25:08
+2024-10-24,1283.13,Mailchimp,Ad campaign,Sales,Marketing,2025-07-09 11:25:08
+2024-12-30,593.09,Pacific Gas & Electric,Phone service,Operations,Utilities,2025-07-09 11:25:08
+2024-12-28,1228.87,HubSpot,Ad campaign,Marketing,Marketing,2025-07-09 11:25:08
+2024-09-06,752.27,Miscellaneous Vendor,Miscellaneous expense,Finance,Other,2025-07-09 11:25:08
+2025-01-19,298.97,General Supplies Co,General business cost,HR,Other,2025-07-09 11:25:08
+2024-09-11,548.7,DigitalOcean,API usage fees,HR,IT Infrastructure,2025-07-09 11:25:08
+2025-02-04,577.8,Canon Business,Office furniture,Engineering,Equipment,2025-07-09 11:25:08
+2025-05-08,565.35,IKEA Business,Meeting room supplies,Marketing,Office Supplies,2025-07-09 11:25:08
+2025-07-02,7928.44,Indeed Hiring,Recruitment fees,Finance,Personnel,2025-07-09 11:25:08
+2025-01-10,436.69,Zoom,API usage fees,HR,IT Infrastructure,2025-07-09 11:25:08
+2025-06-18,1540.93,Pluralsight,Conference registration,Engineering,Training,2025-07-09 11:25:08
+2024-09-17,746.43,Business Services Inc,General business cost,Marketing,Other,2025-07-09 11:25:08
+2025-03-12,561.91,United Airlines,Conference travel,Engineering,Travel,2025-07-09 11:25:08
+2025-05-25,2411.63,Enterprise Rent-A-Car,Client meeting travel,Marketing,Travel,2025-07-09 11:25:08
+2025-05-23,2385.88,DigitalOcean,API usage fees,HR,IT Infrastructure,2025-07-09 11:25:08
+2024-11-28,3152.3,KPMG,Business consulting,Engineering,Professional Services,2025-07-09 11:25:08
+2025-05-12,13303.87,Workday,Employee benefits,Engineering,Personnel,2025-07-09 11:25:08
+2024-08-30,794.61,AWS Training,Conference registration,Sales,Training,2025-07-09 11:25:08
+2025-01-10,420.86,Marriott Hotels,Conference travel,Sales,Travel,2025-07-09 11:25:08
+2024-10-08,643.59,Apple Business,Office furniture,Sales,Equipment,2025-07-09 11:25:08
+2024-12-15,1160.51,HP Enterprise,Software/hardware,Finance,Equipment,2025-07-09 11:25:08
+2025-02-11,840.39,Udemy Business,Professional certification,Marketing,Training,2025-07-09 11:25:08
+2024-09-29,396.49,Miscellaneous Vendor,General business cost,HR,Other,2025-07-09 11:25:08
+2025-06-29,3916.45,Smith & Associates,Legal consultation,Engineering,Professional Services,2025-07-09 11:25:08
+2025-06-29,3894.06,Gusto,Employee benefits,Engineering,Personnel,2025-07-09 11:25:08
+2025-01-26,1547.92,AWS Training,Online course,Marketing,Training,2025-07-09 11:25:08
+2024-11-26,989.02,Enterprise Rent-A-Car,Client meeting travel,Finance,Travel,2025-07-09 11:25:08
+2025-05-13,3068.9,Dell Business,Software/hardware,Executive,Equipment,2025-07-09 11:25:08
+2025-02-15,7862.96,KPMG,Business consulting,Finance,Professional Services,2025-07-09 11:25:08
+2025-07-07,2291.48,Apple Business,Computer equipment,Marketing,Equipment,2025-07-09 11:25:08
+2024-08-13,115.32,AWS Training,Online course,Operations,Training,2025-07-09 11:25:08
+2025-02-25,629.82,AT&T Business,Internet service,Finance,Utilities,2025-07-09 11:25:08
+2025-01-16,5242.2,BambooHR,Recruitment fees,Marketing,Personnel,2025-07-09 11:25:08
+2025-04-28,1514.14,Slack,Cloud hosting costs,Sales,IT Infrastructure,2025-07-09 11:25:08
+2025-02-15,3489.86,Dell Business,Office furniture,HR,Equipment,2025-07-09 11:25:08
+2025-02-09,2305.56,AWS,Cloud hosting costs,Finance,IT Infrastructure,2025-07-09 11:25:08
+2024-10-07,854.13,General Supplies Co,General business cost,Marketing,Other,2025-07-09 11:25:08
+2025-05-20,1311.73,HubSpot,Content creation,Sales,Marketing,2025-07-09 11:25:08
+2024-11-21,220.28,General Supplies Co,Miscellaneous expense,HR,Other,2025-07-09 11:25:08
+2024-10-27,228.57,Business Services Inc,Miscellaneous expense,Operations,Other,2025-07-09 11:25:08
+2024-09-04,893.26,Cisco Systems,Computer equipment,HR,Equipment,2025-07-09 11:25:08
+2025-01-25,1480.69,Zoom,Cloud hosting costs,Operations,IT Infrastructure,2025-07-09 11:25:08
+2025-03-12,609.34,Amazon Business,Meeting room supplies,Operations,Office Supplies,2025-07-09 11:25:08
+2025-06-18,483.84,IKEA Business,Meeting room supplies,Executive,Office Supplies,2025-07-09 11:25:08
+2025-01-04,14336.53,BambooHR,Contractor payment,Engineering,Personnel,2025-07-09 11:25:08
+2024-08-14,12723.83,BambooHR,Employee benefits,Marketing,Personnel,2025-07-09 11:25:08
+2025-03-10,1422.76,Conference Registration,Professional certification,Engineering,Training,2025-07-09 11:25:08
+2025-04-19,6554.78,Paychex,Recruitment fees,Sales,Personnel,2025-07-09 11:25:08
+2025-07-07,5570.22,Workday,Recruitment fees,Finance,Personnel,2025-07-09 11:25:08
+2024-09-07,11566.3,LinkedIn Recruiter,Contractor payment,Executive,Personnel,2025-07-09 11:25:08
+2025-02-14,722.0,IKEA Business,Desk supplies,Marketing,Office Supplies,2025-07-09 11:25:08
+2025-06-22,1705.75,Pluralsight,Professional certification,Finance,Training,2025-07-09 11:25:08
+2025-02-14,1131.12,Verizon Business,Phone service,Executive,Utilities,2025-07-09 11:25:08
+2025-07-03,1944.41,Mailchimp,Marketing tools subscription,Marketing,Marketing,2025-07-09 11:25:08
+2024-12-15,5999.15,Workday,Recruitment fees,Sales,Personnel,2025-07-09 11:25:08
+2025-03-11,468.48,Business Services Inc,General business cost,Finance,Other,2025-07-09 11:25:08
+2024-12-24,4452.29,HP Enterprise,Software/hardware,HR,Equipment,2025-07-09 11:25:08
+2024-09-12,211.9,ConEd,Monthly utilities,Finance,Utilities,2025-07-09 11:25:08
+2024-09-05,236.62,Office Depot,Meeting room supplies,Engineering,Office Supplies,2025-07-09 11:25:08
+2025-05-09,2682.58,Deloitte Consulting,Business consulting,Finance,Professional Services,2025-07-09 11:25:08
+2024-10-14,3267.26,Wilson Law Firm,Legal consultation,Operations,Professional Services,2025-07-09 11:25:08
+2025-06-15,14773.0,LinkedIn Recruiter,Recruitment fees,Sales,Personnel,2025-07-09 11:25:08
+2025-05-27,466.02,LinkedIn Learning,Online course,Marketing,Training,2025-07-09 11:25:08
+2025-05-28,7795.09,Gusto,Contractor payment,Engineering,Personnel,2025-07-09 11:25:08
+2025-05-13,2495.17,HubSpot,Marketing tools subscription,Marketing,Marketing,2025-07-09 11:25:08
+2024-12-10,1922.89,NetGear,Software/hardware,Engineering,Equipment,2025-07-09 11:25:08
+2024-12-26,263.79,AT&T Business,Monthly utilities,Operations,Utilities,2025-07-09 11:25:08
+2025-03-17,6815.95,McKinsey,Legal consultation,Executive,Professional Services,2025-07-09 11:25:08
+2025-06-10,443.06,ConEd,Monthly utilities,Executive,Utilities,2025-07-09 11:25:08
+2025-05-24,311.84,Miscellaneous Vendor,General business cost,Engineering,Other,2025-07-09 11:25:08
+2025-04-05,816.49,Waste Management,Phone service,Operations,Utilities,2025-07-09 11:25:08
+2024-08-26,2280.56,Google Cloud,Cloud hosting costs,Executive,IT Infrastructure,2025-07-09 11:25:08
+2025-01-15,1962.62,AWS,Software licenses,Sales,IT Infrastructure,2025-07-09 11:25:08
+2024-11-04,3170.15,HubSpot,Content creation,Sales,Marketing,2025-07-09 11:25:08
+2024-10-16,3677.12,PwC,Accounting services,Executive,Professional Services,2025-07-09 11:25:08
+2024-07-15,735.65,Coursera Business,Conference registration,Finance,Training,2025-07-09 11:25:08
+2024-11-13,2445.7,Lenovo,Computer equipment,HR,Equipment,2025-07-09 11:25:08
+2025-06-26,1931.3,Conference Registration,Conference registration,Sales,Training,2025-07-09 11:25:08
+2025-01-05,906.0,Miscellaneous Vendor,Miscellaneous expense,HR,Other,2025-07-09 11:25:08
+2025-03-12,2764.19,Google Ads,Ad campaign,Operations,Marketing,2025-07-09 11:25:08
+2025-04-11,7468.17,Apple Business,Computer equipment,HR,Equipment,2025-07-09 11:25:08
+2024-12-14,1427.87,Atlassian,API usage fees,Executive,IT Infrastructure,2025-07-09 11:25:08
+2025-02-01,4852.26,NetGear,Computer equipment,Marketing,Equipment,2025-07-09 11:25:08
+2025-05-12,825.93,Miscellaneous Vendor,General business cost,Sales,Other,2025-07-09 11:25:08
+2025-05-04,1694.43,Docker,Software licenses,Marketing,IT Infrastructure,2025-07-09 11:25:08
+2025-03-08,231.35,Staples,Meeting room supplies,Executive,Office Supplies,2025-07-09 11:25:08
+2025-01-31,3420.29,Legal Services Inc,Business consulting,Finance,Professional Services,2025-07-09 11:25:08
+2025-06-10,2348.01,Amazon Business,Desk supplies,Marketing,Office Supplies,2025-07-09 11:25:08
+2025-03-19,547.43,Miscellaneous Vendor,General business cost,HR,Other,2025-07-09 11:25:08
+2024-08-23,994.3,Business Services Inc,General business cost,Executive,Other,2025-07-09 11:25:08
+2024-08-20,1691.52,Wilson Law Firm,Accounting services,Engineering,Professional Services,2025-07-09 11:25:08
+2024-08-26,254.68,Staples,Meeting room supplies,Sales,Office Supplies,2025-07-09 11:25:08
+2025-02-05,132.5,Amazon Business,Office materials,Operations,Office Supplies,2025-07-09 11:25:08
+2025-06-11,947.48,Zoom,API usage fees,Marketing,IT Infrastructure,2025-07-09 11:25:08
+2024-11-26,1277.2,Canva,Content creation,Marketing,Marketing,2025-07-09 11:25:08
+2024-11-16,11610.02,Gusto,Employee benefits,Engineering,Personnel,2025-07-09 11:25:08
+2025-03-11,205.6,Waste Management,Monthly utilities,HR,Utilities,2025-07-09 11:25:08
+2025-03-08,811.12,General Supplies Co,Miscellaneous expense,Marketing,Other,2025-07-09 11:25:08
+2025-03-20,939.42,Coursera Business,Conference registration,Marketing,Training,2025-07-09 11:25:08
+2025-07-02,4508.09,Xerox,Office furniture,HR,Equipment,2025-07-09 11:25:08
+2025-04-17,3212.1,Wilson Law Firm,Accounting services,Engineering,Professional Services,2025-07-09 11:25:08
+2025-04-30,1193.9,Microsoft Azure,Software licenses,Marketing,IT Infrastructure,2025-07-09 11:25:08
+2025-06-29,202.96,LinkedIn Learning,Online course,Finance,Training,2025-07-09 11:25:08
+2025-06-05,4913.91,Smith & Associates,Business consulting,Engineering,Professional Services,2025-07-09 11:25:08
+2025-06-27,781.45,Pluralsight,Professional certification,Marketing,Training,2025-07-09 11:25:08
+2024-08-11,8790.76,BambooHR,Contractor payment,HR,Personnel,2025-07-09 11:25:08
+2025-04-10,1916.35,Expedia,Business trip,Marketing,Travel,2025-07-09 11:25:08
+2024-08-13,4671.13,Canon Business,Computer equipment,HR,Equipment,2025-07-09 11:25:08
+2025-03-29,1971.33,Facebook Ads,Ad campaign,Executive,Marketing,2025-07-09 11:25:08
+2024-07-16,670.08,Business Services Inc,Miscellaneous expense,Operations,Other,2025-07-09 11:25:08
+2025-06-16,1284.51,Comcast Business,Phone service,Operations,Utilities,2025-07-09 11:25:08
+2024-08-28,1574.01,AWS Training,Online course,HR,Training,2025-07-09 11:25:08
+2025-03-11,759.22,Miscellaneous Vendor,General business cost,Marketing,Other,2025-07-09 11:25:08
+2024-09-29,1543.96,O'Reilly Media,Professional certification,Engineering,Training,2025-07-09 11:25:08
+2025-01-15,2321.14,Hootsuite,Content creation,Marketing,Marketing,2025-07-09 11:25:08
+2025-06-08,268.72,Amazon Business,Meeting room supplies,Executive,Office Supplies,2025-07-09 11:25:08
+2025-03-17,4488.94,Xerox,Software/hardware,Finance,Equipment,2025-07-09 11:25:08
+2025-05-20,763.36,Coursera Business,Conference registration,Engineering,Training,2025-07-09 11:25:08
+2025-04-05,4657.5,Workday,Contractor payment,Sales,Personnel,2025-07-09 11:25:08
+2024-09-23,4953.71,Mailchimp,Content creation,HR,Marketing,2025-07-09 11:25:08
+2025-06-08,1619.77,O'Reilly Media,Online course,Operations,Training,2025-07-09 11:25:08
+2025-06-09,396.64,Uber,Client meeting travel,Finance,Travel,2025-07-09 11:25:08
+2025-02-08,5534.6,EY,Accounting services,Marketing,Professional Services,2025-07-09 11:25:08
+2024-08-07,578.07,Pacific Gas & Electric,Phone service,HR,Utilities,2025-07-09 11:25:08
+2025-04-27,1879.41,HP Enterprise,Software/hardware,Marketing,Equipment,2025-07-09 11:25:08
+2024-09-21,1201.88,Slack,Software licenses,Executive,IT Infrastructure,2025-07-09 11:25:08
+2025-06-23,12887.4,Paychex,Employee benefits,Sales,Personnel,2025-07-09 11:25:08
+2024-08-18,4092.12,United Airlines,Conference travel,HR,Travel,2025-07-09 11:25:08
+2025-07-02,415.74,Hilton,Conference travel,Finance,Travel,2025-07-09 11:25:08
+2024-08-28,11522.52,LinkedIn Recruiter,Employee benefits,Operations,Personnel,2025-07-09 11:25:08
+2025-06-20,7417.54,EY,Legal consultation,Engineering,Professional Services,2025-07-09 11:25:08
+2025-02-07,6300.26,ADP Payroll,Employee benefits,Finance,Personnel,2025-07-09 11:25:08
+2024-12-28,552.21,Home Depot,Meeting room supplies,Operations,Office Supplies,2025-07-09 11:25:08
+2024-12-02,349.35,Marriott Hotels,Conference travel,HR,Travel,2025-07-09 11:25:08
+2024-09-18,856.82,General Supplies Co,Miscellaneous expense,HR,Other,2025-07-09 11:25:08
+2024-12-06,203.7,Business Services Inc,Miscellaneous expense,Sales,Other,2025-07-09 11:25:08
+2025-05-15,3660.03,Mailchimp,Marketing tools subscription,Executive,Marketing,2025-07-09 11:25:08
+2025-03-24,3855.95,LinkedIn Marketing,Content creation,Marketing,Marketing,2025-07-09 11:25:08
+2025-01-24,718.68,General Supplies Co,General business cost,Finance,Other,2025-07-09 11:25:08
+2025-05-05,805.87,Miscellaneous Vendor,Miscellaneous expense,Operations,Other,2025-07-09 11:25:08
+2025-05-12,2215.45,Microsoft Azure,Cloud hosting costs,HR,IT Infrastructure,2025-07-09 11:25:08
+2025-02-03,1374.99,Pacific Gas & Electric,Monthly utilities,Sales,Utilities,2025-07-09 11:25:08
+2024-07-26,7119.72,Deloitte Consulting,Business consulting,Sales,Professional Services,2025-07-09 11:25:08
+2024-12-24,595.62,Miscellaneous Vendor,Miscellaneous expense,Sales,Other,2025-07-09 11:25:08
+2024-09-05,558.99,Home Depot,Meeting room supplies,Marketing,Office Supplies,2025-07-09 11:25:08
+2025-06-16,2923.12,Slack,API usage fees,Sales,IT Infrastructure,2025-07-09 11:25:08
+2025-01-04,564.49,Office Depot,Desk supplies,Executive,Office Supplies,2025-07-09 11:25:08
+2025-02-07,1277.0,Canva,Content creation,Engineering,Marketing,2025-07-09 11:25:08
+2024-09-15,760.93,Delta Airlines,Conference travel,Sales,Travel,2025-07-09 11:25:08
+2025-04-08,373.47,General Supplies Co,General business cost,Engineering,Other,2025-07-09 11:25:08
+2024-10-20,1766.96,Dell Business,Office furniture,Executive,Equipment,2025-07-09 11:25:08
+2024-11-19,6566.82,Wilson Law Firm,Business consulting,Executive,Professional Services,2025-07-09 11:25:08
+2024-07-28,1167.19,Salesforce,Content creation,Finance,Marketing,2025-07-09 11:25:08
+2025-04-05,1194.65,Comcast Business,Internet service,Engineering,Utilities,2025-07-09 11:25:08
+2024-10-29,1708.45,Hilton,Business trip,Executive,Travel,2025-07-09 11:25:08
+2025-03-06,2384.37,AWS,Software licenses,Marketing,IT Infrastructure,2025-07-09 11:25:08
+2025-04-22,3710.31,Cisco Systems,Computer equipment,Finance,Equipment,2025-07-09 11:25:08
+2024-11-17,2135.99,Slack,API usage fees,HR,IT Infrastructure,2025-07-09 11:25:08
+2025-06-20,227.35,Amazon Business,Office materials,Finance,Office Supplies,2025-07-09 11:25:08
+2025-06-04,2824.92,GitHub,Software licenses,Executive,IT Infrastructure,2025-07-09 11:25:08
+2024-08-12,4641.03,Coursera Business,Online course,Executive,Training,2025-07-09 11:25:08
+2024-11-09,654.61,Business Services Inc,General business cost,Finance,Other,2025-07-09 11:25:08
+2025-03-01,949.96,Business Services Inc,Miscellaneous expense,HR,Other,2025-07-09 11:25:08
+2025-03-26,1893.11,O'Reilly Media,Online course,Operations,Training,2025-07-09 11:25:08
+2024-10-02,3858.0,McKinsey,Accounting services,Marketing,Professional Services,2025-07-09 11:25:08
+2024-11-25,1567.77,JetBrains,Cloud hosting costs,HR,IT Infrastructure,2025-07-09 11:25:08
+2024-08-25,2777.22,Microsoft Azure,API usage fees,Engineering,IT Infrastructure,2025-07-09 11:25:08
+2025-05-06,3146.42,HP Enterprise,Software/hardware,Operations,Equipment,2025-07-09 11:25:08
+2024-11-04,1715.24,Uber,Client meeting travel,Marketing,Travel,2025-07-09 11:25:08
+2025-06-17,657.08,Comcast Business,Monthly utilities,Executive,Utilities,2025-07-09 11:25:08
+2024-11-05,821.83,Business Services Inc,Miscellaneous expense,Sales,Other,2025-07-09 11:25:08
+2024-11-06,2019.62,Uber,Client meeting travel,Operations,Travel,2025-07-09 11:25:08
+2024-08-16,6810.45,Marriott Hotels,Client meeting travel,Operations,Travel,2025-07-09 11:25:08
+2024-07-29,636.32,O'Reilly Media,Online course,HR,Training,2025-07-09 11:25:08
+2024-08-01,1704.29,Hilton,Conference travel,HR,Travel,2025-07-09 11:25:08
+2025-01-20,4640.16,HubSpot,Marketing tools subscription,Marketing,Marketing,2025-07-09 11:25:08
+2025-02-11,2460.07,Uber,Conference travel,Sales,Travel,2025-07-09 11:25:08
+2024-07-21,1902.77,Google Ads,Ad campaign,Marketing,Marketing,2025-07-09 11:25:08
+2024-10-06,863.15,AT&T Business,Internet service,Operations,Utilities,2025-07-09 11:25:08
+2024-09-08,4062.44,Google Ads,Content creation,Marketing,Marketing,2025-07-09 11:25:08
+2024-09-09,747.9,IKEA Business,Meeting room supplies,Executive,Office Supplies,2025-07-09 11:25:08
+2024-07-28,719.31,Conference Registration,Conference registration,Operations,Training,2025-07-09 11:25:08
+2024-12-04,4731.53,Dell Business,Office furniture,HR,Equipment,2025-07-09 11:25:08
+2024-09-05,282.27,Waste Management,Internet service,HR,Utilities,2025-07-09 11:25:08
+2024-11-08,1904.13,Expedia,Business trip,Marketing,Travel,2025-07-09 11:25:08
+2025-01-24,11983.96,BambooHR,Contractor payment,Operations,Personnel,2025-07-09 11:25:08
+2025-04-27,1145.63,Cisco Systems,Computer equipment,Sales,Equipment,2025-07-09 11:25:08
+2025-02-27,1165.47,Pluralsight,Online course,HR,Training,2025-07-09 11:25:08
+2024-10-12,3260.09,Lenovo,Office furniture,Engineering,Equipment,2025-07-09 11:25:08
+2024-09-03,14144.01,Paychex,Contractor payment,Operations,Personnel,2025-07-09 11:25:08
+2025-03-19,2302.68,Canon Business,Computer equipment,Sales,Equipment,2025-07-09 11:25:08
+2024-08-14,468.52,Office Depot,Desk supplies,Engineering,Office Supplies,2025-07-09 11:25:08
+2025-02-04,1480.68,Waste Management,Phone service,Engineering,Utilities,2025-07-09 11:25:08
+2024-09-01,3330.9,Canva,Ad campaign,Executive,Marketing,2025-07-09 11:25:08
+2025-01-01,5565.33,Workday,Contractor payment,Engineering,Personnel,2025-07-09 11:25:08
+2025-05-18,2873.94,Canon Business,Computer equipment,Executive,Equipment,2025-07-09 11:25:08
+2024-11-22,530.96,Miscellaneous Vendor,Miscellaneous expense,Finance,Other,2025-07-09 11:25:08
+2025-01-23,129.34,O'Reilly Media,Professional certification,HR,Training,2025-07-09 11:25:08
+2025-07-03,210.55,Miscellaneous Vendor,Miscellaneous expense,Sales,Other,2025-07-09 11:25:08
+2025-04-24,309.33,Verizon Business,Phone service,Engineering,Utilities,2025-07-09 11:25:08
+2024-09-09,1325.29,Dell Business,Software/hardware,Engineering,Equipment,2025-07-09 11:25:08
+2024-12-25,5342.81,PwC,Business consulting,Finance,Professional Services,2025-07-09 11:25:08
+2024-08-18,549.67,Amazon Business,Office materials,Engineering,Office Supplies,2025-07-09 11:25:08
+2025-05-06,1872.81,Airbnb,Business trip,Marketing,Travel,2025-07-09 11:25:08
+2024-09-02,587.11,ConEd,Monthly utilities,Finance,Utilities,2025-07-09 11:25:08
+2024-09-03,2542.57,NetGear,Computer equipment,HR,Equipment,2025-07-09 11:25:08
+2024-08-10,6735.09,Hilton,Conference travel,Operations,Travel,2025-07-09 11:25:08
+2025-06-27,2462.49,Google Ads,Content creation,HR,Marketing,2025-07-09 11:25:08
+2024-10-26,9110.59,Canva,Content creation,Executive,Marketing,2025-07-09 11:25:08
+2025-03-26,359.2,LinkedIn Learning,Professional certification,Engineering,Training,2025-07-09 11:25:08
+2025-04-21,250.65,GitHub,Cloud hosting costs,Operations,IT Infrastructure,2025-07-09 11:25:08
+2024-10-03,8394.95,BambooHR,Recruitment fees,Operations,Personnel,2025-07-09 11:25:08
+2025-01-05,518.76,ConEd,Internet service,Sales,Utilities,2025-07-09 11:25:08
+2025-01-13,689.21,Canon Business,Office furniture,Operations,Equipment,2025-07-09 11:25:08
+2025-04-30,1172.89,United Airlines,Business trip,Marketing,Travel,2025-07-09 11:25:08
+2025-06-17,257.53,Business Services Inc,Miscellaneous expense,HR,Other,2025-07-09 11:25:08
+2024-08-30,1204.97,Comcast Business,Phone service,HR,Utilities,2025-07-09 11:25:08
+2024-08-16,539.36,Miscellaneous Vendor,Miscellaneous expense,Sales,Other,2025-07-09 11:25:08
+2024-11-07,1731.91,Apple Business,Software/hardware,HR,Equipment,2025-07-09 11:25:08
+2025-04-24,155.94,Amazon Business,Meeting room supplies,Sales,Office Supplies,2025-07-09 11:25:08
+2025-05-13,1895.11,Enterprise Rent-A-Car,Conference travel,Sales,Travel,2025-07-09 11:25:08
+2024-09-02,792.53,ConEd,Monthly utilities,HR,Utilities,2025-07-09 11:25:08
+2024-12-24,778.59,Pluralsight,Professional certification,Engineering,Training,2025-07-09 11:25:08
+2024-07-14,61.21,Costco Business,Desk supplies,Sales,Office Supplies,2025-07-09 11:25:08
+2024-12-23,221.18,Home Depot,Meeting room supplies,Engineering,Office Supplies,2025-07-09 11:25:08
+2025-02-13,230.04,Waste Management,Internet service,Sales,Utilities,2025-07-09 11:25:08
+2025-04-05,2446.36,Airbnb,Business trip,Marketing,Travel,2025-07-09 11:25:08
+2025-05-27,1955.31,Uber,Conference travel,Engineering,Travel,2025-07-09 11:25:08
+2025-06-03,4579.8,Canon Business,Computer equipment,Finance,Equipment,2025-07-09 11:25:08
+2024-10-05,1700.11,Lyft,Client meeting travel,Engineering,Travel,2025-07-09 11:25:08
+2025-06-02,673.46,Amazon Business,Office materials,Finance,Office Supplies,2025-07-09 11:25:08
+2025-03-02,4608.59,Apple Business,Office furniture,Marketing,Equipment,2025-07-09 11:25:08
+2025-02-07,106.41,Business Services Inc,General business cost,Marketing,Other,2025-07-09 11:25:08
+2025-04-17,3229.31,Dell Business,Office furniture,HR,Equipment,2025-07-09 11:25:08
+2024-09-03,991.19,General Supplies Co,Miscellaneous expense,Executive,Other,2025-07-09 11:25:08
+2024-09-19,720.68,Conference Registration,Professional certification,Sales,Training,2025-07-09 11:25:08
+2025-02-21,526.08,Business Services Inc,General business cost,Engineering,Other,2025-07-09 11:25:08
+2024-08-01,4100.97,Facebook Ads,Content creation,Executive,Marketing,2025-07-09 11:25:08
+2024-11-28,1358.15,Coursera Business,Professional certification,Engineering,Training,2025-07-09 11:25:08
+2024-12-07,1720.59,Miscellaneous Vendor,General business cost,Engineering,Other,2025-07-09 11:25:08
+2024-12-02,139.51,Staples,Desk supplies,Sales,Office Supplies,2025-07-09 11:25:08
+2024-08-08,3550.27,Canon Business,Software/hardware,Marketing,Equipment,2025-07-09 11:25:08
+2024-12-26,183.89,Miscellaneous Vendor,Miscellaneous expense,Engineering,Other,2025-07-09 11:25:08
+2025-05-05,7465.33,Workday,Recruitment fees,HR,Personnel,2025-07-09 11:25:08
+2024-11-01,2938.9,Hootsuite,Marketing tools subscription,Operations,Marketing,2025-07-09 11:25:08
+2024-12-06,1021.88,Canon Business,Office furniture,Finance,Equipment,2025-07-09 11:25:08
+2024-11-07,6665.28,LinkedIn Recruiter,Recruitment fees,Operations,Personnel,2025-07-09 11:25:08
+2024-10-07,2049.28,Zoom,API usage fees,Engineering,IT Infrastructure,2025-07-09 11:25:08
+2024-11-21,198.58,Miscellaneous Vendor,Miscellaneous expense,Engineering,Other,2025-07-09 11:25:08
+2025-06-22,5036.84,McKinsey,Legal consultation,Finance,Professional Services,2025-07-09 11:25:08
+2024-10-07,9018.13,Apple Business,Office furniture,Engineering,Equipment,2025-07-09 11:25:08
+2025-05-06,5227.08,Legal Services Inc,Legal consultation,Finance,Professional Services,2025-07-09 11:25:08
+2025-02-27,576.47,Lyft,Conference travel,Engineering,Travel,2025-07-09 11:25:08
+2025-04-08,1786.56,JetBrains,Cloud hosting costs,Marketing,IT Infrastructure,2025-07-09 11:25:08
+2024-09-12,991.94,ConEd,Internet service,Finance,Utilities,2025-07-09 11:25:08
+2024-08-11,1363.59,Udemy Business,Professional certification,HR,Training,2025-07-09 11:25:08
+2025-06-24,6865.87,LinkedIn Recruiter,Employee benefits,Engineering,Personnel,2025-07-09 11:25:08
+2024-08-18,10039.36,ADP Payroll,Contractor payment,Finance,Personnel,2025-07-09 11:25:08
+2025-03-21,1542.84,Adobe Creative,Content creation,Finance,Marketing,2025-07-09 11:25:08
+2024-11-03,511.8,Best Buy Business,Office materials,Executive,Office Supplies,2025-07-09 11:25:08
+2025-01-24,2625.03,Docker,API usage fees,Marketing,IT Infrastructure,2025-07-09 11:25:08
+2025-01-15,3218.05,Pacific Gas & Electric,Internet service,Operations,Utilities,2025-07-09 11:25:08
+2024-12-30,14903.73,Indeed Hiring,Employee benefits,Executive,Personnel,2025-07-09 11:25:08
+2025-06-09,167.13,Home Depot,Office materials,HR,Office Supplies,2025-07-09 11:25:08
+2025-06-11,1935.93,Coursera Business,Online course,Finance,Training,2025-07-09 11:25:08
+2024-10-26,655.0,Home Depot,Office materials,Sales,Office Supplies,2025-07-09 11:25:08
+2024-12-11,1414.93,Comcast Business,Monthly utilities,Sales,Utilities,2025-07-09 11:25:08
+2025-05-02,285.95,Pluralsight,Online course,Engineering,Training,2025-07-09 11:25:08
+2024-12-29,3463.33,ADP Payroll,Employee benefits,Executive,Personnel,2025-07-09 11:25:08
+2024-10-13,2385.26,Lenovo,Office furniture,Engineering,Equipment,2025-07-09 11:25:08
+2024-11-30,594.29,ConEd,Internet service,Sales,Utilities,2025-07-09 11:25:08
+2025-04-14,504.03,Zoom,Cloud hosting costs,Marketing,IT Infrastructure,2025-07-09 11:25:08
+2024-11-30,782.97,Business Services Inc,Miscellaneous expense,Marketing,Other,2025-07-09 11:25:08
+2025-04-07,257.29,Home Depot,Office materials,Sales,Office Supplies,2025-07-09 11:25:08
+2024-09-14,1383.66,Marriott Hotels,Business trip,Finance,Travel,2025-07-09 11:25:08
+2024-07-19,2636.32,Miscellaneous Vendor,General business cost,Finance,Other,2025-07-09 11:25:08
+2025-03-16,2475.75,JetBrains,Cloud hosting costs,Engineering,IT Infrastructure,2025-07-09 11:25:08
+2025-01-22,837.13,Canon Business,Computer equipment,HR,Equipment,2025-07-09 11:25:08
+2025-03-22,402.1,AWS,Cloud hosting costs,HR,IT Infrastructure,2025-07-09 11:25:08
+2025-03-29,1352.25,Conference Registration,Online course,Sales,Training,2025-07-09 11:25:08
+2024-09-16,11209.21,Glassdoor,Recruitment fees,Marketing,Personnel,2025-07-09 11:25:08
+2025-01-19,2080.02,Lenovo,Computer equipment,Marketing,Equipment,2025-07-09 11:25:08
+2024-12-17,790.01,Best Buy Business,Office materials,Executive,Office Supplies,2025-07-09 11:25:08
+2025-05-30,3492.88,Smith & Associates,Business consulting,Engineering,Professional Services,2025-07-09 11:25:08
+2024-11-13,299.31,Costco Business,Office materials,Sales,Office Supplies,2025-07-09 11:25:08
+2024-12-15,2331.21,Wilson Law Firm,Legal consultation,Finance,Professional Services,2025-07-09 11:25:08
+2025-03-11,275.2,Business Services Inc,Miscellaneous expense,Sales,Other,2025-07-09 11:25:08
+2024-12-10,2397.86,LinkedIn Marketing,Marketing tools subscription,Sales,Marketing,2025-07-09 11:25:08
+2025-02-20,786.22,Lenovo,Computer equipment,Executive,Equipment,2025-07-09 11:25:08
+2024-12-23,9210.73,NetGear,Software/hardware,Engineering,Equipment,2025-07-09 11:25:08
+2024-11-09,678.15,Waste Management,Phone service,Engineering,Utilities,2025-07-09 11:25:08
+2025-03-26,443.95,Best Buy Business,Meeting room supplies,Marketing,Office Supplies,2025-07-09 11:25:08
+2024-09-14,1779.19,Enterprise Rent-A-Car,Client meeting travel,Operations,Travel,2025-07-09 11:25:08
+2025-03-04,6672.64,NetGear,Office furniture,Operations,Equipment,2025-07-09 11:25:08
+2024-11-16,458.52,ConEd,Monthly utilities,Sales,Utilities,2025-07-09 11:25:08
+2025-06-18,3080.09,Gusto,Employee benefits,HR,Personnel,2025-07-09 11:25:08
+2024-08-09,627.32,Microsoft Azure,API usage fees,HR,IT Infrastructure,2025-07-09 11:25:08
+2025-03-27,1144.97,LinkedIn Learning,Conference registration,Marketing,Training,2025-07-09 11:25:08
+2025-02-24,70.25,Office Depot,Office materials,Sales,Office Supplies,2025-07-09 11:25:08
+2024-11-20,282.84,Office Depot,Meeting room supplies,Executive,Office Supplies,2025-07-09 11:25:08
+2024-07-24,379.84,Miscellaneous Vendor,Miscellaneous expense,Sales,Other,2025-07-09 11:25:08
+2025-05-14,770.29,Udemy Business,Online course,HR,Training,2025-07-09 11:25:08
+2025-03-19,1707.26,Apple Business,Computer equipment,Sales,Equipment,2025-07-09 11:25:08
+2025-03-14,970.39,Mailchimp,Marketing tools subscription,Marketing,Marketing,2025-07-09 11:25:08
+2024-11-10,1104.54,Coursera Business,Professional certification,Executive,Training,2025-07-09 11:25:08
+2024-11-08,1098.9,LinkedIn Learning,Conference registration,Executive,Training,2025-07-09 11:25:08
+2025-06-29,2436.21,Apple Business,Software/hardware,Sales,Equipment,2025-07-09 11:25:08
+2024-07-21,1249.91,Dell Business,Computer equipment,Sales,Equipment,2025-07-09 11:25:08
+2025-01-29,3841.79,McKinsey,Legal consultation,Finance,Professional Services,2025-07-09 11:25:08
+2024-09-13,2734.25,Xerox,Office furniture,Sales,Equipment,2025-07-09 11:25:08
+2024-07-25,518.58,Staples,Meeting room supplies,Marketing,Office Supplies,2025-07-09 11:25:08
+2024-07-18,2953.46,LinkedIn Marketing,Marketing tools subscription,Marketing,Marketing,2025-07-09 11:25:08
+2025-06-02,690.58,Udemy Business,Online course,HR,Training,2025-07-09 11:25:08
+2025-03-11,2123.83,Delta Airlines,Conference travel,Executive,Travel,2025-07-09 11:25:08
+2025-01-13,236.7,General Supplies Co,Miscellaneous expense,Executive,Other,2025-07-09 11:25:08
+2024-09-29,8905.56,ADP Payroll,Employee benefits,Marketing,Personnel,2025-07-09 11:25:08
+2025-03-26,165.12,IKEA Business,Desk supplies,Finance,Office Supplies,2025-07-09 11:25:08
+2025-06-02,736.13,O'Reilly Media,Conference registration,HR,Training,2025-07-09 11:25:08
+2025-04-23,2120.24,Heroku,API usage fees,Marketing,IT Infrastructure,2025-07-09 11:25:08
+2025-04-29,1609.07,Hilton,Business trip,Executive,Travel,2025-07-09 11:25:08
+2025-01-03,1760.51,Expedia,Conference travel,Sales,Travel,2025-07-09 11:25:08
+2024-10-31,5228.07,Gusto,Employee benefits,Marketing,Personnel,2025-07-09 11:25:08
+2024-08-09,13543.84,Workday,Recruitment fees,Marketing,Personnel,2025-07-09 11:25:08
+2024-09-19,1524.4,Coursera Business,Conference registration,Operations,Training,2025-07-09 11:25:08
+2024-09-09,2332.48,Uber,Business trip,Executive,Travel,2025-07-09 11:25:08
+2025-06-12,1127.49,Atlassian,Software licenses,Operations,IT Infrastructure,2025-07-09 11:25:08
+2025-05-13,1604.57,Atlassian,Software licenses,HR,IT Infrastructure,2025-07-09 11:25:08
+2024-12-13,1279.23,Marriott Hotels,Business trip,Marketing,Travel,2025-07-09 11:25:08
+2024-12-07,307.87,Airbnb,Business trip,Finance,Travel,2025-07-09 11:25:08
+2025-05-11,2085.84,Expedia,Client meeting travel,Engineering,Travel,2025-07-09 11:25:08
+2025-02-28,940.43,Miscellaneous Vendor,General business cost,Marketing,Other,2025-07-09 11:25:08
+2025-06-09,4798.0,NetGear,Software/hardware,Operations,Equipment,2025-07-09 11:25:08
+2025-01-07,1153.14,Udemy Business,Professional certification,Sales,Training,2025-07-09 11:25:08
+2024-08-21,2394.93,Hilton,Client meeting travel,Operations,Travel,2025-07-09 11:25:08
+2024-09-08,773.43,General Supplies Co,Miscellaneous expense,Sales,Other,2025-07-09 11:25:08
+2025-03-29,1428.35,Verizon Business,Internet service,Operations,Utilities,2025-07-09 11:25:08
+2025-01-06,3151.81,Atlassian,Software licenses,Operations,IT Infrastructure,2025-07-09 11:25:08
+2024-08-01,2259.82,Mailchimp,Marketing tools subscription,HR,Marketing,2025-07-09 11:25:08
+2025-01-25,348.91,O'Reilly Media,Conference registration,Operations,Training,2025-07-09 11:25:08
+2024-12-02,1845.66,GitHub,API usage fees,Operations,IT Infrastructure,2025-07-09 11:25:08
+2025-07-02,807.45,NetGear,Computer equipment,Finance,Equipment,2025-07-09 11:25:08
+2024-09-05,668.19,General Supplies Co,General business cost,HR,Other,2025-07-09 11:25:08
+2025-05-07,11044.04,BambooHR,Recruitment fees,Finance,Personnel,2025-07-09 11:25:08
+2025-05-27,868.7,Conference Registration,Conference registration,Engineering,Training,2025-07-09 11:25:08
+2025-06-28,354.1,Costco Business,Meeting room supplies,Operations,Office Supplies,2025-07-09 11:25:08
+2024-09-02,7343.89,Deloitte Consulting,Legal consultation,Finance,Professional Services,2025-07-09 11:25:08
+2025-01-21,6182.06,Indeed Hiring,Recruitment fees,Executive,Personnel,2025-07-09 11:25:08
+2024-10-14,4025.38,Hootsuite,Ad campaign,Engineering,Marketing,2025-07-09 11:25:08
+2025-04-22,5668.49,Salesforce,Content creation,Engineering,Marketing,2025-07-09 11:25:08
+2025-02-05,4317.29,Apple Business,Software/hardware,Executive,Equipment,2025-07-09 11:25:08
+2024-08-20,2872.73,Slack,API usage fees,Operations,IT Infrastructure,2025-07-09 11:25:08
+2024-11-12,6565.94,EY,Business consulting,Sales,Professional Services,2025-07-09 11:25:08
+2025-03-14,2449.68,Google Ads,Content creation,Sales,Marketing,2025-07-09 11:25:08
+2025-04-28,4178.25,KPMG,Business consulting,Sales,Professional Services,2025-07-09 11:25:08
+2025-04-18,564.69,IKEA Business,Desk supplies,Engineering,Office Supplies,2025-07-09 11:25:08
+2025-06-09,1174.99,ConEd,Monthly utilities,Operations,Utilities,2025-07-09 11:25:08
+2025-03-29,410.78,AT&T Business,Monthly utilities,Marketing,Utilities,2025-07-09 11:25:08
+2025-02-02,628.64,Pacific Gas & Electric,Monthly utilities,Marketing,Utilities,2025-07-09 11:25:08
+2025-07-02,1637.31,Lyft,Business trip,HR,Travel,2025-07-09 11:25:08
+2024-10-26,2868.16,LinkedIn Marketing,Ad campaign,HR,Marketing,2025-07-09 11:25:08
+2025-03-02,3722.59,Wilson Law Firm,Legal consultation,Marketing,Professional Services,2025-07-09 11:25:08
+2025-01-10,1814.48,Xerox,Software/hardware,Sales,Equipment,2025-07-09 11:25:08
+2025-01-17,1164.1,Waste Management,Monthly utilities,Marketing,Utilities,2025-07-09 11:25:08
+2025-01-20,1127.49,DigitalOcean,Software licenses,Operations,IT Infrastructure,2025-07-09 11:25:08
+2024-08-04,1638.77,O'Reilly Media,Professional certification,Engineering,Training,2025-07-09 11:25:08
+2024-10-30,7985.83,Wilson Law Firm,Accounting services,Operations,Professional Services,2025-07-09 11:25:08
+2025-03-20,1888.21,Wilson Law Firm,Business consulting,Sales,Professional Services,2025-07-09 11:25:08
+2025-05-11,1194.8,Dell Business,Office furniture,Operations,Equipment,2025-07-09 11:25:08
+2024-10-09,2784.05,Zoom,API usage fees,HR,IT Infrastructure,2025-07-09 11:25:08
+2025-03-16,4481.24,Wilson Law Firm,Accounting services,Finance,Professional Services,2025-07-09 11:25:08
+2025-01-30,1875.49,Deloitte Consulting,Business consulting,HR,Professional Services,2025-07-09 11:25:08
+2024-08-21,234.36,Costco Business,Meeting room supplies,Engineering,Office Supplies,2025-07-09 11:25:08
+2024-10-29,3885.09,Wilson Law Firm,Legal consultation,Engineering,Professional Services,2025-07-09 11:25:08
+2025-05-31,256.16,Docker,Cloud hosting costs,Marketing,IT Infrastructure,2025-07-09 11:25:08
+2024-12-18,660.43,Costco Business,Office materials,Marketing,Office Supplies,2025-07-09 11:25:08
+2025-01-14,5854.72,Legal Services Inc,Business consulting,Marketing,Professional Services,2025-07-09 11:25:08
+2025-06-10,14026.39,ADP Payroll,Recruitment fees,Operations,Personnel,2025-07-09 11:25:08
+2024-11-15,3779.43,HubSpot,Ad campaign,Operations,Marketing,2025-07-09 11:25:08
+2025-06-01,958.4,AT&T Business,Monthly utilities,Finance,Utilities,2025-07-09 11:25:08
+2025-06-07,3631.18,Deloitte Consulting,Business consulting,Executive,Professional Services,2025-07-09 11:25:08
+2024-07-25,557.44,Home Depot,Desk supplies,Marketing,Office Supplies,2025-07-09 11:25:08
+2024-08-28,2273.54,Lyft,Business trip,Engineering,Travel,2025-07-09 11:25:08
+2024-08-14,1044.42,AT&T Business,Phone service,HR,Utilities,2025-07-09 11:25:08
+2024-09-21,3233.96,Canva,Ad campaign,Operations,Marketing,2025-07-09 11:25:08
+2025-05-19,374.1,Lyft,Business trip,Engineering,Travel,2025-07-09 11:25:08
+2024-07-25,537.68,Pacific Gas & Electric,Internet service,Sales,Utilities,2025-07-09 11:25:08
+2024-09-08,904.82,ConEd,Internet service,Finance,Utilities,2025-07-09 11:25:08
+2024-11-08,304.99,Waste Management,Internet service,Marketing,Utilities,2025-07-09 11:25:08
+2025-02-05,6030.39,Glassdoor,Recruitment fees,Marketing,Personnel,2025-07-09 11:25:08
+2025-06-24,3883.9,HubSpot,Content creation,Executive,Marketing,2025-07-09 11:25:08
+2024-12-22,1580.26,PwC,Legal consultation,Finance,Professional Services,2025-07-09 11:25:08
+2024-10-19,168.76,General Supplies Co,Miscellaneous expense,Finance,Other,2025-07-09 11:25:08
+2025-04-24,3682.99,Apple Business,Office furniture,Operations,Equipment,2025-07-09 11:25:08
+2024-10-15,397.9,Verizon Business,Phone service,HR,Utilities,2025-07-09 11:25:08
+2025-05-03,12222.8,Workday,Contractor payment,Operations,Personnel,2025-07-09 11:25:08
+2024-09-21,867.84,Cisco Systems,Software/hardware,HR,Equipment,2025-07-09 11:25:08
+2025-05-10,1224.04,Wilson Law Firm,Business consulting,Finance,Professional Services,2025-07-09 11:25:08
+2024-12-09,780.13,Verizon Business,Internet service,Operations,Utilities,2025-07-09 11:25:08
+2024-09-18,6266.87,Wilson Law Firm,Business consulting,Operations,Professional Services,2025-07-09 11:25:08
+2024-12-13,817.31,Business Services Inc,Miscellaneous expense,Marketing,Other,2025-07-09 11:25:08
+2025-02-13,1437.47,Lyft,Business trip,Sales,Travel,2025-07-09 11:25:08
+2024-10-18,5888.33,AT&T Business,Phone service,HR,Utilities,2025-07-09 11:25:08
+2024-08-22,1249.99,AT&T Business,Monthly utilities,HR,Utilities,2025-07-09 11:25:08
+2025-02-06,2649.21,Google Cloud,Software licenses,Operations,IT Infrastructure,2025-07-09 11:25:08
+2024-09-19,2344.62,Lenovo,Computer equipment,Operations,Equipment,2025-07-09 11:25:08
+2025-02-18,1582.29,LinkedIn Marketing,Marketing tools subscription,Finance,Marketing,2025-07-09 11:25:08
+2025-03-09,604.5,HP Enterprise,Computer equipment,Executive,Equipment,2025-07-09 11:25:08
+2024-10-07,13780.26,Indeed Hiring,Recruitment fees,Operations,Personnel,2025-07-09 11:25:08
+2025-03-29,3138.9,LinkedIn Marketing,Content creation,Sales,Marketing,2025-07-09 11:25:08
+2025-04-30,2634.15,McKinsey,Accounting services,Sales,Professional Services,2025-07-09 11:25:08
+2024-08-02,672.28,AT&T Business,Monthly utilities,Marketing,Utilities,2025-07-09 11:25:08
+2025-04-19,2860.09,Heroku,Software licenses,Marketing,IT Infrastructure,2025-07-09 11:25:08
+2024-10-10,532.47,Office Depot,Office materials,Engineering,Office Supplies,2025-07-09 11:25:08
+2025-05-19,30161.93,Workday,Recruitment fees,Operations,Personnel,2025-07-09 11:25:08
+2024-12-01,225.94,AT&T Business,Phone service,Finance,Utilities,2025-07-09 11:25:08
+2025-06-23,5778.41,EY,Accounting services,Sales,Professional Services,2025-07-09 11:25:08
+2025-06-09,698.95,Business Services Inc,General business cost,Engineering,Other,2025-07-09 11:25:08
+2024-07-18,10252.21,Indeed Hiring,Employee benefits,Engineering,Personnel,2025-07-09 11:25:08
+2025-02-14,7789.4,Wilson Law Firm,Legal consultation,HR,Professional Services,2025-07-09 11:25:08
+2024-09-30,3949.47,HP Enterprise,Software/hardware,Marketing,Equipment,2025-07-09 11:25:08
+2024-12-04,3855.14,HubSpot,Ad campaign,Sales,Marketing,2025-07-09 11:25:08
+2025-01-31,14155.4,Gusto,Employee benefits,Engineering,Personnel,2025-07-09 11:25:08
+2024-12-09,8656.75,BambooHR,Recruitment fees,Engineering,Personnel,2025-07-09 11:25:08
+2024-12-31,1093.25,Deloitte Consulting,Business consulting,Sales,Professional Services,2025-07-09 11:25:08
+2025-05-26,6863.45,Glassdoor,Contractor payment,HR,Personnel,2025-07-09 11:25:08
+2025-06-22,434.61,Staples,Desk supplies,HR,Office Supplies,2025-07-09 11:25:08
+2024-09-09,1977.81,Mailchimp,Ad campaign,HR,Marketing,2025-07-09 11:25:08
+2024-07-29,773.34,LinkedIn Marketing,Marketing tools subscription,Sales,Marketing,2025-07-09 11:25:08
+2024-10-16,532.94,JetBrains,Software licenses,Finance,IT Infrastructure,2025-07-09 11:25:08
+2025-01-08,6510.31,Smith & Associates,Accounting services,Executive,Professional Services,2025-07-09 11:25:08
+2025-01-10,429.45,Slack,API usage fees,Executive,IT Infrastructure,2025-07-09 11:25:08
+2024-11-24,146.81,Costco Business,Desk supplies,Executive,Office Supplies,2025-07-09 11:25:08
+2025-01-03,980.19,Uber,Client meeting travel,Engineering,Travel,2025-07-09 11:25:08
+2025-04-06,4682.66,Gusto,Employee benefits,Sales,Personnel,2025-07-09 11:25:08
+2025-04-21,160.48,O'Reilly Media,Online course,Marketing,Training,2025-07-09 11:25:08
+2024-08-31,1223.56,Comcast Business,Internet service,Sales,Utilities,2025-07-09 11:25:08
+2024-10-16,906.47,General Supplies Co,General business cost,Finance,Other,2025-07-09 11:25:08
+2025-02-10,673.68,LinkedIn Learning,Professional certification,HR,Training,2025-07-09 11:25:08
+2024-11-10,655.39,AWS,Software licenses,HR,IT Infrastructure,2025-07-09 11:25:08
+2025-05-28,330.9,IKEA Business,Desk supplies,Finance,Office Supplies,2025-07-09 11:25:08
+2025-05-13,487.22,Slack,Cloud hosting costs,Sales,IT Infrastructure,2025-07-09 11:25:08
+2025-05-31,1834.15,Business Services Inc,General business cost,Engineering,Other,2025-07-09 11:25:08
+2025-03-30,1361.38,Hilton,Client meeting travel,Engineering,Travel,2025-07-09 11:25:08
+2025-05-21,1126.04,Conference Registration,Online course,Sales,Training,2025-07-09 11:25:08
+2024-10-04,2068.2,Google Cloud,Software licenses,Marketing,IT Infrastructure,2025-07-09 11:25:08
+2025-03-15,2994.81,Hootsuite,Ad campaign,HR,Marketing,2025-07-09 11:25:08
+2025-05-01,3217.65,ADP Payroll,Contractor payment,Operations,Personnel,2025-07-09 11:25:08
+2025-06-05,11888.83,Workday,Recruitment fees,Sales,Personnel,2025-07-09 11:25:08
+2024-09-08,2548.73,Apple Business,Software/hardware,Operations,Equipment,2025-07-09 11:25:08
+2024-07-26,985.42,General Supplies Co,Miscellaneous expense,Engineering,Other,2025-07-09 11:25:08
+2024-10-05,6063.57,Deloitte Consulting,Accounting services,Sales,Professional Services,2025-07-09 11:25:08
+2024-12-20,2623.55,Wilson Law Firm,Accounting services,Operations,Professional Services,2025-07-09 11:25:08
+2024-10-13,2410.8,Wilson Law Firm,Legal consultation,Executive,Professional Services,2025-07-09 11:25:08
+2024-10-22,505.36,Mailchimp,Content creation,Engineering,Marketing,2025-07-09 11:25:08
+2024-12-13,550.63,Dell Business,Software/hardware,Engineering,Equipment,2025-07-09 11:25:08
+2025-02-04,2040.56,Costco Business,Office materials,HR,Office Supplies,2025-07-09 11:25:08
+2024-08-19,1496.54,Facebook Ads,Content creation,Sales,Marketing,2025-07-09 11:25:08
+2025-01-18,2208.14,NetGear,Office furniture,HR,Equipment,2025-07-09 11:25:08
+2024-07-14,1048.8,Expedia,Conference travel,HR,Travel,2025-07-09 11:25:08
+2025-04-26,5131.25,Indeed Hiring,Contractor payment,Sales,Personnel,2025-07-09 11:25:08
+2024-07-30,3341.5,Smith & Associates,Business consulting,Engineering,Professional Services,2025-07-09 11:25:08
+2024-09-05,1382.95,Apple Business,Software/hardware,HR,Equipment,2025-07-09 11:25:08
+2024-12-02,1159.01,Deloitte Consulting,Business consulting,Executive,Professional Services,2025-07-09 11:25:08
+2024-10-30,597.83,Verizon Business,Monthly utilities,Finance,Utilities,2025-07-09 11:25:08
+2025-06-08,1906.07,Lyft,Conference travel,Executive,Travel,2025-07-09 11:25:08
+2025-03-20,190.44,Costco Business,Desk supplies,Marketing,Office Supplies,2025-07-09 11:25:08
+2025-03-01,630.54,Pluralsight,Professional certification,Operations,Training,2025-07-09 11:25:08
+2025-06-05,1435.21,Dell Business,Office furniture,Finance,Equipment,2025-07-09 11:25:08
+2024-07-30,340.52,ConEd,Phone service,Finance,Utilities,2025-07-09 11:25:08
+2024-12-31,642.98,Uber,Conference travel,HR,Travel,2025-07-09 11:25:08
+2025-03-18,835.16,O'Reilly Media,Professional certification,Finance,Training,2025-07-09 11:25:08
+2025-03-12,1573.87,Coursera Business,Conference registration,HR,Training,2025-07-09 11:25:08
+2025-06-18,134.44,General Supplies Co,General business cost,HR,Other,2025-07-09 11:25:08
+2024-07-25,483.65,Conference Registration,Conference registration,Finance,Training,2025-07-09 11:25:08
+2025-04-06,11617.95,Workday,Employee benefits,Operations,Personnel,2025-07-09 11:25:08
+2024-10-25,2102.79,HP Enterprise,Software/hardware,Engineering,Equipment,2025-07-09 11:25:08
+2025-01-01,860.29,General Supplies Co,Miscellaneous expense,HR,Other,2025-07-09 11:25:08
+2025-06-11,908.92,Airbnb,Client meeting travel,Sales,Travel,2025-07-09 11:25:08
+2024-10-25,592.01,ConEd,Phone service,Operations,Utilities,2025-07-09 11:25:08
+2025-04-08,3437.05,Apple Business,Office furniture,Finance,Equipment,2025-07-09 11:25:08
+2024-11-08,2270.15,Airbnb,Business trip,Engineering,Travel,2025-07-09 11:25:08
+2024-07-16,8999.25,GitHub,Software licenses,Finance,IT Infrastructure,2025-07-09 11:25:08
+2024-08-28,12953.41,ADP Payroll,Employee benefits,Marketing,Personnel,2025-07-09 11:25:08
+2025-05-12,8501.86,Indeed Hiring,Contractor payment,Finance,Personnel,2025-07-09 11:25:08
+2024-07-20,1788.9,Dell Business,Office furniture,Sales,Equipment,2025-07-09 11:25:08
+2025-05-11,2434.65,PwC,Accounting services,HR,Professional Services,2025-07-09 11:25:08
+2025-01-22,1946.58,Smith & Associates,Business consulting,Engineering,Professional Services,2025-07-09 11:25:08
+2025-02-08,3486.94,Gusto,Employee benefits,HR,Personnel,2025-07-09 11:25:08
+2025-04-18,1237.73,Coursera Business,Online course,Marketing,Training,2025-07-09 11:25:08
+2025-03-06,2574.45,Facebook Ads,Marketing tools subscription,Executive,Marketing,2025-07-09 11:25:08
+2024-09-15,3643.32,Conference Registration,Online course,Sales,Training,2025-07-09 11:25:08
+2024-12-24,916.82,Marriott Hotels,Business trip,Executive,Travel,2025-07-09 11:25:08
+2025-06-07,738.34,Coursera Business,Online course,Finance,Training,2025-07-09 11:25:08
+2024-11-27,2072.94,JetBrains,API usage fees,Sales,IT Infrastructure,2025-07-09 11:25:08
+2025-04-01,7914.43,Legal Services Inc,Accounting services,Executive,Professional Services,2025-07-09 11:25:08
+2024-11-17,1256.85,PwC,Business consulting,Operations,Professional Services,2025-07-09 11:25:08
+2025-04-16,3860.89,Smith & Associates,Business consulting,HR,Professional Services,2025-07-09 11:25:08
+2025-06-29,4755.33,Xerox,Software/hardware,Engineering,Equipment,2025-07-09 11:25:08
+2025-06-08,172.26,AWS Training,Online course,Finance,Training,2025-07-09 11:25:08
+2025-04-24,1427.45,Waste Management,Monthly utilities,Sales,Utilities,2025-07-09 11:25:08
+2025-01-08,110.88,Amazon Business,Desk supplies,Finance,Office Supplies,2025-07-09 11:25:08
+2024-11-12,889.31,Zoom,Software licenses,Marketing,IT Infrastructure,2025-07-09 11:25:08
+2025-03-06,8429.86,Glassdoor,Contractor payment,Sales,Personnel,2025-07-09 11:25:08
+2025-04-22,5036.39,Legal Services Inc,Business consulting,HR,Professional Services,2025-07-09 11:25:08
+2025-02-16,6355.67,Legal Services Inc,Accounting services,Finance,Professional Services,2025-07-09 11:25:08
+2024-10-21,254.73,Business Services Inc,Miscellaneous expense,Marketing,Other,2025-07-09 11:25:08
+2024-10-24,4745.58,JetBrains,Cloud hosting costs,Executive,IT Infrastructure,2025-07-09 11:25:08
+2025-01-19,528.44,GitHub,Software licenses,Operations,IT Infrastructure,2025-07-09 11:25:08
+2024-08-31,1042.73,Comcast Business,Phone service,Engineering,Utilities,2025-07-09 11:25:08
+2025-05-07,218.83,Verizon Business,Monthly utilities,Operations,Utilities,2025-07-09 11:25:08
+2025-01-01,1569.73,Coursera Business,Conference registration,Marketing,Training,2025-07-09 11:25:08
+2025-04-24,3876.33,EY,Business consulting,Engineering,Professional Services,2025-07-09 11:25:08
+2024-10-23,451.7,LinkedIn Learning,Professional certification,HR,Training,2025-07-09 11:25:08
+2024-08-19,2847.24,Salesforce,Marketing tools subscription,Executive,Marketing,2025-07-09 11:25:08
+2024-08-30,1169.14,Atlassian,API usage fees,Engineering,IT Infrastructure,2025-07-09 11:25:08
+2025-03-09,10195.91,Indeed Hiring,Employee benefits,Finance,Personnel,2025-07-09 11:25:08
+2025-04-20,4136.08,Docker,API usage fees,Marketing,IT Infrastructure,2025-07-09 11:25:08
+2024-09-26,3187.22,LinkedIn Recruiter,Recruitment fees,HR,Personnel,2025-07-09 11:25:08
+2025-06-24,1563.89,McKinsey,Legal consultation,HR,Professional Services,2025-07-09 11:25:08
+2025-04-20,353.32,Miscellaneous Vendor,Miscellaneous expense,Finance,Other,2025-07-09 11:25:08
+2025-06-02,2409.77,Zoom,Cloud hosting costs,Engineering,IT Infrastructure,2025-07-09 11:25:08
+2025-01-07,764.72,Canon Business,Office furniture,Marketing,Equipment,2025-07-09 11:25:08
+2025-04-03,226.17,Pacific Gas & Electric,Internet service,Operations,Utilities,2025-07-09 11:25:08
+2025-01-24,796.54,AT&T Business,Phone service,Executive,Utilities,2025-07-09 11:25:08
+2024-08-02,2238.78,JetBrains,Software licenses,Operations,IT Infrastructure,2025-07-09 11:25:08
+2025-05-27,606.55,DigitalOcean,API usage fees,Executive,IT Infrastructure,2025-07-09 11:25:08
+2025-07-09,419.06,Docker,Software licenses,Operations,IT Infrastructure,2025-07-09 11:25:08
+2025-01-24,1203.56,Pluralsight,Online course,HR,Training,2025-07-09 11:25:08
+2024-10-12,2423.64,Atlassian,API usage fees,Executive,IT Infrastructure,2025-07-09 11:25:08
+2024-12-31,259.26,Pacific Gas & Electric,Internet service,Marketing,Utilities,2025-07-09 11:25:08
+2024-11-04,14081.49,ADP Payroll,Recruitment fees,Executive,Personnel,2025-07-09 11:25:08
+2025-02-17,241.82,AWS Training,Conference registration,Executive,Training,2025-07-09 11:25:08
+2025-04-22,215.44,General Supplies Co,General business cost,HR,Other,2025-07-09 11:25:08
+2024-08-01,1477.79,Waste Management,Monthly utilities,Marketing,Utilities,2025-07-09 11:25:08
+2024-07-15,6863.86,Legal Services Inc,Accounting services,Finance,Professional Services,2025-07-09 11:25:08
+2025-02-10,11503.35,EY,Business consulting,Finance,Professional Services,2025-07-09 11:25:08
+2025-02-07,1363.84,O'Reilly Media,Professional certification,Engineering,Training,2025-07-09 11:25:08
+2025-03-02,1970.58,O'Reilly Media,Online course,Marketing,Training,2025-07-09 11:25:08
+2024-12-19,2386.15,Google Ads,Content creation,Sales,Marketing,2025-07-09 11:25:08
+2025-03-27,398.27,Business Services Inc,Miscellaneous expense,HR,Other,2025-07-09 11:25:08
+2024-07-31,944.09,Udemy Business,Professional certification,Operations,Training,2025-07-09 11:25:08
+2025-03-29,2198.42,HubSpot,Ad campaign,Finance,Marketing,2025-07-09 11:25:08
+2025-01-11,725.34,Cisco Systems,Office furniture,Marketing,Equipment,2025-07-09 11:25:08
+2025-03-23,956.91,Business Services Inc,General business cost,Finance,Other,2025-07-09 11:25:08
+2025-05-19,3082.25,Cisco Systems,Software/hardware,Operations,Equipment,2025-07-09 11:25:08
+2025-04-06,4012.53,Gusto,Employee benefits,Marketing,Personnel,2025-07-09 11:25:08
+2024-10-26,237.2,General Supplies Co,General business cost,Operations,Other,2025-07-09 11:25:08
+2024-10-28,584.99,General Supplies Co,General business cost,Engineering,Other,2025-07-09 11:25:08
+2024-09-04,1523.96,HP Enterprise,Software/hardware,Sales,Equipment,2025-07-09 11:25:08
+2025-04-30,4328.72,Canon Business,Software/hardware,Marketing,Equipment,2025-07-09 11:25:08
+2025-02-04,598.57,O'Reilly Media,Conference registration,Engineering,Training,2025-07-09 11:25:08
+2025-05-20,1723.1,AWS Training,Online course,Executive,Training,2025-07-09 11:25:08
+2025-03-26,1375.09,Waste Management,Monthly utilities,Operations,Utilities,2025-07-09 11:25:08
+2024-12-06,4151.12,Paychex,Contractor payment,Operations,Personnel,2025-07-09 11:25:08
+2024-09-11,730.11,Business Services Inc,Miscellaneous expense,HR,Other,2025-07-09 11:25:08
+2024-10-30,78.91,IKEA Business,Office materials,Executive,Office Supplies,2025-07-09 11:25:08
+2024-08-25,312.98,Amazon Business,Desk supplies,Marketing,Office Supplies,2025-07-09 11:25:08
+2024-12-13,3230.98,Smith & Associates,Accounting services,Engineering,Professional Services,2025-07-09 11:25:08
+2024-08-06,2454.93,Delta Airlines,Business trip,HR,Travel,2025-07-09 11:25:08
+2025-03-16,1923.83,Hootsuite,Marketing tools subscription,Operations,Marketing,2025-07-09 11:25:08
+2025-01-31,2113.26,KPMG,Accounting services,Engineering,Professional Services,2025-07-09 11:25:08
+2024-10-12,441.03,Miscellaneous Vendor,General business cost,Executive,Other,2025-07-09 11:25:08
+2025-03-08,4358.97,Adobe Creative,Marketing tools subscription,HR,Marketing,2025-07-09 11:25:08
+2025-04-30,2399.73,Heroku,Cloud hosting costs,Executive,IT Infrastructure,2025-07-09 11:25:08
+2024-09-28,1522.92,Pluralsight,Conference registration,Executive,Training,2025-07-09 11:25:08
+2025-04-22,1344.93,Marriott Hotels,Conference travel,Executive,Travel,2025-07-09 11:25:08
+2025-06-14,5910.63,Gusto,Contractor payment,Executive,Personnel,2025-07-09 11:25:08
+2025-05-27,1534.17,Enterprise Rent-A-Car,Client meeting travel,HR,Travel,2025-07-09 11:25:08
+2025-06-19,4045.81,HP Enterprise,Office furniture,Sales,Equipment,2025-07-09 11:25:08
+2024-08-06,737.19,LinkedIn Learning,Conference registration,Executive,Training,2025-07-09 11:25:08
+2024-12-28,2132.51,Lyft,Business trip,Engineering,Travel,2025-07-09 11:25:08
+2025-05-27,692.7,Hootsuite,Ad campaign,Marketing,Marketing,2025-07-09 11:25:08
+2024-07-14,452.16,Miscellaneous Vendor,General business cost,Executive,Other,2025-07-09 11:25:08
+2024-12-09,11624.79,ADP Payroll,Contractor payment,Executive,Personnel,2025-07-09 11:25:08
+2024-09-05,1667.98,KPMG,Accounting services,Executive,Professional Services,2025-07-09 11:25:08
+2025-05-31,2792.92,Salesforce,Ad campaign,Finance,Marketing,2025-07-09 11:25:08
+2025-04-21,5007.83,EY,Accounting services,Sales,Professional Services,2025-07-09 11:25:08
+2025-05-22,4313.02,Deloitte Consulting,Accounting services,HR,Professional Services,2025-07-09 11:25:08
+2024-10-05,1083.41,Lyft,Conference travel,Sales,Travel,2025-07-09 11:25:08
+2024-12-28,313.17,Microsoft Azure,Software licenses,HR,IT Infrastructure,2025-07-09 11:25:08
+2025-02-09,5561.82,EY,Accounting services,HR,Professional Services,2025-07-09 11:25:08
+2024-10-15,1543.22,Hilton,Business trip,Operations,Travel,2025-07-09 11:25:08
+2025-04-10,9927.82,Gusto,Employee benefits,Operations,Personnel,2025-07-09 11:25:08
+2024-11-06,1919.26,Coursera Business,Online course,Operations,Training,2025-07-09 11:25:08
+2024-08-07,1676.32,Zoom,API usage fees,Executive,IT Infrastructure,2025-07-09 11:25:08
+2025-06-20,1523.68,Atlassian,Cloud hosting costs,Executive,IT Infrastructure,2025-07-09 11:25:08
+2025-06-29,98.26,Best Buy Business,Desk supplies,HR,Office Supplies,2025-07-09 11:25:08
+2024-09-02,173.73,Conference Registration,Conference registration,Engineering,Training,2025-07-09 11:25:08
+2024-11-17,1103.18,AT&T Business,Phone service,Marketing,Utilities,2025-07-09 11:25:08
+2025-05-11,337.02,Costco Business,Desk supplies,Sales,Office Supplies,2025-07-09 11:25:08
+2025-04-08,2107.07,Atlassian,Software licenses,Engineering,IT Infrastructure,2025-07-09 11:25:08
+2025-07-08,7167.18,BambooHR,Recruitment fees,Executive,Personnel,2025-07-09 11:25:08
+2024-09-09,3972.61,LinkedIn Marketing,Marketing tools subscription,Marketing,Marketing,2025-07-09 11:25:08
+2025-03-27,2942.18,Facebook Ads,Content creation,Sales,Marketing,2025-07-09 11:25:08
+2024-11-08,6912.4,McKinsey,Business consulting,Marketing,Professional Services,2025-07-09 11:25:08
+2025-06-21,9067.37,ADP Payroll,Employee benefits,Finance,Personnel,2025-07-09 11:25:08
+2025-04-11,2796.97,Atlassian,Cloud hosting costs,Engineering,IT Infrastructure,2025-07-09 11:25:08
+2025-06-18,416.74,Office Depot,Office materials,Finance,Office Supplies,2025-07-09 11:25:08
+2025-04-01,2540.98,Salesforce,Content creation,Executive,Marketing,2025-07-09 11:25:08
+2024-08-12,1696.07,Udemy Business,Online course,HR,Training,2025-07-09 11:25:08
+2024-08-23,2028.54,Uber,Conference travel,Executive,Travel,2025-07-09 11:25:08
+2025-05-04,1297.97,O'Reilly Media,Conference registration,Marketing,Training,2025-07-09 11:25:08
+2024-07-31,355.32,Udemy Business,Professional certification,HR,Training,2025-07-09 11:25:08
+2025-03-07,227.05,Staples,Office materials,Operations,Office Supplies,2025-07-09 11:25:08
+2025-05-20,1342.89,Enterprise Rent-A-Car,Client meeting travel,Executive,Travel,2025-07-09 11:25:08
+2024-09-30,1461.37,AT&T Business,Internet service,Sales,Utilities,2025-07-09 11:25:08
+2025-07-04,2480.72,Dell Business,Software/hardware,Executive,Equipment,2025-07-09 11:25:08
+2025-02-06,6064.74,Indeed Hiring,Recruitment fees,Operations,Personnel,2025-07-09 11:25:08
+2024-12-06,450.28,Coursera Business,Conference registration,Executive,Training,2025-07-09 11:25:08
+2024-11-30,1305.82,LinkedIn Learning,Conference registration,Operations,Training,2025-07-09 11:25:08
+2025-02-07,1458.2,AWS Training,Professional certification,Finance,Training,2025-07-09 11:25:08
+2024-10-07,11347.83,BambooHR,Contractor payment,HR,Personnel,2025-07-09 11:25:08
+2025-04-07,1294.15,Waste Management,Monthly utilities,Engineering,Utilities,2025-07-09 11:25:08
+2024-07-26,3117.81,Glassdoor,Recruitment fees,Finance,Personnel,2025-07-09 11:25:08
+2025-04-06,557.43,AWS,API usage fees,Sales,IT Infrastructure,2025-07-09 11:25:08
+2025-01-02,72.44,Costco Business,Meeting room supplies,HR,Office Supplies,2025-07-09 11:25:08
+2025-03-30,752.31,Marriott Hotels,Business trip,Operations,Travel,2025-07-09 11:25:08
+2025-03-02,2683.58,EY,Business consulting,Executive,Professional Services,2025-07-09 11:25:08
+2025-05-13,2126.8,General Supplies Co,Miscellaneous expense,Executive,Other,2025-07-09 11:25:08
+2025-02-22,342.77,Udemy Business,Online course,Sales,Training,2025-07-09 11:25:08
+2024-08-21,3670.92,Lenovo,Office furniture,Operations,Equipment,2025-07-09 11:25:08
+2025-01-24,1180.97,Uber,Business trip,HR,Travel,2025-07-09 11:25:08
+2025-05-04,1194.96,Pluralsight,Online course,Engineering,Training,2025-07-09 11:25:08
+2025-05-05,628.58,Hootsuite,Ad campaign,Engineering,Marketing,2025-07-09 11:25:08
+2025-07-04,1071.48,Adobe Creative,Content creation,Finance,Marketing,2025-07-09 11:25:08
+2024-10-02,2569.67,Google Cloud,Software licenses,Operations,IT Infrastructure,2025-07-09 11:25:08
+2025-06-17,1767.93,Udemy Business,Professional certification,Sales,Training,2025-07-09 11:25:08
+2024-09-12,1907.23,Airbnb,Conference travel,Finance,Travel,2025-07-09 11:25:08
+2024-09-27,2452.26,Expedia,Conference travel,Operations,Travel,2025-07-09 11:25:08
+2025-04-17,467.36,General Supplies Co,Miscellaneous expense,HR,Other,2025-07-09 11:25:08
+2025-06-19,3782.22,Deloitte Consulting,Accounting services,Operations,Professional Services,2025-07-09 11:25:08
+2025-01-13,2666.79,Canon Business,Computer equipment,Engineering,Equipment,2025-07-09 11:25:08
+2025-05-26,788.51,Waste Management,Internet service,HR,Utilities,2025-07-09 11:25:08
+2024-10-18,536.88,Miscellaneous Vendor,Miscellaneous expense,Operations,Other,2025-07-09 11:25:08
+2024-10-01,1635.11,Cisco Systems,Software/hardware,Engineering,Equipment,2025-07-09 11:25:08
+2024-09-21,8894.4,Uber,Client meeting travel,Sales,Travel,2025-07-09 11:25:08
+2024-10-22,2436.56,Xerox,Computer equipment,Finance,Equipment,2025-07-09 11:25:08
+2025-01-03,80.99,Costco Business,Desk supplies,Operations,Office Supplies,2025-07-09 11:25:08
+2024-11-20,785.97,Verizon Business,Phone service,Sales,Utilities,2025-07-09 11:25:08
+2024-12-15,12567.55,Workday,Employee benefits,Sales,Personnel,2025-07-09 11:25:08
+2024-11-14,1848.52,Uber,Conference travel,Finance,Travel,2025-07-09 11:25:08
+2024-07-17,1927.72,Udemy Business,Conference registration,Finance,Training,2025-07-09 11:25:08
+2025-05-14,3250.97,Wilson Law Firm,Accounting services,Executive,Professional Services,2025-07-09 11:25:08
+2025-02-10,630.5,Verizon Business,Monthly utilities,Finance,Utilities,2025-07-09 11:25:08
+2025-05-17,983.67,General Supplies Co,General business cost,Executive,Other,2025-07-09 11:25:08
+2024-10-18,14315.59,Salesforce,Content creation,Finance,Marketing,2025-07-09 11:25:08
+2025-06-10,683.16,Miscellaneous Vendor,General business cost,Finance,Other,2025-07-09 11:25:08
+2025-02-15,10759.74,BambooHR,Contractor payment,Marketing,Personnel,2025-07-09 11:25:08
+2025-06-12,4586.49,McKinsey,Legal consultation,HR,Professional Services,2025-07-09 11:25:08
+2024-10-14,516.76,Costco Business,Office materials,Sales,Office Supplies,2025-07-09 11:25:08
+2025-02-17,3435.19,Canva,Marketing tools subscription,Sales,Marketing,2025-07-09 11:25:08
+2025-07-06,786.04,Miscellaneous Vendor,General business cost,Operations,Other,2025-07-09 11:25:08
+2025-06-10,674.19,Home Depot,Meeting room supplies,Engineering,Office Supplies,2025-07-09 11:25:08
+2024-07-31,294.41,IKEA Business,Office materials,Sales,Office Supplies,2025-07-09 11:25:08
+2025-07-01,212.34,Office Depot,Office materials,Engineering,Office Supplies,2025-07-09 11:25:08
+2024-12-05,1253.98,Waste Management,Phone service,Operations,Utilities,2025-07-09 11:25:08
+2025-07-04,251.86,Business Services Inc,Miscellaneous expense,Operations,Other,2025-07-09 11:25:08
+2025-04-10,1764.92,Airbnb,Client meeting travel,Finance,Travel,2025-07-09 11:25:08
+2024-10-16,7528.46,Legal Services Inc,Legal consultation,Finance,Professional Services,2025-07-09 11:25:08
+2024-11-13,3592.16,Cisco Systems,Computer equipment,Executive,Equipment,2025-07-09 11:25:08
+2025-03-30,1341.07,Xerox,Software/hardware,Executive,Equipment,2025-07-09 11:25:08
+2024-10-02,877.24,General Supplies Co,General business cost,Sales,Other,2025-07-09 11:25:08
+2024-12-22,5995.38,Canva,Content creation,HR,Marketing,2025-07-09 11:25:08
+2025-03-25,5089.02,KPMG,Accounting services,HR,Professional Services,2025-07-09 11:25:08
+2024-08-03,3019.12,HP Enterprise,Office furniture,Marketing,Equipment,2025-07-09 11:25:08
+2025-04-09,1748.84,Xerox,Software/hardware,Finance,Equipment,2025-07-09 11:25:08
+2024-11-06,417.19,Google Cloud,Cloud hosting costs,HR,IT Infrastructure,2025-07-09 11:25:08
+2025-07-05,4274.68,Deloitte Consulting,Business consulting,HR,Professional Services,2025-07-09 11:25:08
+2025-07-04,1167.92,Slack,Software licenses,Operations,IT Infrastructure,2025-07-09 11:25:08
+2024-08-21,2299.55,Smith & Associates,Accounting services,Executive,Professional Services,2025-07-09 11:25:08
+2024-12-13,5596.0,Pacific Gas & Electric,Internet service,Sales,Utilities,2025-07-09 11:25:08
+2024-08-06,787.26,Cisco Systems,Software/hardware,Engineering,Equipment,2025-07-09 11:25:08
+2024-11-09,1830.24,Conference Registration,Online course,Engineering,Training,2025-07-09 11:25:08
+2024-09-22,1302.34,Pluralsight,Conference registration,Engineering,Training,2025-07-09 11:25:08
+2025-01-03,1111.51,Lyft,Conference travel,HR,Travel,2025-07-09 11:25:08
+2025-06-03,909.74,ConEd,Monthly utilities,Finance,Utilities,2025-07-09 11:25:08
+2025-04-10,1928.57,Enterprise Rent-A-Car,Business trip,Sales,Travel,2025-07-09 11:25:08
+2024-09-29,10751.66,LinkedIn Recruiter,Contractor payment,Engineering,Personnel,2025-07-09 11:25:08
+2025-02-20,4337.05,Pluralsight,Online course,Sales,Training,2025-07-09 11:25:08
+2025-01-15,1620.52,Uber,Conference travel,Marketing,Travel,2025-07-09 11:25:08
+2025-05-05,2853.27,Apple Business,Software/hardware,HR,Equipment,2025-07-09 11:25:08
+2025-03-16,728.54,Canon Business,Software/hardware,Finance,Equipment,2025-07-09 11:25:08
+2025-01-21,655.67,Home Depot,Meeting room supplies,Sales,Office Supplies,2025-07-09 11:25:08
+2024-10-24,1493.51,Microsoft Azure,API usage fees,Executive,IT Infrastructure,2025-07-09 11:25:08
+2025-06-01,2983.78,Deloitte Consulting,Legal consultation,Operations,Professional Services,2025-07-09 11:25:08
+2025-01-27,2922.4,Deloitte Consulting,Legal consultation,Operations,Professional Services,2025-07-09 11:25:08
+2025-03-03,2088.19,Canva,Marketing tools subscription,Sales,Marketing,2025-07-09 11:25:08
+2025-03-04,306.42,O'Reilly Media,Online course,Finance,Training,2025-07-09 11:25:08
+2025-01-11,3022.73,Lyft,Client meeting travel,Engineering,Travel,2025-07-09 11:25:08
+2025-02-08,713.51,Business Services Inc,Miscellaneous expense,Executive,Other,2025-07-09 11:25:08
+2025-05-02,391.73,Home Depot,Meeting room supplies,Finance,Office Supplies,2025-07-09 11:25:08
+2024-08-31,751.44,Verizon Business,Phone service,Engineering,Utilities,2025-07-09 11:25:08
+2025-01-26,421.26,Home Depot,Desk supplies,Sales,Office Supplies,2025-07-09 11:25:08
+2025-01-10,4860.74,EY,Business consulting,Marketing,Professional Services,2025-07-09 11:25:08
+2025-06-20,801.45,Miscellaneous Vendor,Miscellaneous expense,Executive,Other,2025-07-09 11:25:08
+2025-04-05,1350.77,Dell Business,Office furniture,HR,Equipment,2025-07-09 11:25:08
+2025-04-29,687.82,LinkedIn Learning,Professional certification,Operations,Training,2025-07-09 11:25:08
+2024-10-16,6618.27,Wilson Law Firm,Business consulting,Operations,Professional Services,2025-07-09 11:25:08
+2024-08-06,2046.47,GitHub,Cloud hosting costs,HR,IT Infrastructure,2025-07-09 11:25:08
+2025-06-28,1507.99,Mailchimp,Marketing tools subscription,HR,Marketing,2025-07-09 11:25:08
+2024-08-15,727.75,Waste Management,Internet service,HR,Utilities,2025-07-09 11:25:08
+2024-10-06,264.3,ConEd,Internet service,Sales,Utilities,2025-07-09 11:25:08
+2024-11-15,820.7,Docker,Software licenses,Operations,IT Infrastructure,2025-07-09 11:25:08
+2024-12-20,428.99,Waste Management,Internet service,Finance,Utilities,2025-07-09 11:25:08
+2025-06-04,651.01,Business Services Inc,Miscellaneous expense,Executive,Other,2025-07-09 11:25:08
+2024-12-29,4128.8,Gusto,Contractor payment,Finance,Personnel,2025-07-09 11:25:08
+2024-07-22,6259.42,Wilson Law Firm,Accounting services,Executive,Professional Services,2025-07-09 11:25:08
+2024-12-03,3412.28,Dell Business,Computer equipment,Marketing,Equipment,2025-07-09 11:25:08
+2025-05-02,4874.65,Legal Services Inc,Legal consultation,HR,Professional Services,2025-07-09 11:25:08
+2025-06-17,692.67,Waste Management,Monthly utilities,Sales,Utilities,2025-07-09 11:25:08
+2025-06-13,4523.23,Adobe Creative,Ad campaign,Marketing,Marketing,2025-07-09 11:25:08
+2024-11-12,1145.16,Mailchimp,Content creation,HR,Marketing,2025-07-09 11:25:08
+2025-04-13,3536.18,HubSpot,Content creation,Finance,Marketing,2025-07-09 11:25:08
+2025-03-07,609.06,General Supplies Co,Miscellaneous expense,Marketing,Other,2025-07-09 11:25:08
+2025-02-27,3236.61,Glassdoor,Recruitment fees,Operations,Personnel,2025-07-09 11:25:08
+2025-01-24,1360.67,Waste Management,Internet service,Sales,Utilities,2025-07-09 11:25:08
+2025-06-21,221.49,Zoom,API usage fees,HR,IT Infrastructure,2025-07-09 11:25:08
+2025-03-15,3987.8,Cisco Systems,Software/hardware,Executive,Equipment,2025-07-09 11:25:08
+2025-01-16,3699.91,Wilson Law Firm,Accounting services,Engineering,Professional Services,2025-07-09 11:25:08
+2025-06-18,2087.74,Google Ads,Marketing tools subscription,Sales,Marketing,2025-07-09 11:25:08
+2024-08-22,709.63,IKEA Business,Meeting room supplies,Sales,Office Supplies,2025-07-09 11:25:08
+2025-06-20,1033.52,Microsoft Azure,Software licenses,Marketing,IT Infrastructure,2025-07-09 11:25:08
+2024-09-02,3671.56,Canon Business,Office furniture,Marketing,Equipment,2025-07-09 11:25:08
+2024-12-01,653.0,Costco Business,Office materials,Sales,Office Supplies,2025-07-09 11:25:08
+2024-07-17,1844.41,Microsoft Azure,Software licenses,Finance,IT Infrastructure,2025-07-09 11:25:08
+2024-10-18,2005.48,Enterprise Rent-A-Car,Conference travel,Sales,Travel,2025-07-09 11:25:08
+2025-03-27,13655.57,BambooHR,Contractor payment,Operations,Personnel,2025-07-09 11:25:08
+2024-11-03,4823.38,HP Enterprise,Computer equipment,HR,Equipment,2025-07-09 11:25:08
+2025-04-09,868.38,Adobe Creative,Ad campaign,Marketing,Marketing,2025-07-09 11:25:08
+2025-03-26,4181.42,Hootsuite,Marketing tools subscription,Sales,Marketing,2025-07-09 11:25:08
+2025-03-05,1026.64,Verizon Business,Internet service,Sales,Utilities,2025-07-09 11:25:08
+2025-05-18,730.98,Amazon Business,Desk supplies,Executive,Office Supplies,2025-07-09 11:25:08
+2024-10-01,11151.41,Indeed Hiring,Recruitment fees,Executive,Personnel,2025-07-09 11:25:08
+2024-12-12,1780.24,HP Enterprise,Software/hardware,Executive,Equipment,2025-07-09 11:25:08
+2025-02-03,6976.87,PwC,Legal consultation,HR,Professional Services,2025-07-09 11:25:08
+2024-08-11,290.74,Business Services Inc,General business cost,Sales,Other,2025-07-09 11:25:08
+2025-05-24,606.43,Atlassian,API usage fees,Finance,IT Infrastructure,2025-07-09 11:25:08
+2024-12-05,541.44,Miscellaneous Vendor,Miscellaneous expense,HR,Other,2025-07-09 11:25:08
+2025-04-22,13355.77,PwC,Legal consultation,HR,Professional Services,2025-07-09 11:25:08
+2024-08-27,1803.07,Conference Registration,Conference registration,Sales,Training,2025-07-09 11:25:08
+2025-05-24,1421.22,HP Enterprise,Computer equipment,Marketing,Equipment,2025-07-09 11:25:08
+2024-09-21,1834.2,Heroku,Software licenses,Marketing,IT Infrastructure,2025-07-09 11:25:08
+2025-06-21,1685.67,Facebook Ads,Marketing tools subscription,Marketing,Marketing,2025-07-09 11:25:08
+2024-12-22,371.67,Marriott Hotels,Client meeting travel,HR,Travel,2025-07-09 11:25:08
+2025-03-02,2239.38,Canon Business,Software/hardware,Finance,Equipment,2025-07-09 11:25:08
+2025-05-31,2949.3,DigitalOcean,Software licenses,Executive,IT Infrastructure,2025-07-09 11:25:08
+2024-08-03,730.54,AWS Training,Conference registration,Finance,Training,2025-07-09 11:25:08
+2024-10-18,4268.23,Canva,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-10-23,7410.41,Facebook Ads,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-10-15,6784.24,Facebook Ads,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-10-26,1403.19,Mailchimp,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-10-17,6219.87,LinkedIn Marketing,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-10-26,5084.79,LinkedIn Marketing,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-10-10,1900.74,Mailchimp,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-10-11,5931.87,Mailchimp,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-10-28,3798.43,Hootsuite,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-10-13,7247.78,HubSpot,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-10-18,5182.47,Hootsuite,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-10-16,4094.85,HubSpot,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-10-24,4399.89,Hootsuite,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-10-19,1091.22,Adobe Creative,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-10-17,3185.58,Adobe Creative,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-10-12,1868.88,Facebook Ads,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-10-21,7379.84,Mailchimp,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-10-18,3029.46,Facebook Ads,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-10-06,4326.39,Canva,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-10-20,4209.19,HubSpot,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-11-12,6814.72,Canva,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-11-21,4426.82,Hootsuite,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-11-18,3144.81,Hootsuite,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-11-16,7467.42,Adobe Creative,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-11-24,6431.57,Adobe Creative,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-11-12,2924.34,Google Ads,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-11-21,2553.7,HubSpot,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-11-27,3868.18,Hootsuite,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-11-24,3236.02,Canva,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-11-10,6383.91,Facebook Ads,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-11-01,6882.85,LinkedIn Marketing,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-11-07,3770.11,HubSpot,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-11-26,5180.33,Mailchimp,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-11-24,6508.74,Hootsuite,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-11-17,2124.45,Hootsuite,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-11-09,7143.99,Canva,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-11-08,7257.87,LinkedIn Marketing,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-11-18,2032.82,Hootsuite,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-11-26,7384.64,LinkedIn Marketing,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-11-11,1056.29,Mailchimp,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-12-24,1161.74,HubSpot,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-12-19,7395.83,Facebook Ads,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-12-03,6251.2,Adobe Creative,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-12-03,5387.23,LinkedIn Marketing,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-12-28,6324.45,Google Ads,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-12-03,4402.05,LinkedIn Marketing,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-12-03,5760.12,Facebook Ads,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-12-10,5079.15,Google Ads,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-12-06,5511.19,Facebook Ads,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-12-12,2912.91,Google Ads,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-12-06,5510.11,Google Ads,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-12-09,5296.95,Facebook Ads,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-12-27,6056.76,Facebook Ads,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-12-09,5726.92,LinkedIn Marketing,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-12-21,2053.37,Hootsuite,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-12-08,3804.11,Salesforce,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-12-24,3413.89,Adobe Creative,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-12-08,5235.06,LinkedIn Marketing,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-12-26,6784.58,Google Ads,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-12-19,4206.33,Salesforce,Holiday campaign spending,Marketing,Marketing,2025-07-09 11:25:08
+2024-06-01,920.76,Delta Airlines,Summer conference travel,Engineering,Travel,2025-07-09 11:25:08
+2024-06-14,2281.02,Enterprise Rent-A-Car,Summer conference travel,Engineering,Travel,2025-07-09 11:25:08
+2024-06-04,2006.46,Hilton,Summer conference travel,Engineering,Travel,2025-07-09 11:25:08
+2024-06-25,1905.36,Uber,Summer conference travel,Engineering,Travel,2025-07-09 11:25:08
+2024-06-28,2879.11,Enterprise Rent-A-Car,Summer conference travel,Engineering,Travel,2025-07-09 11:25:08
+2024-06-24,2778.59,Expedia,Summer conference travel,Sales,Travel,2025-07-09 11:25:08
+2024-06-23,874.41,Delta Airlines,Summer conference travel,Sales,Travel,2025-07-09 11:25:08
+2024-06-20,2272.62,Delta Airlines,Summer conference travel,Sales,Travel,2025-07-09 11:25:08
+2024-06-06,728.0,Delta Airlines,Summer conference travel,Engineering,Travel,2025-07-09 11:25:08
+2024-06-09,2968.41,Delta Airlines,Summer conference travel,Sales,Travel,2025-07-09 11:25:08
+2024-06-20,459.91,United Airlines,Summer conference travel,Sales,Travel,2025-07-09 11:25:08
+2024-06-13,1361.63,Lyft,Summer conference travel,Engineering,Travel,2025-07-09 11:25:08
+2024-06-16,2562.7,Expedia,Summer conference travel,Engineering,Travel,2025-07-09 11:25:08
+2024-06-08,1429.53,United Airlines,Summer conference travel,Sales,Travel,2025-07-09 11:25:08
+2024-06-22,2192.48,Hilton,Summer conference travel,Engineering,Travel,2025-07-09 11:25:08
+2024-07-25,711.8,Expedia,Summer conference travel,Engineering,Travel,2025-07-09 11:25:08
+2024-07-28,473.03,United Airlines,Summer conference travel,Engineering,Travel,2025-07-09 11:25:08
+2024-07-25,944.89,Lyft,Summer conference travel,Engineering,Travel,2025-07-09 11:25:08
+2024-07-26,1363.44,Lyft,Summer conference travel,Sales,Travel,2025-07-09 11:25:08
+2024-07-18,1511.03,Marriott Hotels,Summer conference travel,Engineering,Travel,2025-07-09 11:25:08
+2024-07-09,490.18,Hilton,Summer conference travel,Sales,Travel,2025-07-09 11:25:08
+2024-07-07,3055.59,Expedia,Summer conference travel,Sales,Travel,2025-07-09 11:25:08
+2024-07-23,1559.39,Marriott Hotels,Summer conference travel,Engineering,Travel,2025-07-09 11:25:08
+2024-07-16,1224.46,Marriott Hotels,Summer conference travel,Sales,Travel,2025-07-09 11:25:08
+2024-07-23,1142.8,Delta Airlines,Summer conference travel,Engineering,Travel,2025-07-09 11:25:08
+2024-07-03,2324.4,Expedia,Summer conference travel,Engineering,Travel,2025-07-09 11:25:08
+2024-07-21,2740.71,Hilton,Summer conference travel,Engineering,Travel,2025-07-09 11:25:08
+2024-07-11,1664.98,Delta Airlines,Summer conference travel,Engineering,Travel,2025-07-09 11:25:08
+2024-07-20,1882.54,Hilton,Summer conference travel,Sales,Travel,2025-07-09 11:25:08
+2024-07-15,2771.09,United Airlines,Summer conference travel,Engineering,Travel,2025-07-09 11:25:08
+2024-08-10,2612.36,Hilton,Summer conference travel,Engineering,Travel,2025-07-09 11:25:08
+2024-08-13,610.47,Expedia,Summer conference travel,Engineering,Travel,2025-07-09 11:25:08
+2024-08-21,3220.52,Uber,Summer conference travel,Sales,Travel,2025-07-09 11:25:08
+2024-08-13,1044.51,Lyft,Summer conference travel,Sales,Travel,2025-07-09 11:25:08
+2024-08-16,989.66,Marriott Hotels,Summer conference travel,Sales,Travel,2025-07-09 11:25:08
+2024-08-13,2591.71,Lyft,Summer conference travel,Sales,Travel,2025-07-09 11:25:08
+2024-08-23,1987.57,United Airlines,Summer conference travel,Sales,Travel,2025-07-09 11:25:08
+2024-08-14,865.63,Lyft,Summer conference travel,Engineering,Travel,2025-07-09 11:25:08
+2024-08-03,2629.52,United Airlines,Summer conference travel,Sales,Travel,2025-07-09 11:25:08
+2024-08-22,3170.18,United Airlines,Summer conference travel,Sales,Travel,2025-07-09 11:25:08
+2024-08-26,478.69,United Airlines,Summer conference travel,Engineering,Travel,2025-07-09 11:25:08
+2024-08-16,1719.3,Delta Airlines,Summer conference travel,Sales,Travel,2025-07-09 11:25:08
+2024-08-05,2000.27,Uber,Summer conference travel,Engineering,Travel,2025-07-09 11:25:08
+2024-08-27,462.1,Delta Airlines,Summer conference travel,Engineering,Travel,2025-07-09 11:25:08
+2024-08-22,3141.83,Delta Airlines,Summer conference travel,Sales,Travel,2025-07-09 11:25:08

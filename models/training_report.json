@@ -1,0 +1,48 @@
+{
+  "training_completed_at": "2025-07-11T11:12:02.687960",
+  "data_file": "data/expenses.csv",
+  "training_samples": 1605,
+  "categories": [
+    "Travel",
+    "IT Infrastructure",
+    "Other",
+    "Training",
+    "Professional Services",
+    "Personnel",
+    "Marketing",
+    "Utilities",
+    "Equipment",
+    "Office Supplies"
+  ],
+  "category_distribution": {
+    "Travel": 192,
+    "Equipment": 164,
+    "Other": 141,
+    "IT Infrastructure": 148,
+    "Training": 152,
+    "Professional Services": 167,
+    "Office Supplies": 144,
+    "Utilities": 147,
+    "Marketing": 200,
+    "Personnel": 150
+  },
+  "model_performance": {
+    "random_forest": {
+      "cv_mean": 1.0,
+      "cv_std": 0.0,
+      "test_score": 1.0
+    },
+    "logistic_regression": {
+      "cv_mean": 1.0,
+      "cv_std": 0.0,
+      "test_score": 1.0
+    },
+    "naive_bayes": {
+      "cv_mean": 1.0,
+      "cv_std": 0.0,
+      "test_score": 1.0
+    }
+  },
+  "best_model": "random_forest",
+  "final_accuracy": 1.0
+}

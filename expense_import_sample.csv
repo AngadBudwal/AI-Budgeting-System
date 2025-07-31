@@ -1,0 +1,45 @@
+date,amount,currency,vendor,description,department,category
+2024-01-15,150.00,USD,Microsoft Azure,Cloud hosting subscription,Engineering,IT Infrastructure
+2024-01-16,25000.00,INR,Google Ads,Digital marketing campaign India,Marketing,Marketing
+2024-01-17,2500.00,CAD,Air Canada,Business travel Toronto to Vancouver,Executive,Travel
+2024-01-18,5000.00,TRY,Turkcell,Office internet and phone Turkey,Operations,Utilities
+2024-01-19,500.00,USD,Amazon Business,Office supplies and equipment,HR,Office Supplies
+2024-01-20,75000.00,INR,Infosys,Software development outsourcing,Engineering,Professional Services
+2024-01-21,1200.00,CAD,Best Buy Canada,MacBook Air for new developer,HR,Equipment
+2024-01-22,3000.00,TRY,Hilton Istanbul,Team retreat accommodation,HR,Travel
+2024-01-23,200.00,USD,LinkedIn Premium,Recruitment platform subscription,HR,Personnel
+2024-01-24,8000.00,INR,Oracle India,Database licensing renewal,Engineering,IT Infrastructure
+2024-01-25,800.00,CAD,Tim Hortons,Team meeting catering,Marketing,Office Supplies
+2024-01-26,1500.00,TRY,Turkish Airlines,Domestic business travel,Sales,Travel
+2024-01-27,300.00,USD,Zoom Pro,Video conferencing upgrade,Operations,Utilities
+2024-01-28,12000.00,INR,Coursera for Business,Employee training program,HR,Training
+2024-01-29,4500.00,CAD,Rogers Communications,Office telecommunications,Operations,Utilities
+2024-01-30,2200.00,TRY,Microsoft Turkey,Office 365 licenses,Engineering,IT Infrastructure
+2024-02-01,350.00,USD,GitHub Enterprise,Code repository hosting,Engineering,IT Infrastructure
+2024-02-02,18000.00,INR,Facebook Ads,Social media marketing India,Marketing,Marketing
+2024-02-03,3200.00,CAD,Shopify,E-commerce platform subscription,Operations,IT Infrastructure
+2024-02-04,4800.00,TRY,Amazon Web Services,Cloud infrastructure Turkey,Engineering,IT Infrastructure
+2024-02-05,750.00,USD,Slack Business,Team communication platform,Operations,Utilities
+2024-02-06,35000.00,INR,TCS,IT consulting services,Engineering,Professional Services
+2024-02-07,1800.00,CAD,Via Rail,Business travel Montreal,Sales,Travel
+2024-02-08,2800.00,TRY,Garanti Bank,Banking and transaction fees,Finance,Professional Services
+2024-02-09,450.00,USD,Dropbox Business,Cloud storage upgrade,Operations,IT Infrastructure
+2024-02-10,22000.00,INR,LinkedIn Marketing,Sponsored content campaign,Marketing,Marketing
+2024-02-11,950.00,CAD,Staples Canada,Office furniture and supplies,Operations,Office Supplies
+2024-02-12,3500.00,TRY,Turk Telekom,Internet and hosting services,Operations,Utilities
+2024-02-13,280.00,USD,Adobe Creative Cloud,Design software licenses,Marketing,IT Infrastructure
+2024-02-14,16000.00,INR,Wipro,Quality assurance testing,Engineering,Professional Services
+2024-02-15,2100.00,CAD,Expedia Canada,Hotel booking for conference,Executive,Travel
+2024-02-16,1900.00,TRY,Migros,Office catering and supplies,Operations,Office Supplies
+2024-02-17,600.00,USD,DocuSign,Digital signature platform,Operations,IT Infrastructure
+2024-02-18,28000.00,INR,IBM India,Enterprise software licensing,Engineering,IT Infrastructure
+2024-02-19,3800.00,CAD,Uber for Business,Corporate transportation,Executive,Travel
+2024-02-20,4200.00,TRY,Vodafone Turkey,Mobile service plans,Operations,Utilities
+2024-02-21,850.00,USD,Salesforce,CRM platform subscription,Sales,IT Infrastructure
+2024-02-22,45000.00,INR,Accenture India,Business consulting project,Executive,Professional Services
+2024-02-23,1600.00,CAD,Canadian Tire,Office maintenance supplies,Operations,Office Supplies
+2024-02-24,5500.00,TRY,Garanti Technology,Payment processing setup,Finance,Professional Services
+2024-02-25,320.00,USD,Mailchimp,Email marketing platform,Marketing,Marketing
+2024-02-26,19000.00,INR,Zomato for Business,Employee meal allowances,HR,Personnel
+2024-02-27,2900.00,CAD,WestJet,Team travel to Calgary,Sales,Travel
+2024-02-28,3700.00,TRY,Halkbank,Corporate banking services,Finance,Professional Services 

@@ -1,0 +1,6 @@
+date,amount,vendor,description,department,category
+2024-01-15,1250.00,AWS,Cloud hosting costs,Engineering,IT Infrastructure
+2024-01-16,750.50,Google Ads,Marketing campaign,Marketing,Marketing
+2024-01-17,2500.00,Dell Business,Laptop purchase,Engineering,Equipment
+2024-01-18,450.00,Uber,Business travel,Sales,Travel
+2024-01-19,15000.00,ADP Payroll,Monthly payroll,HR,Personnel

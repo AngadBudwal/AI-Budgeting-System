@@ -1,0 +1,2 @@
+# This file ensures the models directory is tracked in Git
+# Trained ML models (.pkl files) are stored here but excluded from version control 

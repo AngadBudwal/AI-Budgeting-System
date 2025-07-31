@@ -1,0 +1,16 @@
+date,amount,currency,vendor,description,department,category
+2024-01-15,150.00,USD,Microsoft Azure,Cloud hosting subscription,Engineering,IT Infrastructure
+2024-01-16,25000.00,INR,Google Ads,Digital marketing campaign India,Marketing,Marketing
+2024-01-17,2500.00,CAD,Air Canada,Business travel Toronto,Executive,Travel
+2024-01-18,5000.00,TRY,Turkcell,Office internet Turkey,Operations,Utilities
+2024-01-19,500.00,USD,Amazon Business,Office supplies,HR,Office Supplies
+2024-01-20,75000.00,INR,Infosys,Software development services,Engineering,Professional Services
+2024-01-21,1200.00,CAD,Best Buy,Laptop for new hire,HR,Equipment
+2024-01-22,3000.00,TRY,Istanbul Hotel,Team retreat accommodation,HR,Travel
+2024-01-23,200.00,USD,LinkedIn Premium,Recruitment platform,HR,Personnel
+2024-01-24,8000.00,INR,Oracle,Database licensing,Engineering,IT Infrastructure
+2024-01-25,800.00,CAD,Tim Hortons,Team meeting catering,Marketing,Office Supplies
+2024-01-26,1500.00,TRY,Turkish Airlines,Domestic travel,Sales,Travel
+2024-01-27,300.00,USD,Zoom Pro,Video conferencing,Operations,Utilities
+2024-01-28,12000.00,INR,Coursera,Employee training program,HR,Training
+2024-01-29,4500.00,CAD,Rogers Communications,Office phone system,Operations,Utilities 

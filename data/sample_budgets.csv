@@ -1,0 +1,17 @@
+department,category,period_start,period_end,allocated_amount,currency
+Engineering,IT Infrastructure,2024-02-01,2024-02-29,50000.00,USD
+Engineering,IT Infrastructure,2024-02-01,2024-02-29,3500000.00,INR
+Engineering,Equipment,2024-02-01,2024-02-29,15000.00,CAD
+Engineering,Professional Services,2024-02-01,2024-02-29,75000.00,TRY
+Marketing,Marketing,2024-02-01,2024-02-29,25000.00,USD
+Marketing,Marketing,2024-02-01,2024-02-29,1800000.00,INR
+Marketing,Travel,2024-02-01,2024-02-29,8000.00,CAD
+Marketing,Office Supplies,2024-02-01,2024-02-29,12000.00,TRY
+Sales,Travel,2024-02-01,2024-02-29,15000.00,USD
+Sales,Personnel,2024-02-01,2024-02-29,2500000.00,INR
+HR,Training,2024-02-01,2024-02-29,10000.00,CAD
+HR,Equipment,2024-02-01,2024-02-29,25000.00,TRY
+Operations,Utilities,2024-02-01,2024-02-29,5000.00,USD
+Operations,Office Supplies,2024-02-01,2024-02-29,350000.00,INR
+Finance,Professional Services,2024-02-01,2024-02-29,12000.00,CAD
+Executive,Travel,2024-02-01,2024-02-29,30000.00,TRY 
