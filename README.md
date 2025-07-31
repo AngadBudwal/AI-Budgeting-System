@@ -1,10 +1,10 @@
-# 🏢 Nsight AI Budgeting System
+# Nsight AI Budgeting System
 
 An intelligent budgeting and expense management system powered by AI/ML for predictive analytics, anomaly detection, and automated categorization with **multi-currency support** for global operations.
 
-## 🎯 Features
+## Features
 
-### ✅ Core Features (MVP)
+### Core Features (MVP)
 - **Multi-Currency Support**: Handle USD, INR, CAD, TRY for global Nsight operations
 - **Budget Forecasting**: Predict future spending using machine learning
 - **Expense Tracking & Auto-Categorization**: Automatically categorize expenses by vendor and description
@@ -12,21 +12,21 @@ An intelligent budgeting and expense management system powered by AI/ML for pred
 - **Interactive Dashboard**: Real-time insights with charts and alerts
 - **CSV Import/Export**: Easy data import and reporting capabilities with currency support
 
-### 🌍 Global Operations Support
-- **🇺🇸 USD**: United States operations
-- **🇮🇳 INR**: India operations  
-- **🇨🇦 CAD**: Canada operations
-- **🇹🇷 TRY**: Turkey operations
+### Global Operations Support
+- **USD**: United States operations
+- **INR**: India operations  
+- **CAD**: Canada operations
+- **TRY**: Turkey operations
 - **Currency-aware reporting**: Separate tracking and analysis by currency
 - **Flexible CSV imports**: Support currency columns or default currency assignment
 
-### 🔮 AI/ML Capabilities
+### AI/ML Capabilities
 - **Predictive Analytics**: Linear Regression and Prophet for time series forecasting
 - **Anomaly Detection**: Isolation Forest for outlier detection
 - **Smart Categorization**: Text classification for automatic expense categorization
 - **Trend Analysis**: Historical pattern recognition and future projections
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 [ Data Ingestion (CSV/API) ]
@@ -44,7 +44,7 @@ An intelligent budgeting and expense management system powered by AI/ML for pred
    - Budget vs Actual Reports
 ```
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Backend**: FastAPI, SQLAlchemy, SQLite
 - **Data Processing**: Pandas, NumPy
@@ -53,7 +53,7 @@ An intelligent budgeting and expense management system powered by AI/ML for pred
 - **Visualization**: Plotly, Matplotlib, Seaborn
 - **Development**: Python 3.8+, Pydantic, pytest
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Installation
 ```bash
@@ -87,7 +87,7 @@ streamlit run dashboard/main.py
 - **API Documentation**: http://localhost:8000/docs
 - **Dashboard**: http://localhost:8501
 
-## 📊 Data Structure
+## Data Structure
 
 ### Expense Records
 ```json
@@ -132,33 +132,33 @@ Marketing,Marketing,2024-02-01,2024-02-29,1800000.00,INR
 Sales,Travel,2024-02-01,2024-02-29,8000.00,CAD
 ```
 
-## 🎨 Dashboard Features
+## Dashboard Features
 
-### 📈 Budget Overview
+### Budget Overview
 - Total budget vs actual spending with currency display
 - Department-wise breakdown by currency
 - Category distribution across regions
 - Monthly trends and patterns
 
-### 🚨 Alerts & Anomalies
+### Alerts & Anomalies
 - Real-time spending alerts
 - Budget overrun warnings
 - Unusual transaction detection
 - Severity-based notifications
 
-### 🔮 Forecasting
+### Forecasting
 - Next month/quarter predictions
 - Confidence intervals
 - Historical trend analysis
 - Department-specific forecasts
 
-### 💰 Data Management
+### Data Management
 - **Add Expenses**: Manual entry with currency selection
 - **Add Budgets**: Budget allocation with multi-currency support
 - **CSV Import**: Bulk upload expenses and budgets
 - **Currency Support**: Automatic validation and conversion handling
 
-### 📤 CSV Import Features
+### CSV Import Features
 - **Drag & Drop**: Easy file upload interface
 - **Currency Detection**: Automatic currency column recognition
 - **Default Currency**: Set fallback currency for records without currency specified
@@ -166,9 +166,9 @@ Sales,Travel,2024-02-01,2024-02-29,8000.00,CAD
 - **Sample Files**: Download template CSV files for proper formatting
 - **Bulk Processing**: Handle thousands of records efficiently
 
-## 🧪 Development Timeline
+## Development Timeline
 
-### Week 1: Foundation ✅
+### Week 1: Foundation
 - [x] Project structure and configuration
 - [x] Database models and setup
 - [x] Core data models
@@ -193,7 +193,7 @@ Sales,Travel,2024-02-01,2024-02-29,8000.00,CAD
 - [ ] User documentation
 - [ ] Stakeholder presentation
 
-## 🔧 Configuration
+## Configuration
 
 Key settings in `src/config.py`:
 - Database connection
@@ -202,7 +202,7 @@ Key settings in `src/config.py`:
 - Anomaly threshold (default: 30%)
 - Expense categories
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Budgeting System/
@@ -224,7 +224,7 @@ Budgeting System/
 └── README.md           # This file
 ```
 
-## 💡 Value Proposition for Nsight
+## Value Proposition for Nsight
 
 1. **Predictive Cash Flow**: Accurate budget forecasting for better financial planning
 2. **Early Warning System**: Detect overspending before it impacts operations
@@ -232,7 +232,7 @@ Budgeting System/
 4. **Executive Insights**: Clear dashboards for leadership decision-making
 5. **Cost Savings**: Identify spending patterns and optimization opportunities
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch
@@ -240,10 +240,6 @@ Budgeting System/
 4. Add tests for new functionality
 5. Submit a pull request
 
-## 📞 Support
-
-For questions or support, contact the development team or create an issue in the repository.
-
 ---
 
-**Built with ❤️ for intelligent budget management** 
+**Built for intelligent budget management** 
